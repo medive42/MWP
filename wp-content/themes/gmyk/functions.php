@@ -930,3 +930,18 @@ function remove_dashboard_widgets() {
   
 }
 add_action('wp_dashboard_setup', 'remove_dashboard_widgets' );
+
+
+/**
+ * 将 WordPress 3.8 仪表盘设置为单栏布局
+ * https://www.wpdaxue.com/wordpress-3-8-single-column-dashboard.html
+ */
+function wpdx_screen_layout_columns($columns) {
+ $columns['dashboard'] = 1;
+ return $columns;
+}
+add_filter('screen_layout_columns', 'wpdx_screen_layout_columns');  function wpdx_screen_layout_dashboard() { return 1; }
+add_filter('get_user_option_screen_layout_dashboard', 'wpdx_screen_layout_dashboard');
+
+
+
