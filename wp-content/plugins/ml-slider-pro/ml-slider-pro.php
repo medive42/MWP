@@ -4,7 +4,7 @@
  * Plugin Name: MetaSlider - Pro Add-on Pack
  * Plugin URI: https://www.metaslider.com
  * Description: This Add-on pack unlocks the power of video slides, layer slides, post type slides as well as many other features.
- * Version: 2.12.0
+ * Version: 2.14.0
  * Author: Team Updraft
  * Author URI: https://www.metaslider.com
  * Copyright: 2017- Simba Hosting Ltd
@@ -31,14 +31,14 @@ class MetaSliderPro {
 	 *
 	 * @var string $version
 	 */
-	public $version = '2.12.0';
+	public $version = '2.14.0';
 
 	/**
 	 * Minimum required version
 	 *
 	 * @var string $lite_version_minimum
 	 */
-	public $lite_version_minimum = '3.10.0';
+	public $lite_version_minimum = '3.14.0';
 
 	/**
 	 * Init
@@ -76,12 +76,15 @@ class MetaSliderPro {
 		add_action('metaslider_register_admin_styles', array($this, 'register_admin_styles'), 10, 1);
 		add_filter('metaslider_css', array($this, 'get_public_css'), 11, 3);
 
-		if (!class_exists('Updraft_Manager_Updater_1_5')) {
+		add_action('metaslider_register_admin_components', array($this, 'metaslider_pro_add_components'));
+
+		if (!class_exists('Updraft_Manager_Updater_1_8')) {
 			include_once(METASLIDERPRO_PATH . 'vendor/davidanderson684/simba-plugin-manager-updater/class-udm-updater.php');
 		}
 		
 		try {
-			new Updraft_Manager_Updater_1_5('https://metaslider.com', 1, $this->get_real_file_path('ml-slider-pro/ml-slider-pro.php'));
+			// This path is the correct thing to use regardless of whether the user moved it - because if they did, then updates won't work anyway
+			new Updraft_Manager_Updater_1_8('https://www.metaslider.com', 1, 'ml-slider-pro/ml-slider-pro.php', array('require_login' => false));
 		} catch (Exception $e) {
 			error_log($e->getMessage().' at '.$e->getFile().' line '.$e->getLine());
 		}
@@ -97,6 +100,16 @@ class MetaSliderPro {
 
 		$post_feed = new MetaPostFeedSlide();
 		$post_feed->hooks();
+
+		include_once(METASLIDERPRO_PATH . 'modules/css_manager/loader.php');
+
+		// API related
+		// Default to WP (4.4) REST API but backup with admin ajax
+		require_once(METASLIDERPRO_PATH . 'routes/api.php');
+		$this->api = MetaSliderPro_Api::get_instance();
+		$this->api->setup();
+		$this->api->register_admin_ajax_hooks();
+		if (class_exists('WP_REST_Controller')) new MetaSliderPro_REST_Controller();
 	}
 
 	/**
@@ -123,29 +136,7 @@ class MetaSliderPro {
 	 * Load required classes
 	 */
 	private function includes() {
-
-		$autoload_is_disabled = defined('METASLIDER_AUTOLOAD_CLASSES') && METASLIDER_AUTOLOAD_CLASSES === false;
-
-		if ( function_exists( "spl_autoload_register" ) && ! ( $autoload_is_disabled ) ) {
-
-			// >= PHP 5.2 - Use auto loading
-			if ( function_exists( "__autoload" ) ) {
-				spl_autoload_register( "__autoload" );
-			}
-
-			spl_autoload_register( array( $this, 'autoload' ) );
-
-		} else {
-
-			// < PHP5.2 - Require all classes
-			foreach ( $this->plugin_classes() as $id => $path ) {
-				if ( is_readable( $path ) && ! class_exists( $id ) ) {
-				    require_once( $path );
-				}
-			}
-
-		}
-
+		spl_autoload_register( array( $this, 'autoload' ) );
 	}
 
 	/**
@@ -181,6 +172,22 @@ class MetaSliderPro {
 		wp_enqueue_style('jquery-ui-datepicker-theme', METASLIDERPRO_ASSETS_URL . 'jquery.ui.datepicker.theme.css', array(), METASLIDERPRO_VERSION); 
 		wp_enqueue_script('jquery-ui-datepicker');
 		wp_enqueue_script('metaslider-pro-admin-script', METASLIDERPRO_ASSETS_URL . 'admin.js', array('jquery', 'metaslider-admin-script'), METASLIDERPRO_VERSION);
+	}
+
+	/**
+	 * Registers and enqueues admin CSS
+	 */
+	public function metaslider_pro_add_components() {
+
+		$can_use_rest = class_exists('WP_REST_Controller');
+		wp_register_script('metaslider-pro-components-js', plugins_url('components.min.js', __FILE__), array(), METASLIDERPRO_VERSION);
+		wp_localize_script('metaslider-pro-components-js', 'metasliderpro_api', array(
+			'root' => $can_use_rest ? esc_url_raw(rest_url("metaslider-pro/v1/")) : false,
+			'nonce' => wp_create_nonce('wp_rest'),
+			'ajaxurl' => admin_url('admin-ajax.php'),
+			'supports_rest' => $can_use_rest
+		));
+		wp_enqueue_script('metaslider-pro-components-js');
 	}
 
 	/**
@@ -231,7 +238,7 @@ class MetaSliderPro {
 
 			// Creates a direct link to auto update the lite plugin
 			$nonce = wp_nonce_url(sprintf(self_admin_url('update.php?action=upgrade-plugin&plugin=%s'), str_replace('/', '%2F', $plugin)), 'upgrade-plugin_' . $plugin);
-			return new WP_Error('notice-warning', sprintf(__("The MetaSlider Pro Add-on Pack requires the MetaSlider plugin to be at least version %s. You may update it by clicking <a href='%s'>here</a>.", "ml-slider-pro"), $this->lite_version_minimum, $nonce));
+			return new WP_Error('notice-warning', sprintf(__("The MetaSlider Pro Add-on Pack requires the MetaSlider plugin (free version) to be at least version %s. You may update it by clicking <a href='%s'>here</a>.", "ml-slider-pro"), $this->lite_version_minimum, $nonce));
 		}
 		return true;
 	}
