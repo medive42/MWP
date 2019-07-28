@@ -944,4 +944,15 @@ add_filter('screen_layout_columns', 'wpdx_screen_layout_columns');  function wpd
 add_filter('get_user_option_screen_layout_dashboard', 'wpdx_screen_layout_dashboard');
 
 
+function remove_screen_options(){ return false;}
+add_filter('screen_options_show_screen', 'remove_screen_options');
+
+
+
+add_filter( 'contextual_help', 'wpse50723_remove_help', 999, 3 );
+function wpse50723_remove_help($old_help, $screen_id, $screen){
+    $screen->remove_help_tabs();
+    return $old_help;
+}
+
 
