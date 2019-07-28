@@ -1,0 +1,147 @@
+
+
+.indexTitle{height:52px; line-height:47px; overflow:hidden; position:relative;margin-top:-30px;}
+.indexTitle li{float:left; margin-right:20px; height:47px; overflow:hidden; font-size:18px; color:#333;}
+.indexTitle .liNow{color:#333; border-bottom:#4d8bcd solid 3px;}
+.indexTitle .more{position:absolute; z-index:1; right:0px; top:0px; font-size:15px;}
+
+
+
+
+
+
+.indexPart2{padding-top:15px;width:63.5%; height:270px; overflow:hidden; background:#fff; }
+.indexPart2 .tabContent{height:240px; position:relative;}
+.indexPart2 .imgDiv li{position:absolute; z-index:1; left:0px; top:25px; display:none;}
+.indexPart2 h1{font-size:16px; padding:20px 0 5px 0; width:265px;}
+.indexPart2 h1 a{color:#333;}
+.indexPart2 h1 a:hover{color:#5292c8;}
+.indexPart2 .content{line-height:18px; color:#333; text-align:justify;}
+.indexPart2 .more{text-align:right; padding:4px 0;}
+.indexPart2 .more a{color:#12579f;}
+.indexPart2 .more a:hover{text-decoration:underline;}
+.indexPart2 .list li{ background:url("ico3.gif")  no-repeat scroll 0px center; padding-left:20px; height:36px; line-height:42px; overflow:hidden; font-size:14px;}
+.indexPart2 .list li a{color:#000;}
+.indexPart2 .list li a:hover{color:#5292c8;}
+#pagelist div {margin-bottom: 5px;margin-right: 10px;margin-top: 5px;}
+
+
+
+
+
+
+.indexPart3{width:35%; height:270px; overflow:hidden; position:relative;background:#fff; padding-top:15px;}
+.indexPart3 .list{width:302px; height:250px; position:relative; overflow:hidden;}
+.indexPart3 .list ul{width:3000%;}
+.indexPart3 .list li{float:left; width:190px; padding-left:80px; height:250px; position:relative; overflow:hidden;}
+.indexPart3 .list .imgDiv{position:absolute; z-index:1; left:0px; top:25px;}
+.indexPart3 .list .name{background:url(bg.png) ; position:absolute; z-index:2; left:0px; top:206px; width:95px; height:28px; line-height:28px; overflow:hidden;}
+.indexPart3 .list .name a{color:#FFF; padding-left:10px; font-size:14px;}
+.indexPart3 .list h2{padding:0px 0 15px 0; line-height:23px; font-weight:100; font-size:16px; margin-bottom:-38px; height:100px; overflow:hidden;}
+.indexPart3 .list h2 a{color:#333;font-size:14px;font-weight:bold;}
+.indexPart3 .list h2 a:hover{color:#5292c8;}
+.indexPart3 .list .content{line-height:18px; text-align:justify; padding:14px 0 3px 0;}
+.indexPart3 .list .btnDiv a{display:block; width:85px; height:28px; line-height:28px; text-align:center; background:#3679bf; color:#FFF;}
+.indexPart3 .list .btnDiv a:hover{text-decoration:underline;}
+.indexPart3 .leftBtn{display:block; background:url(leftBtn2.png)  left top no-repeat; width:29px; height:28px; overflow:hidden; position:absolute; z-index:3; left:120px; top:243px;}
+.indexPart3 .rightBtn{display:block; background:url(rightBtn2.png)  left top no-repeat; width:29px; height:28px; overflow:hidden; position:absolute; z-index:3; left:148px; top:243px;}
+
+.indexPart4{height:270px; width:30%; overflow:hidden; position:relative;}
+.indexPart4 .tabContent{padding-top:20px;}
+.indexPart4 .tabContent h1{line-height:24px; padding:0 0 10px 0;}
+.indexPart4 .tabContent h1 a{color:#333;}
+.indexPart4 .tabContent h1 a:hover{color:#5292c8;}
+.indexPart4 .tabContent li{height:32px; line-height:32px; overflow:hidden; font-size:15px;}
+.indexPart4 .tabContent li a{color:#333;}
+.indexPart4 .tabContent li a:hover{color:#5292c8;}
+.indexPart4 .list{padding-top:18px;}
+.indexPart4 .list li{float:left; width:300px; height:32px; line-height:26px; overflow:hidden; font-size:15px;}
+.indexPart4 .list li a{color:#333;}
+.indexPart4 .list li a:hover{color:#5292c8;}
+
+
+.sideNav{margin-bottom:30px; background:#f4f4f4;}
+.sideNav h1{font-size:18px; height:45px; line-height:43px; text-align:center; overflow:hidden; background:#007bc4; color:#FFF;}
+.sideNav a{display:block; height:42px; line-height:40px; padding-left:40px; overflow:hidden; border-top:#e6e6e6 solid 1px; background:url(sideNav.gif)  20px center no-repeat; font-size:18px;}
+.sideNav a:hover, .sideNav .aNow{background:#6aa2d1 url(sideNav1.gif)  30px center no-repeat; color:#FFF; position:relative; width:211px; padding-left:50px; left:-25px;}
+.sideNav a:hover{background:#12579f url(sideNav1.gif)  30px center no-repeat;}
+
+
+
+.newsList{margin-bottom:30px; }
+.newsList li{line-height:45px; font-size:14px; border-bottom:1px dashed #dedede; background:#f4f4f4; overflow:hidden; position:relative;}
+.newsList li span{position:absolute; z-index:1; top:0px; left:20px;}
+.newsList li a{/*background:url(ico3.gif)  23px center no-repeat;*/ padding-left:38px;}
+.newsList li a p{/*background:url(ico3.gif)  23px center no-repeat;*/ padding-left:38px;}
+
+
+
+.newShow .btnDiv{padding-top:25px; text-align:right;}
+.btnDiv{padding-bottom:0px; margin-top:28%;}
+.newShow .btnDiv a{display:inline-block; width:155px; height:35px; line-height:35px; text-align:center; overflow:hidden; background:#5088b7; color:#FFF; margin-left:10px; font-size:14px;}
+
+
+.aboutPart2{overflow:hidden; position:relative;}
+.aboutPart2 ul{width:100%;}
+.aboutPart2 li{float:left; width:150px; height:275px; overflow:hidden; background:#f4f4f4; margin-right:32px; margin-bottom:25px;}
+.aboutPart2 h1{padding:15px 0 10px; color:#333; font-size:18px; text-align:center;}
+.aboutPart2 h1 img{position:relative; top:5px; left:-6px;}
+.aboutPart2 .content{line-height:18px; text-align:justify; padding:0 25px; font-size:12px;}
+
+
+
+.ExpertsPart3{min-height:200px; _height:240px; position:relative; padding-bottom:20px;}
+.ExpertsPart3 .imgDiv{position:absolute; z-index:1; left:0px; top:25px;}
+.ExpertsPart3 .btn{position:absolute; z-index:1; right:0px; top:25px; display:block; width:155px; height:35px; line-height:35px; text-align:center; overflow:hidden; background:#5088b7; color:#FFF; font-size:14px;}
+.ExpertsPart3 .content{font-size:14px; line-height:26px; padding:40px 0 0 192px; min-height:205px; _height:215px;}
+.ExpertsPart3 .content b{color:#474747;}
+.ExpertsPart3 th{height:57px; background:#e8e7e7; border-right:#f1f1f1 solid 1px; font-size:14px; color:#474747;}
+.ExpertsPart3 td{height:60px; background:#f4f4f4; border-right:#fff solid 1px; border-top:#fff solid 1px; text-align:center; font-size:14px; line-height:20px;}
+.ExpertsPart3 .td_01{background:#eee;}
+.ExpertsPart3 .td_02{background:#509eb7; color:#FFF; font-size:12px;}
+
+.ExpertsPart3{text-align:justify; line-height:24px; padding:15px 0 15px 0; text-indent:2em;}
+
+
+
+
+
+.cios {height: 90px; overflow: hidden; position: absolute; width: 157px;}
+.History{min-height:500px; _height:500px; background:#fafafa url(../image/History.gif) 279px top repeat-y; position:relative; padding-top:40px;}
+.History .bgT{position:absolute; z-index:1; left:0px; top:0px; height:40px; width:350px; background:#fafafa;}
+.History .bgB{position:absolute; z-index:1; left:220px; bottom:0px; height:65px; width:70px; background:#fafafa;}
+.bgB{ left:235px;}
+.History li{padding-bottom:0px;}
+
+.History h1 { cursor:pointer; background: url("../image/HistoryIco1.gif") no-repeat scroll 189px top;  color: #333;  font-size: 18px;  height: 105px;  left: 50px;  line-height: 40px;  overflow: hidden;  position: relative; width: 710px;}
+.History h1 span{display:inline-block; text-align:right; color:#333; width:182px; text-align:right; padding-right:80px;}
+.History .list{display:none;}
+.History .imgDiv{padding:0 0 0 306px;}
+.History dl{min-height:25px; _height:25px; position:relative; color:#5088b7;}
+.History dt{position:absolute; z-index:1; left:0px; top:20px; width:253px; padding-right:40px; height:25px; line-height:25px; overflow:hidden; text-align:right; font-size:16px; background:url(../image/ico7.gif) right top no-repeat;}
+.History dd{padding:20px 40px 20px 305px; line-height:18px;}
+.History .liNow h1{background:url(../image/HistoryIco2.gif) 189px top no-repeat; color:#5088b7;}
+.History .liNow h1 span{color:#5088b7;}
+.History .liNow .list{display:block;}
+.form form {bottom: 0; height: 126px; position: absolute; right: 46px;width: 179px;}
+.fl.fadeFlash.indexflash {top: 22px;}
+.winlist { background: none repeat scroll 0 0 #cce8f6; border: medium none; left: 0; position: absolute; width: 274px; z-index: 999; display: none; }
+.winlist td {  border: 1px solid #fff;}
+.fr.DoctorPart2 ul { position: relative; }
+
+
+
+
+
+.aboutPart11{height:280px; overflow:hidden; position:relative;}
+.aboutPart11 .contentDiv{position:absolute; z-index:10; top:0px; right:0px; background:url(../img/bg.png); width:250px; height:270px; overflow:hidden; color:#FFF;}
+.aboutPart11 h1{text-align:center; font-size:18px; font-weight:bold; padding:50px 0 10px 0;}
+.aboutPart11 .content{line-height:18px; text-align:justify; width:175px; overflow:hidden; margin:0 auto;}
+
+
+.aboutPart22{width:880px; overflow:hidden; position:relative;}
+.aboutPart22 ul{width:120%;}
+.aboutPart22 li{float:left; width:427px; height:355px; overflow:hidden; background:#f4f4f4; margin-right:32px; margin-bottom:32px;}
+.aboutPart22 h1{padding:15px 0 10px; color:#333; font-size:18px; text-align:center;}
+.aboutPart22 h1 img{position:relative; top:5px; left:-6px;}
+.aboutPart22 .content{line-height:18px; text-align:justify; padding:0 25px; font-size:12px;}
