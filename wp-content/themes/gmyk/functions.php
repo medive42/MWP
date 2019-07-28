@@ -850,3 +850,15 @@ if($tag->name == $current_tag) return $tag->term_id; //获得当前TAG标签ID�
 //使ueditor插件在5.0+版本生效
 add_filter('use_block_editor_for_post', '__return_false');
 
+
+
+/**
+ * WordPress 去除后台标题中的“—— WordPress”
+ * https://www.wpdaxue.com/remove-wordpress-from-admin-title.html
+ * 参考代码见 https://core.trac.wordpress.org/browser/tags/4.2.2/src/wp-admin/admin-header.php#L44
+ */
+add_filter('admin_title', 'wpdx_custom_admin_title', 10, 2);
+function wpdx_custom_admin_title($admin_title, $title){
+ return $title.' &lsaquo; '.get_bloginfo('name');
+}
+
