@@ -1,4 +1,5 @@
 <?php
+define('WP_CACHE', true); // WP-Optimize Cache
 /**
  * WordPress基础配置文件。
  *
@@ -17,26 +18,19 @@
  *
  * @package WordPress
  */
-
 // ** MySQL 设置 - 具体信息来自您正在使用的主机 ** //
 /** WordPress数据库的名称 */
 define('DB_NAME', 'wp');
-
 /** MySQL数据库用户名 */
 define('DB_USER', 'root');
-
 /** MySQL数据库密码 */
 define('DB_PASSWORD', 'root');
-
 /** MySQL主机 */
 define('DB_HOST', 'localhost');
-
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8mb4');
-
 /** 数据库整理类型。如不确定请勿更改 */
 define('DB_COLLATE', '');
-
 /**#@+
  * 身份认证密钥与盐。
  *
@@ -54,9 +48,7 @@ define('AUTH_SALT',        '3CVFDts,`Xs1k1jy|5Xo@/V]`.XFR+JU(?LU2-+-=?E4;-h=N8xH
 define('SECURE_AUTH_SALT', 'q0H=eYXC0HD>yDa@EKGTYA}@It}zn#x?:n,]^[m`NmJ(=O(%[>muW; ,d{w%4-o~');
 define('LOGGED_IN_SALT',   '8L58DWB^o}GOXBSK#M72c$]>LKR1$T7t;l$@U~;TD$3T{FI;,B`c5m_)<c*S--AM');
 define('NONCE_SALT',       '=>k(B,@@XS$_({:JL;L^UFfnw-X%gXYIhcS#tjb).1;XFR(m-V?sWpav|%l8ui%5');
-
 /**#@-*/
-
 /**
  * WordPress数据表前缀。
  *
@@ -64,7 +56,6 @@ define('NONCE_SALT',       '=>k(B,@@XS$_({:JL;L^UFfnw-X%gXYIhcS#tjb).1;XFR(m-V?s
  * 不同的数据表前缀。前缀名只能为数字、字母加下划线。
  */
 $table_prefix  = 'wp_';
-
 /**
  * 开发者专用：WordPress调试模式。
  *
@@ -76,12 +67,9 @@ $table_prefix  = 'wp_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define('WP_DEBUG', false);
-
 /* 好了！请不要再继续编辑。请保存本文件。使用愉快！ */
-
 /** WordPress目录的绝对路径。 */
 if ( !defined('ABSPATH') )
 	define('ABSPATH', dirname(__FILE__) . '/');
-
 /** 设置WordPress变量和包含文件。 */
 require_once(ABSPATH . 'wp-settings.php');

@@ -1,4 +1,3 @@
-
 <?php
 /**
  * WordPress User Page
@@ -35,7 +34,7 @@ function login_header( $title = 'Log In', $message = '', $wp_error = null ) {
 	global $error, $interim_login, $action;
 
 	// Don't index any of these forms
-	add_action( 'login_head', 'wp_no_robots' );
+	add_action( 'login_head', 'wp_sensitive_page_meta' );
 
 	add_action( 'login_head', 'wp_login_viewport_meta' );
 
@@ -438,9 +437,6 @@ setcookie( TEST_COOKIE, 'WP Cookie check', 0, COOKIEPATH, COOKIE_DOMAIN, $secure
 if ( SITECOOKIEPATH != COOKIEPATH )
 	setcookie( TEST_COOKIE, 'WP Cookie check', 0, SITECOOKIEPATH, COOKIE_DOMAIN, $secure );
 
-$lang            = ! empty( $_GET['wp_lang'] ) ? sanitize_text_field( $_GET['wp_lang'] ) : '';
-$switched_locale = switch_to_locale( $lang );
-
 /**
  * Fires when the login form is initialized.
  *
@@ -501,10 +497,6 @@ case 'postpass' :
 	}
 	setcookie( 'wp-postpass_' . COOKIEHASH, $hasher->HashPassword( wp_unslash( $_POST['post_password'] ) ), $expire, COOKIEPATH, COOKIE_DOMAIN, $secure );
 
-	if ( $switched_locale ) {
-	    restore_previous_locale();
-	}
-
 	wp_safe_redirect( wp_get_referer() );
 	exit();
 
@@ -520,10 +512,6 @@ case 'logout' :
 	} else {
 		$redirect_to = 'wp-login.php?loggedout=true';
 		$requested_redirect_to = '';
-	}
-
-	if ( $switched_locale ) {
-	    restore_previous_locale();
 	}
 
 	/**
@@ -587,7 +575,7 @@ case 'retrievepassword' :
 ?>
 
 <form name="lostpasswordform" id="lostpasswordform" action="<?php echo esc_url( network_site_url( 'wp-login.php?action=lostpassword', 'login_post' ) ); ?>" method="post">
-	<p class="abccc">
+	<p>
 		<label for="user_login" ><?php _e( 'Username or Email Address' ); ?><br />
 		<input type="text" name="user_login" id="user_login" class="input" value="<?php echo esc_attr($user_login); ?>" size="20" /></label>
 	</p>
@@ -618,10 +606,6 @@ endif;
 
 <?php
 login_footer('user_login');
-
-if ( $switched_locale ) {
-    restore_previous_locale();
-}
 
 break;
 
@@ -748,10 +732,6 @@ endif;
 <?php
 login_footer('user_pass');
 
-if ( $switched_locale ) {
-    restore_previous_locale();
-}
-
 break;
 
 case 'register' :
@@ -834,10 +814,6 @@ case 'register' :
 
 <?php
 login_footer('user_login');
-
-if ( $switched_locale ) {
-    restore_previous_locale();
-}
 
 break;
 
@@ -1024,27 +1000,26 @@ default:
 ?>
 
 <form name="loginform" id="loginform" action="<?php echo esc_url( site_url( 'wp-login.php', 'login_post' ) ); ?>" method="post">
-<div class="page">
-  
-  <div class="page__demo">
-    <div class="main-container page__container">
-	  <span class="login_title">登录</span>
-      <div class="page__section">
-        <label class="field field_type2">
-          <input class="field__input" style="box-shadow:none" type="text" placeholder="  " name="log" id="user_login"<?php echo $aria_describedby_error; ?> class="input" value="<?php echo esc_attr( $user_login ); ?>" size="30">
-          <span class="field__label">用户名或邮箱地址</span>
-          <span class="field__line"></span>
-        </label>
-      </div>
-      <div class="page__section"> 
-        <label class="field field_type2">
-          <input class="field__input" style="box-shadow:none" type="password" name="pwd" placeholder=" " id="user_pass"<?php echo $aria_describedby_error; ?> class="input" value="" size="30">
-          <span class="field__label">密码</span>
-          <span class="field__line"></span>
-        </label>
-		<p class="submit">
-		<input type="submit" style="box-shadow:none" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="<?php esc_attr_e('Log In'); ?>" />
-	<?php	if ( $interim_login ) { ?>
+	<p>
+		<label for="user_login"><?php _e( 'Username or Email Address' ); ?><br />
+		<input type="text" name="log" id="user_login"<?php echo $aria_describedby_error; ?> class="input" value="<?php echo esc_attr( $user_login ); ?>" size="20" /></label>
+	</p>
+	<p>
+		<label for="user_pass"><?php _e( 'Password' ); ?><br />
+		<input type="password" name="pwd" id="user_pass"<?php echo $aria_describedby_error; ?> class="input" value="" size="20" /></label>
+	</p>
+	<?php
+	/**
+	 * Fires following the 'Password' field in the login form.
+	 *
+	 * @since 2.1.0
+	 */
+	do_action( 'login_form' );
+	?>
+	<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever" <?php checked( $rememberme ); ?> /> <?php esc_html_e( 'Remember Me' ); ?></label></p>
+	<p class="submit">
+		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="<?php esc_attr_e('Log In'); ?>" />
+<?php	if ( $interim_login ) { ?>
 		<input type="hidden" name="interim-login" value="1" />
 <?php	} else { ?>
 		<input type="hidden" name="redirect_to" value="<?php echo esc_attr($redirect_to); ?>" />
@@ -1054,8 +1029,10 @@ default:
 <?php   endif; ?>
 		<input type="hidden" name="testcookie" value="1" />
 	</p>
-      </div>
-      <span class="lostpassword">
+</form>
+
+<?php if ( ! $interim_login ) { ?>
+<p id="nav">
 <?php if ( ! isset( $_GET['checkemail'] ) || ! in_array( $_GET['checkemail'], array( 'confirm', 'newpass' ) ) ) :
 	if ( get_option( 'users_can_register' ) ) :
 		$registration_url = sprintf( '<a href="%s">%s</a>', esc_url( wp_registration_url() ), __( 'Register' ) );
@@ -1068,18 +1045,7 @@ default:
 	?>
 	<a href="<?php echo esc_url( wp_lostpassword_url() ); ?>"><?php _e( 'Lost your password?' ); ?></a>
 <?php endif; ?>
-<a href="/" style="
-    float: right;
-">回到首页</a>
-</span>	
-    </div>
-  </div>
-</div>
-
-</form>
-
-<?php if ( ! $interim_login ) { ?>
-
+</p>
 <?php } ?>
 
 <script type="text/javascript">
@@ -1129,10 +1095,6 @@ try {
 
 <?php
 login_footer();
-
-if ( $switched_locale ) {
-    restore_previous_locale();
-}
 
 break;
 } // end action switch

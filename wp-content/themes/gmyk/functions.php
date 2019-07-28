@@ -956,4 +956,13 @@ function wpse50723_remove_help($old_help, $screen_id, $screen){
     return $old_help;
 }
 
-
+//放在functions.php中 去除部分可能无用标签
+remove_action( 'wp_head', 'feed_links' );
+remove_action( 'wp_head', 'feed_links_extra',3);
+remove_action( 'wp_head', 'rel_canonical' );
+remove_action( 'wp_head', 'feed_links' );
+remove_action( 'wp_head', 'rsd_link' );
+remove_action( 'wp_head', 'wlwmanifest_link' );
+remove_action( 'wp_head', 'adjacent_posts_rel_link_wp_head');
+remove_action( 'wp_head', 'wp_generator' );
+remove_action( 'wp_head', 'wp_shortlink_wp_head', 10, 0 );
