@@ -862,3 +862,21 @@ function wpdx_custom_admin_title($admin_title, $title){
  return $title.' &lsaquo; '.get_bloginfo('name');
 }
 
+
+
+
+/**
+ * 隐藏核心更新提示 WP 3.0+
+ * 来自 http://wordpress.org/plugins/disable-wordpress-core-update/
+ */
+add_filter( 'pre_site_transient_update_core', create_function( '$a', "return null;" ) );  /**
+ * 隐藏插件更新提示 WP 3.0+
+ * 来自 http://wordpress.org/plugins/disable-wordpress-plugin-updates/
+ */
+remove_action( 'load-update-core.php', 'wp_update_plugins' );
+add_filter( 'pre_site_transient_update_plugins', create_function( '$b', "return null;" ) );  /**
+ * 隐藏主题更新提示 WP 3.0+
+ * 来自 http://wordpress.org/plugins/disable-wordpress-theme-updates/
+ */
+remove_action( 'load-update-core.php', 'wp_update_themes' );
+add_filter( 'pre_site_transient_update_themes', create_function( '$c', "return null;" ) );
