@@ -106,7 +106,7 @@ input{padding:0px; border:0px; background:transparent; font-family:"微软雅黑
 .sNav_03{padding-left:337px;}
 .sNav_04{padding-left:447px;}*/
 
-.pageNow{padding:10px 0 10px 0; color:#909090; font-size:17px;}
+.pageNow{padding:10px 0 10px 0; color:#909090; font-size:17px;line-height:30px;}
 .pageNow a{color:#313131;}
 .pageNow a:hover{color:#5292c8;}
 .sNav_02 ul li {width: 130px;}

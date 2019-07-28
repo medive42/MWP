@@ -83,7 +83,7 @@
 
 .aboutPart2{overflow:hidden; position:relative;}
 .aboutPart2 ul{width:100%;}
-.aboutPart2 li{float:left; width:150px; height:275px; overflow:hidden; background:#f4f4f4; margin-right:32px; margin-bottom:25px;}
+.aboutPart2 li{float:left; width:150px; height:275px; overflow:hidden; background:#f4f4f4; margin-right:32px; margin-bottom:20px;}
 .aboutPart2 h1{padding:15px 0 10px; color:#333; font-size:18px; text-align:center;}
 .aboutPart2 h1 img{position:relative; top:5px; left:-6px;}
 .aboutPart2 .content{line-height:18px; text-align:justify; padding:0 25px; font-size:12px;}

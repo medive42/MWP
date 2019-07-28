@@ -21,7 +21,7 @@
 		</div>	
       
 	  
-            <div class="moduletitle clearfix" style="padding-bottom:0;margin-bottom:0;">
+            <div class="moduletitle clearfix" style="padding-bottom:10;margin-bottom:0;">
 <span class="clear_f"></span>
                 <h4>科室简介<span>Doctor</span></h4>
             </div>
@@ -53,13 +53,13 @@
 		    if(have_posts()) : while (have_posts()) : the_post();
 			?>			  
                 <ul style=="padding-left:10px;">
-                        <li style="width:180px;margin-bottom:25px;margin-right:30px;height:288px;">
+                        <li href="<?php the_permalink();?>" style="width:180px;margin-bottom:25px;margin-right:30px;height:288px;">
                         <img style="padding-bottom:5px;height:245px;" src="<?php
                     $array_image_url = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), array(200,100));
                      echo $array_image_url[0]; ?>" />
                         <a href="<?php the_permalink();?>" >
-                            <span style="font-size:14px;line-height:17px;"><?php $name= get_post_meta($post->ID, '姓名', true); echo $name;?></span>
-                            <em style="font-size:13px;line-height:15px;"><?php $section= get_post_meta($post->ID, '科室', true); echo $section;?></em>
+                            <span style="font-size:14px;line-height:18px;"><?php $name= get_post_meta($post->ID, '姓名', true); echo $name;?></span>
+                            <span style="font-size:13px;line-height:16px;width:180px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;"><?php $section= get_post_meta($post->ID, '科室', true); echo $section;?></span>
                         </a>
                         <a class="floatdoctor" href="<?php the_permalink();?>" >&nbsp;</a>
                        </li>
@@ -79,7 +79,7 @@
 
 	  
       <div class="aboutPart2" style="padding-top:10px;width:880px;">
-	              <div class="moduletitle clearfix" style="padding-bottom:0;margin-bottom:0;">
+	              <div class="moduletitle clearfix" style="padding-bottom:10;margin-bottom:0;">
 
                 <h4>医疗设备<span>Equipment</span></h4>
             </div>

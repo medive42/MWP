@@ -149,7 +149,7 @@
 
         </div>
         <div class="fr indexPart3" style="width:382px;height:285px;padding-top:0;">
-            <div class="moduletitle clearfix" >
+            <div class="moduletitle clearfix" style="line-height:16px;">
                 <h4>专家风采 <span>medical service</span><a class="inmore" href="/?page_id=320" >更多 +</a></h4>
 				
             </div>
@@ -223,7 +223,7 @@
                                 
   								 
 								    <?php foreach ($posts as $post) : setup_postdata($post); ?>  
-                                    <dt style="height:33px;padding-left:20px;padding-top:4px;background:url(<?php echo get_theme_file_uri(''); ?>/img/sideNav.gif) no-repeat scroll 0px center;">【
+                                    <dt style="height:33px;line-height:26px;padding-left:20px;padding-top:4px;background:url(<?php echo get_theme_file_uri(''); ?>/img/sideNav.gif) no-repeat scroll 0px center;">【
 									<?php $category = get_the_category();
 									echo $category[0]->cat_name;?>】
 									<a href="<?php the_permalink()?>" style="font-size:16px;"> <?php customTitle(70); ?> </a> 
