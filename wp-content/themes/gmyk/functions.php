@@ -900,14 +900,33 @@ function right_admin_footer_text($text) {
 }
 
 
-
-
-
-
 //固定后台管理侧边栏
 function Bing_fixed_adminmenuwrap(){
 	echo '<style type="text/css">#adminmenuwrap{position:fixed;left:0px;z-index:2;}</style>';
 };
 add_action('admin_head', 'Bing_fixed_adminmenuwrap');
 
+//去除header冗余代码
+remove_action('wp_head', 'feed_links_extra', 3);
+remove_action('wp_head', 'rsd_link');
+remove_action('wp_head', 'wlwmanifest_link');
+remove_action('wp_head', 'index_rel_link');
+remove_action('wp_head', 'start_post_rel_link', 10, 0);
+remove_action('wp_head', 'wp_generator');
 
+
+
+function remove_dashboard_widgets() {
+    global $wp_meta_boxes;
+  
+    unset($wp_meta_boxes['dashboard']['side']['core']['dashboard_quick_press']);
+    unset($wp_meta_boxes['dashboard']['normal']['core']['dashboard_incoming_links']);
+    unset($wp_meta_boxes['dashboard']['normal']['core']['dashboard_right_now']);
+    unset($wp_meta_boxes['dashboard']['normal']['core']['dashboard_plugins']);
+    unset($wp_meta_boxes['dashboard']['normal']['core']['dashboard_recent_drafts']);
+    unset($wp_meta_boxes['dashboard']['normal']['core']['dashboard_recent_comments']);
+    unset($wp_meta_boxes['dashboard']['side']['core']['dashboard_primary']);
+    unset($wp_meta_boxes['dashboard']['side']['core']['dashboard_secondary']);
+  
+}
+add_action('wp_dashboard_setup', 'remove_dashboard_widgets' );
