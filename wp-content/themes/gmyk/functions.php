@@ -899,6 +899,10 @@ function right_admin_footer_text($text) {
 	return $text;
 }
 
-
+//更改后台字体
+function Bing_admin_lettering(){
+	echo '<style type="text/css">*{font-family:"Microsoft YaHei" !important;}</style>';//修改字体
+}
+add_action('admin_head', 'Bing_admin_lettering');
 
 
