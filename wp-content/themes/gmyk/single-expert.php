@@ -34,7 +34,7 @@
       </div>
       <!---->
       <div class="pageTitle2" style="margin-bottom:20px;"><h1>个人简历</h1></div>
-      <div class="ExpertsPart2" style="font-size:16px;">
+      <div class="ExpertsPart2" style="font-size:16px;;line-height:22px;">
 	         <div id="js_content" style="text-indent:2em;>
 			 <?php
 			while ( have_posts() ) :

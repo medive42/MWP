@@ -21,7 +21,7 @@
 
 <div class="fl w676" style="width:785px;">
 <div class="newShow">
-            <h1 style="text-align: center;font-size:  18px;font-weight:  bold;"><?php the_title();?></h1>
+            <h1 style="text-align: center;font-size:18px;font-weight:bold;line-height: 20px;"><?php the_title();?></h1>
 			<span class="clear_f"></span>
 			<div class="time" style="text-align: center;font-size:  14px;    border-bottom: 1px dashed #dedede;"><?php the_time('Y年m月d日'); ?></div>
 						<span class="clear_f"></span>

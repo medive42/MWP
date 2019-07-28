@@ -150,7 +150,7 @@
         </div>
         <div class="fr indexPart3" style="width:382px;height:285px;padding-top:0;">
             <div class="moduletitle clearfix" style="line-height:16px;">
-                <h4>专家风采 <span>medical service</span><a class="inmore" href="/?page_id=320" >更多 +</a></h4>
+                <h4>专家风采 <span>medical service</span><a class="inmore" href="/?cat=37" >更多 +</a></h4>
 				
             </div>
       <div class="list" style="width:380px;margin-left:-15px;">
