@@ -98,7 +98,7 @@
 						<ul class="clearfix" style="height:214px;">
 					
 			
-                               <?php $posts = get_posts("category=128&numberposts=4"); ?>  
+                               <?php $posts = get_posts("category=12&numberposts=4"); ?>  
                                  <?php if ($posts) : ?>  
                                 
   								 
@@ -123,7 +123,7 @@
             </div>
 			
         </div>
-        <div class="medicalright" style="width:430px;padding-left:25px;height:225px;padding-top:60px;">
+        <div class="medicalright" style="width:430px;padding-left:25px;height:225px;padding-top:50px;">
 
             <div class="doctorscroll">
 
@@ -133,7 +133,7 @@
                                 
   								 
 								    <?php foreach ($posts as $post) : setup_postdata($post); ?>  
-                                    <dt style="height:32px;padding-left:20px;background:url(<?php echo get_theme_file_uri(''); ?>/img/sideNav.gif) no-repeat scroll 0px center;" ><a href="<?php the_permalink()?>" style="font-size:16px;"><?php customTitle(80); ?> </a> 
+                                    <dt style="height:32px;padding-left:20px;background:url(<?php echo get_theme_file_uri(''); ?>/img/sideNav.gif) no-repeat scroll 0px center;" ><a href="<?php the_permalink()?>" style="font-size:16px;line-height:29px;"><?php customTitle(80); ?> </a> 
 									
 									</dt>	 
 									
