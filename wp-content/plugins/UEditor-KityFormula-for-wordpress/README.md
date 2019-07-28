@@ -1,39 +1,33 @@
-### 基本信息
-UEditor-KityFormula for wordpress基于Ueditor,UEditor 是由百度「FEX前端研发团队」开发的所见即所得富文本web编辑器，轻量，可定制，用户体验好。本插件将wordpress与ueditor编辑器尝试整合,并集成了KityFormula数学公式插件,无论是专心于写博客的普通人还是精于数学研究的各类人才，使用该插件都将获得很好的体验。
+#插件名：UEditor-KityFormula for wordpress
 
-* 分类：后台编辑器
-* 开发语言： php
-* 开放协议：GPLv2 or later
-* 使用场景： wordpress
+基于ueditor for wordpress
 
-### 功能
-1. 文本文字编辑功能
-2. 百度地图
-3. 集成KityFormula,可轻松添加各式数学公式
-4. 所有ueditor功能
+添加了百度数学公式插件kityformula,使之进一步完善。
 
-### 更新历史：
+# 提醒
+此版本为免费wordpress插件，纯免费使用不存在任何费用，任何人不得以付费形式提供给其他人。
 
-####  版本： 2.0.1            2016-11-6发布
+# 自定义配置
++ 工具栏图标3行显示、并重新整理排序；
++ 工具栏顶部间距32px；
++ 编辑器字体大小14px、行高1.8；
++ 设置编辑器默认320px高，可拖动改变高度；
++ 关闭字数显示；
++ 关闭抓取远程图片；
 
-####  版本： 2.0.2           2017-02-23发布
+Ueditor1.4.3.3 + KityFormula数学公式编器for wordpress
 
+
+## 更新记录：
+
+### 版本： 2.0.1        2016-11-6发布
+
+### 版本： 2.0.2	   2017-02-23发布
 自从UEditor-KityFormula-for-wordpress 2.0.1版本发布以来，用户反应较好，对某些使用者提出的没有百度地图、google地图及iframe,2.0.2版本进行了补充。现已发布，不过谷歌地图由于某些原因，国内应用不了，需要使用vpn，建议使用百度地图。
 
 说明：http://www.yangshengliang.com/kaiyuan-shijie/zuopin/678.html
 
-
-#### 版本：  2.0.3         发布时间：2017-12-10
-
-##### 更新/修复内容
-1. 开放所有的按钮<br />
-2. 解决上传视频文件，视频地址被清空的bug<br />
-3. 解决无法使用iframe问题<br />
-4. 解决百度动态地图无法插入<br />
-5. 随百度ueditor官方修复了一些安全漏洞<br />
-
 ### 安装方法
-
 #### 一：git方式
 
 1. 切换到wordpress网站根目录

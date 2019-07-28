@@ -33,8 +33,7 @@
         , serverUrl: URL + "php/controller.php"
 
         //工具栏上的所有的功能按钮和下拉框，可以在new编辑器的实例时选择自己需要的重新定义
-        , toolbars: [[
-            'fullscreen', 'source', '|', 'undo', 'redo', '|',
+        , toolbars: [['fullscreen', 'source', '|', 'undo', 'redo', '|',
             'bold', 'italic', 'underline', 'fontborder', 'strikethrough', 'superscript', 'subscript', 'removeformat', 'formatmatch', 'autotypeset', 'blockquote', 'pasteplain', '|', 'forecolor', 'backcolor', 'insertorderedlist', 'insertunorderedlist', 'selectall', 'cleardoc', '|',
             'rowspacingtop', 'rowspacingbottom', 'lineheight', '|',
             'customstyle', 'paragraph', 'fontfamily', 'fontsize', '|',
@@ -44,7 +43,7 @@
             'simpleupload', 'insertimage', 'emotion', 'scrawl', 'insertvideo', 'music', 'attachment', 'map', 'gmap', 'insertframe', 'insertcode', 'webapp', 'pagebreak', 'template', 'background', '|',
             'horizontal', 'date', 'time', 'spechars', 'snapscreen', 'wordimage', '|',
             'inserttable', 'deletetable', 'insertparagraphbeforetable', 'insertrow', 'deleterow', 'insertcol', 'deletecol', 'mergecells', 'mergeright', 'mergedown', 'splittocells', 'splittorows', 'splittocols', 'charts', '|',
-            'print', 'preview', 'searchreplace', 'drafts', 'help'
+            'print', 'preview', 'searchreplace', 'drafts', 'help','kityformula',
         ]]
         //当鼠标放在工具栏上时显示的tooltip提示,留空支持自动多语言配置，否则以配置值为准
         //,labelMap:{
@@ -228,9 +227,9 @@
         //]
 
         //打开右键菜单功能
-        ,enableContextMenu: true
+        //,enableContextMenu: true
         //右键菜单的内容，可以参考plugins/contextmenu.js里边的默认菜单的例子，label留空支持国际化，否则以此配置为准
-        ,contextMenu:[
+        //,contextMenu:[
         //    {
         //        label:'',       //显示的名称
         //        cmdName:'selectall',//执行的command命令，当点击这个右键菜单时
@@ -240,7 +239,7 @@
         //            //this.ui._dialogs['inserttableDialog'].open();
         //        }
         //    }
-        ]
+        //]
 
         //快捷菜单
         //,shortcutMenu:["fontfamily", "fontsize", "bold", "italic", "underline", "forecolor", "backcolor", "insertorderedlist", "insertunorderedlist"]
@@ -400,12 +399,7 @@
 			header: [],
 			hr:     [],
 			i:      ['class', 'style'],
-			//阻止iframe被清理、百度地图无法加入动态地图
-			iframe: ['frameborder','border','marginwidth','marginheight','width','height','src','id'],
-			//增加_url，防止视频地址被清空 2017-12-10
-			img:    ['src', 'alt', 'title', 'width', 'height', 'id', '_src', 'loadingclass', 'class', 'data-latex','_url'],
-			//增加插入视频  2017-10-2 yangshengliang.com 
-            insertvideo:['url', 'id', 'width', 'height'],
+			img:    ['src', 'alt', 'title', 'width', 'height', 'id', '_src', 'loadingclass', 'class', 'data-latex'],
 			ins:    ['datetime'],
 			li:     ['class', 'style'],
 			mark:   [],

@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'dggmyk');
+define('DB_NAME', 'gmyk');
 
 /** MySQL database username */
-define('DB_USER', 'dggmyk');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'k7xSyGyTDMsfw7Xt');
+define('DB_PASSWORD', 'root');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -80,7 +80,7 @@ $table_prefix  = 'wp_';
 define('WP_DEBUG', false);
 define('MULTISITE', false);
 define('SUBDOMAIN_INSTALL', false);
-define('DOMAIN_CURRENT_SITE', 'gmeye.com.cn');
+define('DOMAIN_CURRENT_SITE', 'localhost');
 define('PATH_CURRENT_SITE', '/');
 define('SITE_ID_CURRENT_SITE', 1);
 define('BLOG_ID_CURRENT_SITE', 1);
