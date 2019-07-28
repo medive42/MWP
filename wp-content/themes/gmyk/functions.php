@@ -906,3 +906,12 @@ function Bing_admin_lettering(){
 add_action('admin_head', 'Bing_admin_lettering');
 
 
+
+
+//固定后台管理侧边栏
+function Bing_fixed_adminmenuwrap(){
+	echo '<style type="text/css">#adminmenuwrap{position:fixed;left:0px;z-index:2;}</style>';
+};
+add_action('admin_head', 'Bing_fixed_adminmenuwrap');
+
+
