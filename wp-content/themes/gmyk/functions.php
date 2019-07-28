@@ -880,3 +880,25 @@ add_filter( 'pre_site_transient_update_plugins', create_function( '$b', "return 
  */
 remove_action( 'load-update-core.php', 'wp_update_themes' );
 add_filter( 'pre_site_transient_update_themes', create_function( '$c', "return null;" ) );
+
+
+/**
+ * 自定义 WordPress 后台底部的版权和版本信息
+ * https://www.wpdaxue.com/change-admin-footer-text.html
+ */
+add_filter('admin_footer_text', 'left_admin_footer_text'); 
+function left_admin_footer_text($text) {
+	// 左边信息
+	$text = '<span id="footer-thankyou">201907版本<a href=""> </a> </span>'; 
+	return $text;
+}
+add_filter('update_footer', 'right_admin_footer_text', 11); 
+function right_admin_footer_text($text) {
+	// 右边信息
+	$text = "";
+	return $text;
+}
+
+
+
+
