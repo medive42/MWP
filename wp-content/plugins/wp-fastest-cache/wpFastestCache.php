@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP Fastest Cache
+Plugin Name: WP Fastest Cache-修改版
 Plugin URI: http://wordpress.org/plugins/wp-fastest-cache/
 Description: The simplest and fastest WP Cache system
 Version: 0.8.9.6
