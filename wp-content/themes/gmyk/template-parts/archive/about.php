@@ -11,7 +11,9 @@
 <div class="wal">
 <!--wal-->
 
-<?php echo do_shortcode('[metaslider id="2755"]'); ?>
+<?php 
+echo do_shortcode('[smartslider3 slider=3]');
+?>
 
 <div class="pageNow">
 <a href="<?php echo (home_url()); ?>">主页</a> -> <a><?php
@@ -39,7 +41,9 @@ echo $category[0]->cat_name;
 <div class="item">
 
   <div class="post">
+
    <h2 style="padding-left:20px;">
+
    <a href="./?p=262">医院简介</a>
       <a href="./?cat=46">党建风采</a>
 	     <a href="./?cat=66">公益慈善</a>

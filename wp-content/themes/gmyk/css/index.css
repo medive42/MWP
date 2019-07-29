@@ -63,10 +63,10 @@
 .sideNav{margin-bottom:30px; background:#f4f4f4;}
 .sideNav h1{font-size:18px; height:45px; line-height:43px; text-align:center; overflow:hidden; background:#007bc4; color:#FFF;}
 .sideNav a{display:block; height:42px; line-height:40px; padding-left:40px; overflow:hidden; border-top:#e6e6e6 solid 1px; background:url(sideNav.gif)  20px center no-repeat; font-size:18px;}
-.sideNav a:hover, .sideNav .aNow{background:#6aa2d1 url(sideNav1.gif)  30px center no-repeat; color:#FFF; position:relative; width:211px; padding-left:50px; left:-25px;}
+.sideNav a:current .sideNav .aNow{background:#6aa2d1 url(sideNav1.gif)  30px center no-repeat; color:#FFF; position:relative; width:211px; padding-left:50px; left:-25px;}
 .sideNav a:hover{background:#12579f url(sideNav1.gif)  30px center no-repeat;}
-
-
+.sideNav a:active{background:#12579f url(sideNav1.gif)  30px center no-repeat;}
+.sideNav a:current{background:black url(sideNav1.gif)  30px center no-repeat;}
 
 .newsList{margin-bottom:30px; }
 .newsList li{line-height:45px; font-size:14px; border-bottom:1px dashed #dedede; background:#f4f4f4; overflow:hidden; position:relative;}

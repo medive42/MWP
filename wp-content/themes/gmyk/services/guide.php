@@ -7,7 +7,9 @@
 <div class="wal pageBanner">
 
 	  	  <div class="aboutPart11">
-           <?php echo do_shortcode('[metaslider id="2755"]'); ?>
+<?php 
+echo do_shortcode('[smartslider3 slider=3]');
+?>
             <div class="contentDiv">
                   <h1>东莞光明眼科医院简介</h1>
                   <div class="content">
