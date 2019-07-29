@@ -38,6 +38,8 @@ echo $category[0]->cat_name;
 </h1>
 <ul>
 
+
+
 <div class="item">
 
   <div class="post">
@@ -48,7 +50,7 @@ echo $category[0]->cat_name;
       <a href="./?cat=46">党建风采</a>
 	     <a href="./?cat=66">公益慈善</a>
 		    <a href="./?cat=47">医院设备</a>
-   
+
 
    </h2>
    </div>

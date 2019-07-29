@@ -7,7 +7,9 @@ img{border:0px;}
 a:link {text-decoration: none; color:#000000;outline:none;}
 a:visited{text-decoration: none; outline:none;}
 a:hover{text-decoration:none; color:#5292c8; outline:none;}
-a:current{text-decoration:none; color:blue; outline:none;}
+.sideNav a:hover, .sideNav .aNow{background:#6aa2d1 url(../image/sideNav1.gif) 30px center no-repeat; color:#FFF; position:relative; width:191px; padding-left:50px; left:-10px;}
+
+
 ul, p, dl, dt, dd{padding:0px; margin:0px;}
 li{list-style-position:outside; list-style-type:none;}
 h1, h2, h3, h4, h5{font-size:15px; padding:0px; margin:0px;}
