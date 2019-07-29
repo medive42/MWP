@@ -184,12 +184,12 @@ function ycont() {
 
     }
 
-    timer = setInterval(move,2000)
+    timer = setInterval(move,4000)
 
     gcont.hover(function(){
         clearInterval(timer);
     },function(){
-        timer = setInterval(move,2000);
+        timer = setInterval(move,4000);
     })
 
     grightbtn.click(function () {

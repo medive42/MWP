@@ -9,7 +9,9 @@
       <div class="indexFlash fadeFlash">
             <ul>
 			<!-- 首页焦点图 -->
-            <?php echo do_shortcode('[metaslider id="2751"]'); ?>
+<?php 
+echo do_shortcode('[smartslider3 slider=4]');
+?>
 			
             </ul>
 

@@ -7,7 +7,9 @@
 <div class="wal">
 <!--wal-->
 
-<?php echo do_shortcode('[metaslider id="2755"]'); ?>
+<?php 
+echo do_shortcode('[smartslider3 slider=3]');
+?>
 
 <div class="pageNow">
 <a href="<?php echo (home_url()); ?>">主页</a> -> <a><?php

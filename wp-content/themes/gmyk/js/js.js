@@ -157,12 +157,12 @@ $(function(){
 		}
 	$('.indexPart3').find('.rightBtn').click(function(){
 		clearInterval(indexPart3Time);
-		imgScrollRight2($('.indexPart3').find('.list'),$('.indexPart3').find('.list').find('li').length-1,382,0);
+		imgScrollRight2($('.indexPart3').find('.list'),$('.indexPart3').find('.list').find('li').length-1,460,0);
 		indexPart3Time = setInterval("indexPart3Fun()",5000);
 		})	
 	$('.indexPart3').find('.leftBtn').click(function(){
 		clearInterval(indexPart3Time);
-		imgScrollLeft2($('.indexPart3').find('.list'),$('.indexPart3').find('.list').find('li').length-1,382,0);
+		imgScrollLeft2($('.indexPart3').find('.list'),$('.indexPart3').find('.list').find('li').length-1,460,0);
 		indexPart3Time = setInterval("indexPart3Fun()",5000);
 		})
 	//--

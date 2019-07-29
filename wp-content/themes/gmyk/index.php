@@ -152,60 +152,68 @@ echo do_shortcode('[smartslider3 slider=2]');
             </div>
 
         </div>
-        <div class="fr indexPart3" style="width:382px;height:285px;padding-top:0;">
-            <div class="moduletitle clearfix" style="line-height:16px;">
+    <div class="fr indexPart3" style="width:380px;height:280px;padding-top:0;display:block;">
+        <div class="moduletitle clearfix" style="line-height:16px;display:block;">
                 <h4>专家风采 <span>medical service</span><a class="inmore" href="/?cat=37" >更多 +</a></h4>
-				
-            </div>
-      <div class="list" style="width:380px;margin-left:-15px;">
-		
-			
-		    <?php
-		    $args=array(
-		        'cat' => 95,   // 分类ID
-		        'posts_per_page' => 3, // 显示篇数
-		    );
-		    query_posts($args);
-		    if(have_posts()) : while (have_posts()) : the_post();
-			?>
-            <ul> 
-		     <li style="padding-left:190px;width:190px;">
-			  <div class="imgDiv" style="float:left;background:#f4f4f4;border-radius:5px;margin-right:20px;"><img style="width:175px;height:240px;float:left;margin-top:-30px;" src="
-                <?php
-                    $array_image_url = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), array(200,100));
-                     echo $array_image_url[0];
-                ?>" />
-			   </div>
-
-			   <h2 style="width:130px;">
-			     <b>姓名：</b><a style="font-size:16px;" href="<?php the_permalink();?>"><?php $name= get_post_meta($post->ID, '姓名', true); echo $name;?></a>   <br/>
-				    <dd class="clearfix" style="padding-right: 80px;margin-bottom:  16px;margin-top:  -10px;color:#a1a2a4;">
-                    </dd>	
-       			 <b>科室：</b><a style="font-size:16px;"><?php $section= get_post_meta($post->ID, '科室', true); echo $section;?></a><br/>
-<!--                 <b>职称：</b><a><?php $title= get_post_meta($post->ID, '职称', true); echo $title;?></a><br/>
--->
-				    <dd class="clearfix" style="padding-right: 80px;margin-bottom:  16px;margin-top:  -10px;color:#a1a2a4;">
-                    </dd>
-				 <b>专长：</b><br />
-				 
-			   </h2>
-			   				    <dd class="clearfix" style="padding-right: 80px;margin-bottom:  16px;margin-top:  -10px;color:#a1a2a4;">
-                    </dd>
-			  <div class="content" style="width:140px;font-size:16px;padding:0;" >
-                      <?php $skills= get_post_meta($post->ID, '专长', true); echo $skills;?>
-              </div> 
-<!--			  
-		      <div class="btnDiv"><a href="<?php the_permalink();?>" >阅读详细内容 </a></div>
--->			  
-             </li>
-            </ul>
-		     <?php  endwhile; endif; wp_reset_query(); ?>
-
-			
-      </div>
-</div>
+        </div>
        
-	   </div>
+	   
+	   
+	   
+	        <div class="doctorscroll"style="width:380px">	
+						<ul class="clearfix" style="height:233px;width:380px;">
+					
+			
+                               <?php $posts = get_posts("category=95&numberposts=3"); ?>  
+                                 <?php if ($posts) : ?>  
+                                
+  								 
+								    <?php foreach ($posts as $post) : setup_postdata($post); ?>  
+									
+							        <li style="width:375px;">
+                                    <div class="imgDiv" href="<?php the_permalink()?>" width="180" height="220" style="padding-left:0px" >
+									<a href="<?php the_permalink()?>">			        
+									<img style="width:180px;height:240px;float:left;margin-top:-17px;" 
+			                             src="
+                                              <?php
+                                                   $array_image_url = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), array(200,100));
+                                                    echo $array_image_url[0];
+                                               ?>" 
+									 />
+									 </a> 
+									 
+                                <div style="float:left;line-height:27px;">
+						<h2 style="width:160px;text-align:left;">
+			                <b style="font-size:16px;margin-left:12px;">姓名：</b><a style="font-size:16px;" href="<?php the_permalink();?>"><?php $name= get_post_meta($post->ID, '姓名', true); echo $name;?></a>   <br/>
+
+       			            <b style="font-size:16px;margin-left:12px;">科室：</b><a style="font-size:16px;"><?php $section= get_post_meta($post->ID, '科室', true); echo $section;?></a><br/>
+                     						
+				            <b style="font-size:16px;margin-left:12px;">专长：</b>
+							
+						        <div class="content" style="width:160px;font-size:16px;margin-left:12px;padding:0;overflow:hidden;display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 5;" >
+                                     <?php $skills= get_post_meta($post->ID, '专长', true); echo $skills;?>
+                                </div> 
+								
+                        </h2>
+			           	        </div>
+									 
+									</div>
+								    </li>			
+										
+                                    <?php endforeach; ?>  
+                                 
+							 
+                               <?php endif; ?>		
+			             
+			
+			            </ul>
+
+            </div>   
+
+	
+    </div>
+       
+</div>
 
    
         <div class="inrightnews" style="position:absolute;" >

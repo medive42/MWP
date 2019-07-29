@@ -12,7 +12,9 @@ Template Name: 预约模板
 
 <div class="wal">
 
-<?php echo do_shortcode('[metaslider id="2755"]'); ?>
+<?php 
+echo do_shortcode('[smartslider3 slider=3]');
+?>
 
 
 <div class="pageNow">

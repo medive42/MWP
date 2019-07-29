@@ -11,7 +11,9 @@ Template Name: 医院简介模板
 <div class="wal pageBanner">
 
 	  	  <div class="aboutPart11">
-           <?php echo do_shortcode('[metaslider id="2755"]'); ?>
+<?php 
+echo do_shortcode('[smartslider3 slider=3]');
+?>
             <div class="contentDiv">
                   <h1>东莞光明眼科医院简介</h1>
                   <div class="content">
@@ -28,11 +30,14 @@ Template Name: 医院简介模板
 <div class="pageNow">
 <a href="">主页</a> -&gt; <a href="">医院概况</a> -&gt; <a href="">医院简介</a> -&gt; 
 </div>
+
+
 <div class="fl w221">
+
       <div class="sideNav">
 			<h1>医院概况</h1>
 			<ul>
-			  
+
               <li><a href="/?p=262" class="aNow" style="left:-5px;">医院简介</a></li>
               
               <li><a href="/?cat=46" class="" style="left:-5px;">党建风采</a></li>
