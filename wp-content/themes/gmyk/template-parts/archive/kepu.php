@@ -13,7 +13,7 @@ echo do_shortcode('[smartslider3 slider=3]');
 
 <div class="pageNow">
 
-<a href="<?php echo (home_url()); ?>">主页</a> -> 
+<a href="<?php echo (home_url()); ?>">主页</a> -> 科普基地 ->
 
 <a><?php single_cat_title(); ?></a> ->
 </div>
