@@ -172,7 +172,7 @@
 
 
 /*-------- 首页 --------*/
-.indexbanner{width:100%;height:500px;overflow:hidden;position:relative;z-index:1;}
+.indexbanner{width:100%;height:530px;overflow:hidden;position:relative;z-index:1;}
 .indexbanner ul li{width:100%;height:500px;}
 .indexbanner img{display:block;width:100%;height:500px;position:absolute;top:0;}
 .bannerleft, .bannerright{display:inline-block;width:63px;height:89px;position:absolute;top:50%;margin-top:-44px;background:url("img37.png") no-repeat;z-index:5;}

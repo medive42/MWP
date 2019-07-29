@@ -2361,3 +2361,2017 @@
 [2019-07-29 00:25:03 : INFO] - 93 
 [2019-07-29 00:25:05 : INFO] - Re_Smush_It_Task - Attachment ID : 3076, Started on : July 28, 2019 09:35:22 
 [2019-07-29 00:25:05 : INFO] - 93 
+[2019-07-29 00:25:07 : INFO] - Re_Smush_It_Task - Attachment ID : 3076, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:25:07 : INFO] - 93 
+[2019-07-29 00:25:09 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/2018112014583455.jpg.The file was compressed from 252.77 KB to 66.06 KB saving 73.86 percent using WP-Optimize 
+[2019-07-29 00:25:09 : INFO] - Completed processing task with ID : 129, and type 'smush' 
+[2019-07-29 00:25:09 : INFO] - Processing task with ID : 130, and type 'smush' 
+[2019-07-29 00:25:09 : INFO] - Re_Smush_It_Task - Attachment ID : 3075, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:25:09 : INFO] - 93 
+[2019-07-29 00:25:11 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/2018112014581894-updraft-pre-smush-original.jpg 
+[2019-07-29 00:25:12 : INFO] - Re_Smush_It_Task - Attachment ID : 3075, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:25:12 : INFO] - 93 
+[2019-07-29 00:25:13 : INFO] - Re_Smush_It_Task - Attachment ID : 3075, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:25:13 : INFO] - 93 
+[2019-07-29 00:25:15 : INFO] - Re_Smush_It_Task - Attachment ID : 3075, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:25:15 : INFO] - 93 
+[2019-07-29 00:25:17 : INFO] - Re_Smush_It_Task - Attachment ID : 3075, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:25:17 : INFO] - 93 
+[2019-07-29 00:25:19 : INFO] - Re_Smush_It_Task - Attachment ID : 3075, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:25:19 : INFO] - 93 
+[2019-07-29 00:25:21 : INFO] - Re_Smush_It_Task - Attachment ID : 3075, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:25:21 : INFO] - 93 
+[2019-07-29 00:25:23 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/2018112014581894.jpg.The file was compressed from 249.63 KB to 63.63 KB saving 74.51 percent using WP-Optimize 
+[2019-07-29 00:25:23 : INFO] - Completed processing task with ID : 130, and type 'smush' 
+[2019-07-29 00:25:23 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:25:23 
+[2019-07-29 00:25:23 : INFO] - Processing task with ID : 131, and type 'smush' 
+[2019-07-29 00:25:23 : INFO] - Re_Smush_It_Task - Attachment ID : 3074, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:25:23 : INFO] - 93 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4392, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/06/医疗团队-斜弱视专科.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4391, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/医疗团队-白内障中心.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4390, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/医疗团队-眼底病中心.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4389, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/医疗团队-青光眼中心.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4388, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/医疗团队-眼内激光科.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4387, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/医疗团队-眼外伤科.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4386, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/医疗团队-眼眶矫形中心.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4385, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/医疗团队-近视防控中心.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4384, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/医疗团队-屈光手术中心.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4383, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/医疗团队-角膜病中心.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4382, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/12/医疗团队-中医眼科中心.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4381, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2019/02/医院简介-1.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=4380, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2019/02/医疗团队-1.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=3561, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/20181214011549696.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=3560, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/20181214011530375.jpg 
+[2019-07-29 00:28:09 : INFO] - Could not find file for image: ID=3556, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/20181212031234674.jpg 
+[2019-07-29 00:34:11 : INFO] - 
+ 
+[2019-07-29 00:34:11 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 00:34:11 +0000 on http://localhost 
+[2019-07-29 00:34:11 : INFO] - WP: 5.2.2 
+[2019-07-29 00:34:11 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 00:34:11 : INFO] - MySQL: 5.5.53 
+[2019-07-29 00:34:11 : INFO] - WPLANG: zh_CN 
+[2019-07-29 00:34:11 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 00:34:11 : INFO] - Outbound connections: N 
+[2019-07-29 00:34:11 : INFO] - safe_mode: 0 
+[2019-07-29 00:34:11 : INFO] - max_execution_time: 3000 
+[2019-07-29 00:34:11 : INFO] - memory_limit: 128M (used: 20.9M | 4M) 
+[2019-07-29 00:34:11 : INFO] - multisite: N 
+[2019-07-29 00:34:11 : INFO] - openssl: N 
+[2019-07-29 00:34:11 : INFO] - A total of 375 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 00:34:11 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 00:34:11 
+[2019-07-29 00:34:11 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 00:34:11 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:34:11 
+[2019-07-29 00:34:11 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 00:34:14 : INFO] - Task with ID 131 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 00:34:14 : INFO] - Processing task with ID : 132, and type 'smush' 
+[2019-07-29 00:34:14 : INFO] - Re_Smush_It_Task - Attachment ID : 3073, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:14 : INFO] - 93 
+[2019-07-29 00:34:16 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/20181120145602647-updraft-pre-smush-original.jpg 
+[2019-07-29 00:34:16 : INFO] - Re_Smush_It_Task - Attachment ID : 3073, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:16 : INFO] - 93 
+[2019-07-29 00:34:18 : INFO] - Re_Smush_It_Task - Attachment ID : 3073, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:18 : INFO] - 93 
+[2019-07-29 00:34:20 : INFO] - Re_Smush_It_Task - Attachment ID : 3073, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:20 : INFO] - 93 
+[2019-07-29 00:34:21 : INFO] - Re_Smush_It_Task - Attachment ID : 3073, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:21 : INFO] - 93 
+[2019-07-29 00:34:23 : INFO] - Re_Smush_It_Task - Attachment ID : 3073, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:23 : INFO] - 93 
+[2019-07-29 00:34:25 : INFO] - Re_Smush_It_Task - Attachment ID : 3073, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:25 : INFO] - 93 
+[2019-07-29 00:34:27 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/20181120145602647.jpg.The file was compressed from 28.92 KB to 10.74 KB saving 62.88 percent using WP-Optimize 
+[2019-07-29 00:34:27 : INFO] - Completed processing task with ID : 132, and type 'smush' 
+[2019-07-29 00:34:27 : INFO] - Processing task with ID : 133, and type 'smush' 
+[2019-07-29 00:34:27 : INFO] - Re_Smush_It_Task - Attachment ID : 3072, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:27 : INFO] - 93 
+[2019-07-29 00:34:34 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/20181120145517901-updraft-pre-smush-original.jpg 
+[2019-07-29 00:34:34 : INFO] - Re_Smush_It_Task - Attachment ID : 3072, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:34 : INFO] - 93 
+[2019-07-29 00:34:36 : INFO] - Re_Smush_It_Task - Attachment ID : 3072, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:36 : INFO] - 93 
+[2019-07-29 00:34:38 : INFO] - Re_Smush_It_Task - Attachment ID : 3072, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:39 : INFO] - 93 
+[2019-07-29 00:34:41 : INFO] - Re_Smush_It_Task - Attachment ID : 3072, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:41 : INFO] - 93 
+[2019-07-29 00:34:44 : INFO] - Re_Smush_It_Task - Attachment ID : 3072, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:44 : INFO] - 93 
+[2019-07-29 00:34:45 : INFO] - Re_Smush_It_Task - Attachment ID : 3072, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:45 : INFO] - 93 
+[2019-07-29 00:34:47 : INFO] - Re_Smush_It_Task - Attachment ID : 3072, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:47 : INFO] - 93 
+[2019-07-29 00:34:49 : INFO] - Re_Smush_It_Task - Attachment ID : 3072, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:49 : INFO] - 93 
+[2019-07-29 00:34:51 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/20181120145517901.jpg.The file was compressed from 491.28 KB to 415.38 KB saving 15.45 percent using WP-Optimize 
+[2019-07-29 00:34:51 : INFO] - Completed processing task with ID : 133, and type 'smush' 
+[2019-07-29 00:34:51 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:34:51 
+[2019-07-29 00:34:51 : INFO] - Processing task with ID : 134, and type 'smush' 
+[2019-07-29 00:34:51 : INFO] - Re_Smush_It_Task - Attachment ID : 2848, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:51 : INFO] - 93 
+[2019-07-29 00:34:55 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/07/cl-updraft-pre-smush-original.jpg 
+[2019-07-29 00:34:55 : INFO] - Re_Smush_It_Task - Attachment ID : 2848, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:55 : INFO] - 93 
+[2019-07-29 00:34:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2848, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:57 : INFO] - 93 
+[2019-07-29 00:34:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2848, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:34:59 : INFO] - 93 
+[2019-07-29 00:35:02 : INFO] - Re_Smush_It_Task - Attachment ID : 2848, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:02 : INFO] - 93 
+[2019-07-29 00:35:05 : INFO] - Re_Smush_It_Task - Attachment ID : 2848, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:05 : INFO] - 93 
+[2019-07-29 00:35:06 : INFO] - Re_Smush_It_Task - Attachment ID : 2848, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:06 : INFO] - 93 
+[2019-07-29 00:35:08 : INFO] - Re_Smush_It_Task - Attachment ID : 2848, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:08 : INFO] - 93 
+[2019-07-29 00:35:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2848, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:10 : INFO] - 93 
+[2019-07-29 00:35:12 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/cl.jpg.The file was compressed from 341.42 KB to 284.99 KB saving 16.53 percent using WP-Optimize 
+[2019-07-29 00:35:12 : INFO] - Completed processing task with ID : 134, and type 'smush' 
+[2019-07-29 00:35:12 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:35:12 
+[2019-07-29 00:35:12 : INFO] - Processing task with ID : 135, and type 'smush' 
+[2019-07-29 00:35:12 : INFO] - Re_Smush_It_Task - Attachment ID : 2840, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:12 : INFO] - 93 
+[2019-07-29 00:35:25 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/123-updraft-pre-smush-original.jpg 
+[2019-07-29 00:35:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2840, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:25 : INFO] - 93 
+[2019-07-29 00:35:26 : INFO] - Re_Smush_It_Task - Attachment ID : 2840, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:26 : INFO] - 93 
+[2019-07-29 00:35:28 : INFO] - Re_Smush_It_Task - Attachment ID : 2840, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:28 : INFO] - 93 
+[2019-07-29 00:35:31 : INFO] - Re_Smush_It_Task - Attachment ID : 2840, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:31 : INFO] - 93 
+[2019-07-29 00:35:33 : INFO] - Re_Smush_It_Task - Attachment ID : 2840, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:33 : INFO] - 93 
+[2019-07-29 00:35:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2840, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:35 : INFO] - 93 
+[2019-07-29 00:35:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2840, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:37 : INFO] - 93 
+[2019-07-29 00:35:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2840, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:35:39 : INFO] - 93 
+[2019-07-29 00:46:01 : INFO] - 
+ 
+[2019-07-29 00:46:01 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 00:46:01 +0000 on http://localhost 
+[2019-07-29 00:46:01 : INFO] - WP: 5.2.2 
+[2019-07-29 00:46:01 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 00:46:01 : INFO] - MySQL: 5.5.53 
+[2019-07-29 00:46:01 : INFO] - WPLANG: zh_CN 
+[2019-07-29 00:46:01 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 00:46:01 : INFO] - Outbound connections: N 
+[2019-07-29 00:46:01 : INFO] - safe_mode: 0 
+[2019-07-29 00:46:01 : INFO] - max_execution_time: 3000 
+[2019-07-29 00:46:01 : INFO] - memory_limit: 128M (used: 20.9M | 24M) 
+[2019-07-29 00:46:01 : INFO] - multisite: N 
+[2019-07-29 00:46:01 : INFO] - openssl: N 
+[2019-07-29 00:46:01 : INFO] - A total of 371 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 00:46:01 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 00:46:01 
+[2019-07-29 00:46:01 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 00:46:01 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:46:01 
+[2019-07-29 00:46:01 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 00:46:04 : INFO] - Task with ID 135 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 00:46:04 : INFO] - Processing task with ID : 136, and type 'smush' 
+[2019-07-29 00:46:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2834, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:04 : INFO] - 93 
+[2019-07-29 00:46:06 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/1zd-e1541350148751-updraft-pre-smush-original.jpg 
+[2019-07-29 00:46:06 : INFO] - Re_Smush_It_Task - Attachment ID : 2834, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:06 : INFO] - 93 
+[2019-07-29 00:46:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2834, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:07 : INFO] - 93 
+[2019-07-29 00:46:09 : INFO] - Re_Smush_It_Task - Attachment ID : 2834, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:09 : INFO] - 93 
+[2019-07-29 00:46:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2834, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:10 : INFO] - 93 
+[2019-07-29 00:46:12 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/1zd-e1541350148751.jpg.The file was compressed from 14.86 KB to 14.31 KB saving 3.67 percent using WP-Optimize 
+[2019-07-29 00:46:12 : INFO] - Completed processing task with ID : 136, and type 'smush' 
+[2019-07-29 00:46:12 : INFO] - Processing task with ID : 137, and type 'smush' 
+[2019-07-29 00:46:12 : INFO] - Re_Smush_It_Task - Attachment ID : 2831, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:12 : INFO] - 93 
+[2019-07-29 00:46:14 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/06/xieruoshi-1-updraft-pre-smush-original.jpg 
+[2019-07-29 00:46:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2831, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:14 : INFO] - 93 
+[2019-07-29 00:46:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2831, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:16 : INFO] - 93 
+[2019-07-29 00:46:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2831, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:18 : INFO] - 93 
+[2019-07-29 00:46:21 : INFO] - Re_Smush_It_Task - Attachment ID : 2831, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:21 : INFO] - 93 
+[2019-07-29 00:46:23 : INFO] - Re_Smush_It_Task - Attachment ID : 2831, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:23 : INFO] - 93 
+[2019-07-29 00:46:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2831, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:25 : INFO] - 93 
+[2019-07-29 00:46:26 : INFO] - Re_Smush_It_Task - Attachment ID : 2831, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:26 : INFO] - 93 
+[2019-07-29 00:46:29 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/06/xieruoshi-1.jpg.The file was compressed from 93.52 KB to 81.77 KB saving 12.57 percent using WP-Optimize 
+[2019-07-29 00:46:29 : INFO] - Completed processing task with ID : 137, and type 'smush' 
+[2019-07-29 00:46:29 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:46:29 
+[2019-07-29 00:46:29 : INFO] - Processing task with ID : 138, and type 'smush' 
+[2019-07-29 00:46:29 : INFO] - Re_Smush_It_Task - Attachment ID : 2830, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:29 : INFO] - 93 
+[2019-07-29 00:46:32 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/06/bai1-updraft-pre-smush-original.jpg 
+[2019-07-29 00:46:32 : INFO] - Re_Smush_It_Task - Attachment ID : 2830, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:32 : INFO] - 93 
+[2019-07-29 00:46:34 : INFO] - Re_Smush_It_Task - Attachment ID : 2830, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:34 : INFO] - 93 
+[2019-07-29 00:46:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2830, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:35 : INFO] - 93 
+[2019-07-29 00:46:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2830, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:37 : INFO] - 93 
+[2019-07-29 00:46:39 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/06/bai1.jpg.The file was compressed from 163.94 KB to 37.24 KB saving 77.28 percent using WP-Optimize 
+[2019-07-29 00:46:39 : INFO] - Completed processing task with ID : 138, and type 'smush' 
+[2019-07-29 00:46:39 : INFO] - Processing task with ID : 139, and type 'smush' 
+[2019-07-29 00:46:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2828, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:39 : INFO] - 93 
+[2019-07-29 00:46:43 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/ruoshi-updraft-pre-smush-original.png 
+[2019-07-29 00:46:43 : INFO] - Re_Smush_It_Task - Attachment ID : 2828, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:43 : INFO] - 93 
+[2019-07-29 00:46:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2828, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:44 : INFO] - 93 
+[2019-07-29 00:46:48 : INFO] - Re_Smush_It_Task - Attachment ID : 2828, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:48 : INFO] - 93 
+[2019-07-29 00:46:49 : INFO] - Re_Smush_It_Task - Attachment ID : 2828, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:49 : INFO] - 93 
+[2019-07-29 00:46:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2828, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:52 : INFO] - 93 
+[2019-07-29 00:46:55 : INFO] - Re_Smush_It_Task - Attachment ID : 2828, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:55 : INFO] - 93 
+[2019-07-29 00:46:59 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/ruoshi.png.The file was compressed from 253.97 KB to 72.92 KB saving 71.29 percent using WP-Optimize 
+[2019-07-29 00:46:59 : INFO] - Completed processing task with ID : 139, and type 'smush' 
+[2019-07-29 00:46:59 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:46:59 
+[2019-07-29 00:46:59 : INFO] - Processing task with ID : 140, and type 'smush' 
+[2019-07-29 00:46:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2824, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:46:59 : INFO] - 93 
+[2019-07-29 00:47:02 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/yxt-updraft-pre-smush-original.jpg 
+[2019-07-29 00:47:02 : INFO] - Re_Smush_It_Task - Attachment ID : 2824, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:02 : INFO] - 93 
+[2019-07-29 00:47:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2824, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:04 : INFO] - 93 
+[2019-07-29 00:47:06 : INFO] - Re_Smush_It_Task - Attachment ID : 2824, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:06 : INFO] - 93 
+[2019-07-29 00:47:09 : INFO] - Re_Smush_It_Task - Attachment ID : 2824, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:09 : INFO] - 93 
+[2019-07-29 00:47:11 : INFO] - Re_Smush_It_Task - Attachment ID : 2824, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:11 : INFO] - 93 
+[2019-07-29 00:47:13 : INFO] - Re_Smush_It_Task - Attachment ID : 2824, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:13 : INFO] - 93 
+[2019-07-29 00:47:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2824, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:14 : INFO] - 93 
+[2019-07-29 00:47:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2824, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:16 : INFO] - 93 
+[2019-07-29 00:47:18 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/yxt.jpg.The file was compressed from 334.10 KB to 81.73 KB saving 75.54 percent using WP-Optimize 
+[2019-07-29 00:47:18 : INFO] - Completed processing task with ID : 140, and type 'smush' 
+[2019-07-29 00:47:18 : INFO] - Processing task with ID : 141, and type 'smush' 
+[2019-07-29 00:47:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2820, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:18 : INFO] - 93 
+[2019-07-29 00:47:19 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/lxk-updraft-pre-smush-original.jpg 
+[2019-07-29 00:47:19 : INFO] - Re_Smush_It_Task - Attachment ID : 2820, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:19 : INFO] - 93 
+[2019-07-29 00:47:21 : INFO] - Re_Smush_It_Task - Attachment ID : 2820, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:21 : INFO] - 93 
+[2019-07-29 00:47:22 : INFO] - Re_Smush_It_Task - Attachment ID : 2820, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:22 : INFO] - 93 
+[2019-07-29 00:47:24 : INFO] - Re_Smush_It_Task - Attachment ID : 2820, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:24 : INFO] - 93 
+[2019-07-29 00:47:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2820, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:25 : INFO] - 93 
+[2019-07-29 00:47:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2820, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:27 : INFO] - 93 
+[2019-07-29 00:47:28 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/lxk.jpg.The file was compressed from 28.92 KB to 10.74 KB saving 62.88 percent using WP-Optimize 
+[2019-07-29 00:47:28 : INFO] - Completed processing task with ID : 141, and type 'smush' 
+[2019-07-29 00:47:28 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:47:28 
+[2019-07-29 00:47:28 : INFO] - Processing task with ID : 142, and type 'smush' 
+[2019-07-29 00:47:28 : INFO] - Re_Smush_It_Task - Attachment ID : 2816, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:28 : INFO] - 93 
+[2019-07-29 00:47:30 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/gy-updraft-pre-smush-original.jpg 
+[2019-07-29 00:47:30 : INFO] - Re_Smush_It_Task - Attachment ID : 2816, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:47:30 : INFO] - 93 
+[2019-07-29 00:56:06 : INFO] - 
+ 
+[2019-07-29 00:56:06 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 00:56:06 +0000 on http://localhost 
+[2019-07-29 00:56:06 : INFO] - WP: 5.2.2 
+[2019-07-29 00:56:06 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 00:56:06 : INFO] - MySQL: 5.5.53 
+[2019-07-29 00:56:06 : INFO] - WPLANG: zh_CN 
+[2019-07-29 00:56:06 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 00:56:06 : INFO] - Outbound connections: N 
+[2019-07-29 00:56:06 : INFO] - safe_mode: 0 
+[2019-07-29 00:56:06 : INFO] - max_execution_time: 3000 
+[2019-07-29 00:56:06 : INFO] - memory_limit: 128M (used: 20.9M | 24M) 
+[2019-07-29 00:56:06 : INFO] - multisite: N 
+[2019-07-29 00:56:06 : INFO] - openssl: N 
+[2019-07-29 00:56:06 : INFO] - A total of 364 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 00:56:06 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 00:56:06 
+[2019-07-29 00:56:06 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 00:56:06 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:56:06 
+[2019-07-29 00:56:06 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 00:56:09 : INFO] - Task with ID 142 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 00:56:09 : INFO] - Processing task with ID : 143, and type 'smush' 
+[2019-07-29 00:56:09 : INFO] - Re_Smush_It_Task - Attachment ID : 2812, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:09 : INFO] - 93 
+[2019-07-29 00:56:14 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/ln-updraft-pre-smush-original.jpg 
+[2019-07-29 00:56:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2812, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:14 : INFO] - 93 
+[2019-07-29 00:56:15 : INFO] - Re_Smush_It_Task - Attachment ID : 2812, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:15 : INFO] - 93 
+[2019-07-29 00:56:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2812, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:16 : INFO] - 93 
+[2019-07-29 00:56:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2812, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:18 : INFO] - 93 
+[2019-07-29 00:56:21 : INFO] - Re_Smush_It_Task - Attachment ID : 2812, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:21 : INFO] - 93 
+[2019-07-29 00:56:22 : INFO] - Re_Smush_It_Task - Attachment ID : 2812, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:22 : INFO] - 93 
+[2019-07-29 00:56:24 : INFO] - Re_Smush_It_Task - Attachment ID : 2812, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:24 : INFO] - 93 
+[2019-07-29 00:56:26 : INFO] - Re_Smush_It_Task - Attachment ID : 2812, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:26 : INFO] - 93 
+[2019-07-29 00:56:28 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/ln.jpg.The file was compressed from 604.00 KB to 83.99 KB saving 86.1 percent using WP-Optimize 
+[2019-07-29 00:56:28 : INFO] - Completed processing task with ID : 143, and type 'smush' 
+[2019-07-29 00:56:28 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:56:28 
+[2019-07-29 00:56:28 : INFO] - Processing task with ID : 144, and type 'smush' 
+[2019-07-29 00:56:28 : INFO] - Re_Smush_It_Task - Attachment ID : 2808, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:28 : INFO] - 93 
+[2019-07-29 00:56:37 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/yyf-updraft-pre-smush-original.jpg 
+[2019-07-29 00:56:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2808, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:37 : INFO] - 93 
+[2019-07-29 00:56:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2808, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:39 : INFO] - 93 
+[2019-07-29 00:56:40 : INFO] - Re_Smush_It_Task - Attachment ID : 2808, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:40 : INFO] - 93 
+[2019-07-29 00:56:43 : INFO] - Re_Smush_It_Task - Attachment ID : 2808, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:43 : INFO] - 93 
+[2019-07-29 00:56:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2808, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:44 : INFO] - 93 
+[2019-07-29 00:56:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2808, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:46 : INFO] - 93 
+[2019-07-29 00:56:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2808, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:47 : INFO] - 93 
+[2019-07-29 00:56:50 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/yyf.jpg.The file was compressed from 928.14 KB to 317.17 KB saving 65.83 percent using WP-Optimize 
+[2019-07-29 00:56:50 : INFO] - Completed processing task with ID : 144, and type 'smush' 
+[2019-07-29 00:56:50 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:56:50 
+[2019-07-29 00:56:50 : INFO] - Processing task with ID : 145, and type 'smush' 
+[2019-07-29 00:56:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2804, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:50 : INFO] - 93 
+[2019-07-29 00:56:55 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/yzy-updraft-pre-smush-original.jpg 
+[2019-07-29 00:56:55 : INFO] - Re_Smush_It_Task - Attachment ID : 2804, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:55 : INFO] - 93 
+[2019-07-29 00:56:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2804, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:57 : INFO] - 93 
+[2019-07-29 00:56:58 : INFO] - Re_Smush_It_Task - Attachment ID : 2804, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:56:58 : INFO] - 93 
+[2019-07-29 00:57:01 : INFO] - Re_Smush_It_Task - Attachment ID : 2804, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:01 : INFO] - 93 
+[2019-07-29 00:57:03 : INFO] - Re_Smush_It_Task - Attachment ID : 2804, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:03 : INFO] - 93 
+[2019-07-29 00:57:05 : INFO] - Re_Smush_It_Task - Attachment ID : 2804, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:05 : INFO] - 93 
+[2019-07-29 00:57:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2804, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:07 : INFO] - 93 
+[2019-07-29 00:57:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2804, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:10 : INFO] - 93 
+[2019-07-29 00:57:12 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/yzy.jpg.The file was compressed from 554.01 KB to 184.12 KB saving 66.77 percent using WP-Optimize 
+[2019-07-29 00:57:12 : INFO] - Completed processing task with ID : 145, and type 'smush' 
+[2019-07-29 00:57:12 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:57:12 
+[2019-07-29 00:57:12 : INFO] - Processing task with ID : 146, and type 'smush' 
+[2019-07-29 00:57:12 : INFO] - Re_Smush_It_Task - Attachment ID : 2800, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:12 : INFO] - 93 
+[2019-07-29 00:57:16 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/lxm-updraft-pre-smush-original.jpg 
+[2019-07-29 00:57:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2800, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:16 : INFO] - 93 
+[2019-07-29 00:57:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2800, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:18 : INFO] - 93 
+[2019-07-29 00:57:20 : INFO] - Re_Smush_It_Task - Attachment ID : 2800, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:20 : INFO] - 93 
+[2019-07-29 00:57:22 : INFO] - Re_Smush_It_Task - Attachment ID : 2800, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:22 : INFO] - 93 
+[2019-07-29 00:57:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2800, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:25 : INFO] - 93 
+[2019-07-29 00:57:26 : INFO] - Re_Smush_It_Task - Attachment ID : 2800, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:26 : INFO] - 93 
+[2019-07-29 00:57:28 : INFO] - Re_Smush_It_Task - Attachment ID : 2800, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:28 : INFO] - 93 
+[2019-07-29 00:57:30 : INFO] - Re_Smush_It_Task - Attachment ID : 2800, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:30 : INFO] - 93 
+[2019-07-29 00:57:32 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/lxm.jpg.The file was compressed from 265.47 KB to 220.56 KB saving 16.92 percent using WP-Optimize 
+[2019-07-29 00:57:32 : INFO] - Completed processing task with ID : 146, and type 'smush' 
+[2019-07-29 00:57:32 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 00:57:32 
+[2019-07-29 00:57:32 : INFO] - Processing task with ID : 147, and type 'smush' 
+[2019-07-29 00:57:32 : INFO] - Re_Smush_It_Task - Attachment ID : 2796, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:32 : INFO] - 93 
+[2019-07-29 00:57:36 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/3-updraft-pre-smush-original.jpg 
+[2019-07-29 00:57:36 : INFO] - Re_Smush_It_Task - Attachment ID : 2796, Started on : July 28, 2019 09:35:22 
+[2019-07-29 00:57:36 : INFO] - 93 
+[2019-07-29 01:06:30 : INFO] - 
+ 
+[2019-07-29 01:06:30 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 01:06:30 +0000 on http://localhost 
+[2019-07-29 01:06:30 : INFO] - WP: 5.2.2 
+[2019-07-29 01:06:30 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 01:06:30 : INFO] - MySQL: 5.5.53 
+[2019-07-29 01:06:30 : INFO] - WPLANG: zh_CN 
+[2019-07-29 01:06:30 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 01:06:30 : INFO] - Outbound connections: N 
+[2019-07-29 01:06:30 : INFO] - safe_mode: 0 
+[2019-07-29 01:06:30 : INFO] - max_execution_time: 3000 
+[2019-07-29 01:06:30 : INFO] - memory_limit: 128M (used: 23.8M | 4M) 
+[2019-07-29 01:06:30 : INFO] - multisite: N 
+[2019-07-29 01:06:30 : INFO] - openssl: N 
+[2019-07-29 01:06:30 : INFO] - A total of 359 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 01:06:30 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 01:06:30 
+[2019-07-29 01:06:30 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 01:06:30 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:06:30 
+[2019-07-29 01:06:30 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 01:06:33 : INFO] - Task with ID 147 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 01:06:33 : INFO] - Processing task with ID : 148, and type 'smush' 
+[2019-07-29 01:06:33 : INFO] - Re_Smush_It_Task - Attachment ID : 2795, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:33 : INFO] - 93 
+[2019-07-29 01:06:37 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/2-updraft-pre-smush-original.jpg 
+[2019-07-29 01:06:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2795, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:37 : INFO] - 93 
+[2019-07-29 01:06:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2795, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:39 : INFO] - 93 
+[2019-07-29 01:06:40 : INFO] - Re_Smush_It_Task - Attachment ID : 2795, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:40 : INFO] - 93 
+[2019-07-29 01:06:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2795, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:42 : INFO] - 93 
+[2019-07-29 01:06:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2795, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:44 : INFO] - 93 
+[2019-07-29 01:06:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2795, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:46 : INFO] - 93 
+[2019-07-29 01:06:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2795, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:47 : INFO] - 93 
+[2019-07-29 01:06:49 : INFO] - Re_Smush_It_Task - Attachment ID : 2795, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:49 : INFO] - 93 
+[2019-07-29 01:06:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2795, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:52 : INFO] - 93 
+[2019-07-29 01:06:53 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/2.jpg.The file was compressed from 313.97 KB to 99.63 KB saving 68.27 percent using WP-Optimize 
+[2019-07-29 01:06:53 : INFO] - Completed processing task with ID : 148, and type 'smush' 
+[2019-07-29 01:06:53 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:06:53 
+[2019-07-29 01:06:53 : INFO] - Processing task with ID : 149, and type 'smush' 
+[2019-07-29 01:06:53 : INFO] - Re_Smush_It_Task - Attachment ID : 2794, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:53 : INFO] - 93 
+[2019-07-29 01:06:57 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/1-updraft-pre-smush-original.jpg 
+[2019-07-29 01:06:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2794, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:57 : INFO] - 93 
+[2019-07-29 01:06:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2794, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:06:59 : INFO] - 93 
+[2019-07-29 01:07:00 : INFO] - Re_Smush_It_Task - Attachment ID : 2794, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:00 : INFO] - 93 
+[2019-07-29 01:07:03 : INFO] - Re_Smush_It_Task - Attachment ID : 2794, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:03 : INFO] - 93 
+[2019-07-29 01:07:05 : INFO] - Re_Smush_It_Task - Attachment ID : 2794, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:05 : INFO] - 93 
+[2019-07-29 01:07:06 : INFO] - Re_Smush_It_Task - Attachment ID : 2794, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:06 : INFO] - 93 
+[2019-07-29 01:07:08 : INFO] - Re_Smush_It_Task - Attachment ID : 2794, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:08 : INFO] - 93 
+[2019-07-29 01:07:11 : INFO] - Re_Smush_It_Task - Attachment ID : 2794, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:11 : INFO] - 93 
+[2019-07-29 01:07:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2794, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:14 : INFO] - 93 
+[2019-07-29 01:07:15 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/1.jpg.The file was compressed from 331.99 KB to 115.68 KB saving 65.15 percent using WP-Optimize 
+[2019-07-29 01:07:15 : INFO] - Completed processing task with ID : 149, and type 'smush' 
+[2019-07-29 01:07:15 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:07:15 
+[2019-07-29 01:07:15 : INFO] - Processing task with ID : 150, and type 'smush' 
+[2019-07-29 01:07:15 : INFO] - Re_Smush_It_Task - Attachment ID : 2793, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:15 : INFO] - 93 
+[2019-07-29 01:07:18 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/06/xieruoshi-updraft-pre-smush-original.jpg 
+[2019-07-29 01:07:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2793, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:18 : INFO] - 93 
+[2019-07-29 01:07:19 : INFO] - Re_Smush_It_Task - Attachment ID : 2793, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:19 : INFO] - 93 
+[2019-07-29 01:07:21 : INFO] - Re_Smush_It_Task - Attachment ID : 2793, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:21 : INFO] - 93 
+[2019-07-29 01:07:23 : INFO] - Re_Smush_It_Task - Attachment ID : 2793, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:23 : INFO] - 93 
+[2019-07-29 01:07:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2793, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:25 : INFO] - 93 
+[2019-07-29 01:07:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2793, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:27 : INFO] - 93 
+[2019-07-29 01:07:29 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/06/xieruoshi.jpg.The file was compressed from 32.32 KB to 30.84 KB saving 4.57 percent using WP-Optimize 
+[2019-07-29 01:07:30 : INFO] - Completed processing task with ID : 150, and type 'smush' 
+[2019-07-29 01:07:30 : INFO] - Processing task with ID : 151, and type 'smush' 
+[2019-07-29 01:07:30 : INFO] - Re_Smush_It_Task - Attachment ID : 2792, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:30 : INFO] - 93 
+[2019-07-29 01:07:31 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/07/OK-updraft-pre-smush-original.jpg 
+[2019-07-29 01:07:31 : INFO] - Re_Smush_It_Task - Attachment ID : 2792, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:31 : INFO] - 93 
+[2019-07-29 01:07:33 : INFO] - Re_Smush_It_Task - Attachment ID : 2792, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:33 : INFO] - 93 
+[2019-07-29 01:07:34 : INFO] - Re_Smush_It_Task - Attachment ID : 2792, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:34 : INFO] - 93 
+[2019-07-29 01:07:36 : INFO] - Re_Smush_It_Task - Attachment ID : 2792, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:36 : INFO] - 93 
+[2019-07-29 01:07:37 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/OK.jpg.The file was compressed from 6.98 KB to 6.98 KB saving 0 percent using WP-Optimize 
+[2019-07-29 01:07:37 : INFO] - Completed processing task with ID : 151, and type 'smush' 
+[2019-07-29 01:07:37 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:07:37 
+[2019-07-29 01:07:37 : INFO] - Processing task with ID : 152, and type 'smush' 
+[2019-07-29 01:07:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2791, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:37 : INFO] - 93 
+[2019-07-29 01:07:39 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/07/tongyong-1-updraft-pre-smush-original.jpg 
+[2019-07-29 01:07:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2791, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:39 : INFO] - 93 
+[2019-07-29 01:07:41 : INFO] - Re_Smush_It_Task - Attachment ID : 2791, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:41 : INFO] - 93 
+[2019-07-29 01:07:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2791, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:42 : INFO] - 93 
+[2019-07-29 01:07:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2791, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:44 : INFO] - 93 
+[2019-07-29 01:07:46 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/tongyong-1.jpg.The file was compressed from 21.91 KB to 20.97 KB saving 4.29 percent using WP-Optimize 
+[2019-07-29 01:07:46 : INFO] - Completed processing task with ID : 152, and type 'smush' 
+[2019-07-29 01:07:46 : INFO] - Processing task with ID : 153, and type 'smush' 
+[2019-07-29 01:07:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2790, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:46 : INFO] - 93 
+[2019-07-29 01:07:49 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/07/bai1-updraft-pre-smush-original.jpg 
+[2019-07-29 01:07:49 : INFO] - Re_Smush_It_Task - Attachment ID : 2790, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:49 : INFO] - 93 
+[2019-07-29 01:07:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2790, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:50 : INFO] - 93 
+[2019-07-29 01:07:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2790, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:52 : INFO] - 93 
+[2019-07-29 01:07:53 : INFO] - Re_Smush_It_Task - Attachment ID : 2790, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:53 : INFO] - 93 
+[2019-07-29 01:07:55 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/bai1.jpg.The file was compressed from 163.94 KB to 37.24 KB saving 77.28 percent using WP-Optimize 
+[2019-07-29 01:07:55 : INFO] - Completed processing task with ID : 153, and type 'smush' 
+[2019-07-29 01:07:55 : INFO] - Processing task with ID : 154, and type 'smush' 
+[2019-07-29 01:07:55 : INFO] - Re_Smush_It_Task - Attachment ID : 2789, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:55 : INFO] - 93 
+[2019-07-29 01:07:57 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/07/tongyong-updraft-pre-smush-original.jpg 
+[2019-07-29 01:07:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2789, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:57 : INFO] - 93 
+[2019-07-29 01:07:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2789, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:07:59 : INFO] - 93 
+[2019-07-29 01:17:22 : INFO] - 
+ 
+[2019-07-29 01:17:22 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 01:17:22 +0000 on http://localhost 
+[2019-07-29 01:17:22 : INFO] - WP: 5.2.2 
+[2019-07-29 01:17:22 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 01:17:22 : INFO] - MySQL: 5.5.53 
+[2019-07-29 01:17:22 : INFO] - WPLANG: zh_CN 
+[2019-07-29 01:17:22 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 01:17:22 : INFO] - Outbound connections: N 
+[2019-07-29 01:17:22 : INFO] - safe_mode: 0 
+[2019-07-29 01:17:22 : INFO] - max_execution_time: 3000 
+[2019-07-29 01:17:22 : INFO] - memory_limit: 128M (used: 23.8M | 26M) 
+[2019-07-29 01:17:22 : INFO] - multisite: N 
+[2019-07-29 01:17:22 : INFO] - openssl: N 
+[2019-07-29 01:17:22 : INFO] - A total of 352 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 01:17:22 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 01:17:22 
+[2019-07-29 01:17:22 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 01:17:22 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:17:22 
+[2019-07-29 01:17:22 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 01:17:25 : INFO] - Task with ID 154 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 01:17:25 : INFO] - Processing task with ID : 155, and type 'smush' 
+[2019-07-29 01:17:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2788, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:25 : INFO] - 93 
+[2019-07-29 01:17:29 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/07/qingguangyan-updraft-pre-smush-original.png 
+[2019-07-29 01:17:29 : INFO] - Re_Smush_It_Task - Attachment ID : 2788, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:29 : INFO] - 93 
+[2019-07-29 01:17:31 : INFO] - Re_Smush_It_Task - Attachment ID : 2788, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:31 : INFO] - 93 
+[2019-07-29 01:17:34 : INFO] - Re_Smush_It_Task - Attachment ID : 2788, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:34 : INFO] - 93 
+[2019-07-29 01:17:36 : INFO] - Re_Smush_It_Task - Attachment ID : 2788, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:36 : INFO] - 93 
+[2019-07-29 01:17:39 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/qingguangyan.png.The file was compressed from 192.39 KB to 68.67 KB saving 64.31 percent using WP-Optimize 
+[2019-07-29 01:17:40 : INFO] - Completed processing task with ID : 155, and type 'smush' 
+[2019-07-29 01:17:40 : INFO] - Processing task with ID : 156, and type 'smush' 
+[2019-07-29 01:17:40 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:40 : INFO] - 93 
+[2019-07-29 01:17:45 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/10/3-updraft-pre-smush-original.jpg 
+[2019-07-29 01:17:45 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:45 : INFO] - 93 
+[2019-07-29 01:17:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:46 : INFO] - 93 
+[2019-07-29 01:17:48 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:48 : INFO] - 93 
+[2019-07-29 01:17:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:50 : INFO] - 93 
+[2019-07-29 01:17:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:52 : INFO] - 93 
+[2019-07-29 01:17:54 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:54 : INFO] - 93 
+[2019-07-29 01:17:56 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:56 : INFO] - 93 
+[2019-07-29 01:17:58 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:17:58 : INFO] - 93 
+[2019-07-29 01:18:01 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:01 : INFO] - 93 
+[2019-07-29 01:18:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:04 : INFO] - 93 
+[2019-07-29 01:18:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:07 : INFO] - 93 
+[2019-07-29 01:18:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:10 : INFO] - 93 
+[2019-07-29 01:18:12 : INFO] - Re_Smush_It_Task - Attachment ID : 2785, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:12 : INFO] - 93 
+[2019-07-29 01:18:14 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/10/3.jpg.The file was compressed from 425.37 KB to 137.61 KB saving 67.65 percent using WP-Optimize 
+[2019-07-29 01:18:14 : INFO] - Completed processing task with ID : 156, and type 'smush' 
+[2019-07-29 01:18:14 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:18:14 
+[2019-07-29 01:18:14 : INFO] - Processing task with ID : 157, and type 'smush' 
+[2019-07-29 01:18:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:14 : INFO] - 93 
+[2019-07-29 01:18:18 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/10/2-updraft-pre-smush-original.jpg 
+[2019-07-29 01:18:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:18 : INFO] - 93 
+[2019-07-29 01:18:19 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:19 : INFO] - 93 
+[2019-07-29 01:18:21 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:21 : INFO] - 93 
+[2019-07-29 01:18:23 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:23 : INFO] - 93 
+[2019-07-29 01:18:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:25 : INFO] - 93 
+[2019-07-29 01:18:26 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:26 : INFO] - 93 
+[2019-07-29 01:18:28 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:28 : INFO] - 93 
+[2019-07-29 01:18:30 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:30 : INFO] - 93 
+[2019-07-29 01:18:33 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:33 : INFO] - 93 
+[2019-07-29 01:18:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:35 : INFO] - 93 
+[2019-07-29 01:18:38 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:38 : INFO] - 93 
+[2019-07-29 01:18:40 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:40 : INFO] - 93 
+[2019-07-29 01:18:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2783, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:42 : INFO] - 93 
+[2019-07-29 01:18:44 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/10/2.jpg.The file was compressed from 369.57 KB to 118.73 KB saving 67.87 percent using WP-Optimize 
+[2019-07-29 01:18:44 : INFO] - Completed processing task with ID : 157, and type 'smush' 
+[2019-07-29 01:18:44 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:18:44 
+[2019-07-29 01:18:44 : INFO] - Processing task with ID : 158, and type 'smush' 
+[2019-07-29 01:18:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2781, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:44 : INFO] - 93 
+[2019-07-29 01:18:48 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/10/1-updraft-pre-smush-original.jpg 
+[2019-07-29 01:18:48 : INFO] - Re_Smush_It_Task - Attachment ID : 2781, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:48 : INFO] - 93 
+[2019-07-29 01:18:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2781, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:50 : INFO] - 93 
+[2019-07-29 01:18:51 : INFO] - Re_Smush_It_Task - Attachment ID : 2781, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:18:51 : INFO] - 93 
+[2019-07-29 01:27:24 : INFO] - 
+ 
+[2019-07-29 01:27:24 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 01:27:24 +0000 on http://localhost 
+[2019-07-29 01:27:24 : INFO] - WP: 5.2.2 
+[2019-07-29 01:27:24 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 01:27:24 : INFO] - MySQL: 5.5.53 
+[2019-07-29 01:27:24 : INFO] - WPLANG: zh_CN 
+[2019-07-29 01:27:24 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 01:27:24 : INFO] - Outbound connections: N 
+[2019-07-29 01:27:24 : INFO] - safe_mode: 0 
+[2019-07-29 01:27:24 : INFO] - max_execution_time: 3000 
+[2019-07-29 01:27:24 : INFO] - memory_limit: 128M (used: 23.8M | 2M) 
+[2019-07-29 01:27:24 : INFO] - multisite: N 
+[2019-07-29 01:27:24 : INFO] - openssl: N 
+[2019-07-29 01:27:24 : INFO] - A total of 348 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 01:27:24 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 01:27:24 
+[2019-07-29 01:27:24 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 01:27:24 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:27:24 
+[2019-07-29 01:27:24 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 01:27:27 : INFO] - Task with ID 158 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 01:27:27 : INFO] - Processing task with ID : 159, and type 'smush' 
+[2019-07-29 01:27:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:27:27 : INFO] - 93 
+[2019-07-29 01:27:33 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/10/about-1-updraft-pre-smush-original.png 
+[2019-07-29 01:27:33 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:27:33 : INFO] - 93 
+[2019-07-29 01:27:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:27:35 : INFO] - 93 
+[2019-07-29 01:27:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:27:37 : INFO] - 93 
+[2019-07-29 01:27:41 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:27:41 : INFO] - 93 
+[2019-07-29 01:27:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:27:46 : INFO] - 93 
+[2019-07-29 01:27:48 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:27:48 : INFO] - 93 
+[2019-07-29 01:27:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:27:50 : INFO] - 93 
+[2019-07-29 01:27:54 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:27:54 : INFO] - 93 
+[2019-07-29 01:27:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:27:59 : INFO] - 93 
+[2019-07-29 01:28:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:04 : INFO] - 93 
+[2019-07-29 01:28:08 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:08 : INFO] - 93 
+[2019-07-29 01:28:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:10 : INFO] - 93 
+[2019-07-29 01:28:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:16 : INFO] - 93 
+[2019-07-29 01:28:19 : INFO] - Re_Smush_It_Task - Attachment ID : 2758, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:19 : INFO] - 93 
+[2019-07-29 01:28:21 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/10/about-1.png.The file was compressed from 679.80 KB to 131.08 KB saving 80.72 percent using WP-Optimize 
+[2019-07-29 01:28:21 : INFO] - Completed processing task with ID : 159, and type 'smush' 
+[2019-07-29 01:28:21 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:28:21 
+[2019-07-29 01:28:21 : INFO] - Processing task with ID : 160, and type 'smush' 
+[2019-07-29 01:28:21 : INFO] - Re_Smush_It_Task - Attachment ID : 2756, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:21 : INFO] - 93 
+[2019-07-29 01:28:34 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/10/about-updraft-pre-smush-original.png 
+[2019-07-29 01:28:34 : INFO] - Re_Smush_It_Task - Attachment ID : 2756, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:34 : INFO] - 93 
+[2019-07-29 01:28:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2756, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:37 : INFO] - 93 
+[2019-07-29 01:28:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2756, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:39 : INFO] - 93 
+[2019-07-29 01:28:43 : INFO] - Re_Smush_It_Task - Attachment ID : 2756, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:43 : INFO] - 93 
+[2019-07-29 01:28:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2756, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:47 : INFO] - 93 
+[2019-07-29 01:28:49 : INFO] - Re_Smush_It_Task - Attachment ID : 2756, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:49 : INFO] - 93 
+[2019-07-29 01:28:53 : INFO] - Re_Smush_It_Task - Attachment ID : 2756, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:28:53 : INFO] - 93 
+[2019-07-29 01:30:08 : INFO] - Restoring the original image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/2.jpg from backup C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/11/2-updraft-pre-smush-original.jpg 
+[2019-07-29 01:30:36 : INFO] - Restoring the original image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/10/2.jpg from backup C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/10/2-updraft-pre-smush-original.jpg 
+[2019-07-29 01:30:54 : INFO] - Re_Smush_It_Task server status: Online 
+[2019-07-29 01:30:57 : INFO] - Processing task with ID : 776, and type 'smush' 
+[2019-07-29 01:30:57 : INFO] - Processing task with ID : 776, and type 'smush' 
+[2019-07-29 01:30:57 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:30:57 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:30:57 : INFO] - 99 
+[2019-07-29 01:30:57 : INFO] - 99 
+[2019-07-29 01:31:02 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/10/2-updraft-pre-smush-original.jpg 
+[2019-07-29 01:31:02 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/10/2-updraft-pre-smush-original.jpg 
+[2019-07-29 01:31:02 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:02 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:02 : INFO] - 99 
+[2019-07-29 01:31:02 : INFO] - 99 
+[2019-07-29 01:31:05 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:05 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:05 : INFO] - 99 
+[2019-07-29 01:31:05 : INFO] - 99 
+[2019-07-29 01:31:07 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:07 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:07 : INFO] - 99 
+[2019-07-29 01:31:07 : INFO] - 99 
+[2019-07-29 01:31:09 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:09 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:09 : INFO] - 99 
+[2019-07-29 01:31:09 : INFO] - 99 
+[2019-07-29 01:31:12 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:12 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:12 : INFO] - 99 
+[2019-07-29 01:31:12 : INFO] - 99 
+[2019-07-29 01:31:15 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:15 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:15 : INFO] - 99 
+[2019-07-29 01:31:15 : INFO] - 99 
+[2019-07-29 01:31:17 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:17 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:17 : INFO] - 99 
+[2019-07-29 01:31:17 : INFO] - 99 
+[2019-07-29 01:31:18 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:18 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:18 : INFO] - 99 
+[2019-07-29 01:31:18 : INFO] - 99 
+[2019-07-29 01:31:21 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:21 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:21 : INFO] - 99 
+[2019-07-29 01:31:21 : INFO] - 99 
+[2019-07-29 01:31:24 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:24 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:24 : INFO] - 99 
+[2019-07-29 01:31:24 : INFO] - 99 
+[2019-07-29 01:31:26 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:26 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:26 : INFO] - 99 
+[2019-07-29 01:31:26 : INFO] - 99 
+[2019-07-29 01:31:29 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:29 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:29 : INFO] - 99 
+[2019-07-29 01:31:29 : INFO] - 99 
+[2019-07-29 01:31:31 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:31 : INFO] - Re_Smush_It_Task - attachment ID : 2783, started on : July 29, 2019 01:30:57 
+[2019-07-29 01:31:31 : INFO] - 99 
+[2019-07-29 01:31:31 : INFO] - 99 
+[2019-07-29 01:31:32 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/10/2.jpg.The file was compressed from 369.57 KB to 225.50 KB saving 38.98 percent using WP-Optimize 
+[2019-07-29 01:31:32 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/10/2.jpg.The file was compressed from 369.57 KB to 225.50 KB saving 38.98 percent using WP-Optimize 
+[2019-07-29 01:31:32 : INFO] - Completed processing task with ID : 776, and type 'smush' 
+[2019-07-29 01:31:32 : INFO] - Completed processing task with ID : 776, and type 'smush' 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4392, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/06/医疗团队-斜弱视专科.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4391, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/医疗团队-白内障中心.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4390, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/医疗团队-眼底病中心.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4389, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/医疗团队-青光眼中心.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4388, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/医疗团队-眼内激光科.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4387, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/医疗团队-眼外伤科.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4386, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/医疗团队-眼眶矫形中心.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4385, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/医疗团队-近视防控中心.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4384, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/医疗团队-屈光手术中心.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4383, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/07/医疗团队-角膜病中心.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4382, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/12/医疗团队-中医眼科中心.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4381, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2019/02/医院简介-1.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=4380, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2019/02/医疗团队-1.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=3561, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/20181214011549696.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=3560, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/20181214011530375.jpg 
+[2019-07-29 01:32:42 : INFO] - Could not find file for image: ID=3556, file=C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/11/20181212031234674.jpg 
+[2019-07-29 01:37:26 : INFO] - 
+ 
+[2019-07-29 01:37:26 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 01:37:26 +0000 on http://localhost 
+[2019-07-29 01:37:26 : INFO] - WP: 5.2.2 
+[2019-07-29 01:37:26 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 01:37:26 : INFO] - MySQL: 5.5.53 
+[2019-07-29 01:37:26 : INFO] - WPLANG: zh_CN 
+[2019-07-29 01:37:26 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 01:37:26 : INFO] - Outbound connections: N 
+[2019-07-29 01:37:26 : INFO] - safe_mode: 0 
+[2019-07-29 01:37:26 : INFO] - max_execution_time: 3000 
+[2019-07-29 01:37:26 : INFO] - memory_limit: 128M (used: 21.5M | 2M) 
+[2019-07-29 01:37:26 : INFO] - multisite: N 
+[2019-07-29 01:37:26 : INFO] - openssl: N 
+[2019-07-29 01:37:26 : INFO] - A total of 346 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 01:37:26 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 01:37:26 
+[2019-07-29 01:37:26 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 01:37:26 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:37:26 
+[2019-07-29 01:37:26 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 01:37:29 : INFO] - Task with ID 160 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 01:37:29 : INFO] - Processing task with ID : 161, and type 'smush' 
+[2019-07-29 01:37:29 : INFO] - Re_Smush_It_Task - Attachment ID : 2754, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:29 : INFO] - 93 
+[2019-07-29 01:37:34 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/10/zhengban3-updraft-pre-smush-original.jpg 
+[2019-07-29 01:37:34 : INFO] - Re_Smush_It_Task - Attachment ID : 2754, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:34 : INFO] - 93 
+[2019-07-29 01:37:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2754, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:35 : INFO] - 93 
+[2019-07-29 01:37:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2754, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:37 : INFO] - 93 
+[2019-07-29 01:37:40 : INFO] - Re_Smush_It_Task - Attachment ID : 2754, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:40 : INFO] - 93 
+[2019-07-29 01:37:43 : INFO] - Re_Smush_It_Task - Attachment ID : 2754, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:43 : INFO] - 93 
+[2019-07-29 01:37:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2754, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:44 : INFO] - 93 
+[2019-07-29 01:37:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2754, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:47 : INFO] - 93 
+[2019-07-29 01:37:49 : INFO] - Re_Smush_It_Task - Attachment ID : 2754, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:49 : INFO] - 93 
+[2019-07-29 01:37:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2754, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:52 : INFO] - 93 
+[2019-07-29 01:37:54 : INFO] - Re_Smush_It_Task - Attachment ID : 2754, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:54 : INFO] - 93 
+[2019-07-29 01:37:56 : INFO] - Re_Smush_It_Task - Attachment ID : 2754, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:56 : INFO] - 93 
+[2019-07-29 01:37:58 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/10/zhengban3.jpg.The file was compressed from 114.58 KB to 99.30 KB saving 13.33 percent using WP-Optimize 
+[2019-07-29 01:37:58 : INFO] - Completed processing task with ID : 161, and type 'smush' 
+[2019-07-29 01:37:58 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:37:58 
+[2019-07-29 01:37:58 : INFO] - Processing task with ID : 162, and type 'smush' 
+[2019-07-29 01:37:58 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:37:58 : INFO] - 93 
+[2019-07-29 01:38:01 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/10/57437843198447593-updraft-pre-smush-original.jpg 
+[2019-07-29 01:38:01 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:01 : INFO] - 93 
+[2019-07-29 01:38:03 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:03 : INFO] - 93 
+[2019-07-29 01:38:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:04 : INFO] - 93 
+[2019-07-29 01:38:06 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:06 : INFO] - 93 
+[2019-07-29 01:38:08 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:08 : INFO] - 93 
+[2019-07-29 01:38:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:10 : INFO] - 93 
+[2019-07-29 01:38:12 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:12 : INFO] - 93 
+[2019-07-29 01:38:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:14 : INFO] - 93 
+[2019-07-29 01:38:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:16 : INFO] - 93 
+[2019-07-29 01:38:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:18 : INFO] - 93 
+[2019-07-29 01:38:20 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:20 : INFO] - 93 
+[2019-07-29 01:38:21 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:21 : INFO] - 93 
+[2019-07-29 01:38:24 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:24 : INFO] - 93 
+[2019-07-29 01:38:26 : INFO] - Re_Smush_It_Task - Attachment ID : 2752, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:26 : INFO] - 93 
+[2019-07-29 01:38:27 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/10/57437843198447593.jpg.The file was compressed from 115.99 KB to 102.76 KB saving 11.41 percent using WP-Optimize 
+[2019-07-29 01:38:27 : INFO] - Completed processing task with ID : 162, and type 'smush' 
+[2019-07-29 01:38:27 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:38:27 
+[2019-07-29 01:38:27 : INFO] - Processing task with ID : 163, and type 'smush' 
+[2019-07-29 01:38:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2750, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:27 : INFO] - 93 
+[2019-07-29 01:38:32 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/10/zhengban2-updraft-pre-smush-original.jpg 
+[2019-07-29 01:38:32 : INFO] - Re_Smush_It_Task - Attachment ID : 2750, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:32 : INFO] - 93 
+[2019-07-29 01:38:33 : INFO] - Re_Smush_It_Task - Attachment ID : 2750, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:33 : INFO] - 93 
+[2019-07-29 01:38:36 : INFO] - Re_Smush_It_Task - Attachment ID : 2750, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:36 : INFO] - 93 
+[2019-07-29 01:38:38 : INFO] - Re_Smush_It_Task - Attachment ID : 2750, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:38 : INFO] - 93 
+[2019-07-29 01:38:41 : INFO] - Re_Smush_It_Task - Attachment ID : 2750, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:41 : INFO] - 93 
+[2019-07-29 01:38:43 : INFO] - Re_Smush_It_Task - Attachment ID : 2750, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:43 : INFO] - 93 
+[2019-07-29 01:38:45 : INFO] - Re_Smush_It_Task - Attachment ID : 2750, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:45 : INFO] - 93 
+[2019-07-29 01:38:48 : INFO] - Re_Smush_It_Task - Attachment ID : 2750, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:48 : INFO] - 93 
+[2019-07-29 01:38:51 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/10/zhengban2.jpg.The file was compressed from 200.25 KB to 173.12 KB saving 13.55 percent using WP-Optimize 
+[2019-07-29 01:38:51 : INFO] - Completed processing task with ID : 163, and type 'smush' 
+[2019-07-29 01:38:51 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:38:51 
+[2019-07-29 01:38:51 : INFO] - Processing task with ID : 164, and type 'smush' 
+[2019-07-29 01:38:51 : INFO] - Re_Smush_It_Task - Attachment ID : 2749, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:51 : INFO] - 93 
+[2019-07-29 01:38:55 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/10/zhengban-副本-updraft-pre-smush-original.jpg 
+[2019-07-29 01:38:55 : INFO] - Re_Smush_It_Task - Attachment ID : 2749, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:38:55 : INFO] - 93 
+[2019-07-29 01:47:39 : INFO] - 
+ 
+[2019-07-29 01:47:39 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 01:47:39 +0000 on http://localhost 
+[2019-07-29 01:47:39 : INFO] - WP: 5.2.2 
+[2019-07-29 01:47:39 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 01:47:39 : INFO] - MySQL: 5.5.53 
+[2019-07-29 01:47:39 : INFO] - WPLANG: zh_CN 
+[2019-07-29 01:47:39 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 01:47:39 : INFO] - Outbound connections: N 
+[2019-07-29 01:47:39 : INFO] - safe_mode: 0 
+[2019-07-29 01:47:39 : INFO] - max_execution_time: 3000 
+[2019-07-29 01:47:39 : INFO] - memory_limit: 128M (used: 21.5M | 2M) 
+[2019-07-29 01:47:39 : INFO] - multisite: N 
+[2019-07-29 01:47:39 : INFO] - openssl: N 
+[2019-07-29 01:47:39 : INFO] - A total of 342 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 01:47:39 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 01:47:39 
+[2019-07-29 01:47:39 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 01:47:39 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:47:39 
+[2019-07-29 01:47:39 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 01:47:42 : INFO] - Task with ID 164 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 01:47:42 : INFO] - Processing task with ID : 165, and type 'smush' 
+[2019-07-29 01:47:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2743, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:47:42 : INFO] - 93 
+[2019-07-29 01:47:46 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/background3-updraft-pre-smush-original.jpg 
+[2019-07-29 01:47:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2743, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:47:46 : INFO] - 93 
+[2019-07-29 01:47:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2743, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:47:47 : INFO] - 93 
+[2019-07-29 01:47:49 : INFO] - Re_Smush_It_Task - Attachment ID : 2743, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:47:49 : INFO] - 93 
+[2019-07-29 01:47:51 : INFO] - Re_Smush_It_Task - Attachment ID : 2743, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:47:51 : INFO] - 93 
+[2019-07-29 01:47:53 : INFO] - Re_Smush_It_Task - Attachment ID : 2743, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:47:53 : INFO] - 93 
+[2019-07-29 01:47:54 : INFO] - Re_Smush_It_Task - Attachment ID : 2743, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:47:54 : INFO] - 93 
+[2019-07-29 01:47:56 : INFO] - Re_Smush_It_Task - Attachment ID : 2743, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:47:56 : INFO] - 93 
+[2019-07-29 01:47:58 : INFO] - Re_Smush_It_Task - Attachment ID : 2743, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:47:58 : INFO] - 93 
+[2019-07-29 01:48:00 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/background3.jpg.The file was compressed from 210.53 KB to 186.58 KB saving 11.38 percent using WP-Optimize 
+[2019-07-29 01:48:00 : INFO] - Completed processing task with ID : 165, and type 'smush' 
+[2019-07-29 01:48:00 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:48:00 
+[2019-07-29 01:48:00 : INFO] - Processing task with ID : 166, and type 'smush' 
+[2019-07-29 01:48:00 : INFO] - Re_Smush_It_Task - Attachment ID : 2739, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:00 : INFO] - 93 
+[2019-07-29 01:48:04 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/5-1536028645-updraft-pre-smush-original.jpeg 
+[2019-07-29 01:48:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2739, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:04 : INFO] - 93 
+[2019-07-29 01:48:06 : INFO] - Re_Smush_It_Task - Attachment ID : 2739, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:06 : INFO] - 93 
+[2019-07-29 01:48:08 : INFO] - Re_Smush_It_Task - Attachment ID : 2739, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:08 : INFO] - 93 
+[2019-07-29 01:48:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2739, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:10 : INFO] - 93 
+[2019-07-29 01:48:13 : INFO] - Re_Smush_It_Task - Attachment ID : 2739, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:13 : INFO] - 93 
+[2019-07-29 01:48:15 : INFO] - Re_Smush_It_Task - Attachment ID : 2739, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:15 : INFO] - 93 
+[2019-07-29 01:48:18 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/5-1536028645.jpeg.The file was compressed from 176.28 KB to 78.18 KB saving 55.65 percent using WP-Optimize 
+[2019-07-29 01:48:18 : INFO] - Completed processing task with ID : 166, and type 'smush' 
+[2019-07-29 01:48:18 : INFO] - Processing task with ID : 167, and type 'smush' 
+[2019-07-29 01:48:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2740, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:18 : INFO] - 93 
+[2019-07-29 01:48:21 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/10-1536028645-updraft-pre-smush-original.png 
+[2019-07-29 01:48:21 : INFO] - Re_Smush_It_Task - Attachment ID : 2740, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:21 : INFO] - 93 
+[2019-07-29 01:48:23 : INFO] - Re_Smush_It_Task - Attachment ID : 2740, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:24 : INFO] - 93 
+[2019-07-29 01:48:26 : INFO] - Re_Smush_It_Task - Attachment ID : 2740, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:26 : INFO] - 93 
+[2019-07-29 01:48:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2740, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:27 : INFO] - 93 
+[2019-07-29 01:48:30 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/10-1536028645.png.The file was compressed from 52.72 KB to 27.27 KB saving 48.28 percent using WP-Optimize 
+[2019-07-29 01:48:30 : INFO] - Completed processing task with ID : 167, and type 'smush' 
+[2019-07-29 01:48:30 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:48:30 
+[2019-07-29 01:48:30 : INFO] - Processing task with ID : 168, and type 'smush' 
+[2019-07-29 01:48:30 : INFO] - Re_Smush_It_Task - Attachment ID : 2737, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:30 : INFO] - 93 
+[2019-07-29 01:48:34 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/2-1536028644-updraft-pre-smush-original.jpeg 
+[2019-07-29 01:48:34 : INFO] - Re_Smush_It_Task - Attachment ID : 2737, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:34 : INFO] - 93 
+[2019-07-29 01:48:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2737, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:35 : INFO] - 93 
+[2019-07-29 01:48:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2737, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:37 : INFO] - 93 
+[2019-07-29 01:48:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2737, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:39 : INFO] - 93 
+[2019-07-29 01:48:40 : INFO] - Re_Smush_It_Task - Attachment ID : 2737, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:40 : INFO] - 93 
+[2019-07-29 01:48:43 : INFO] - Re_Smush_It_Task - Attachment ID : 2737, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:43 : INFO] - 93 
+[2019-07-29 01:48:45 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/2-1536028644.jpeg.The file was compressed from 184.37 KB to 117.22 KB saving 36.42 percent using WP-Optimize 
+[2019-07-29 01:48:45 : INFO] - Completed processing task with ID : 168, and type 'smush' 
+[2019-07-29 01:48:45 : INFO] - Processing task with ID : 169, and type 'smush' 
+[2019-07-29 01:48:45 : INFO] - Re_Smush_It_Task - Attachment ID : 2738, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:45 : INFO] - 93 
+[2019-07-29 01:48:47 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/10-1536028644-updraft-pre-smush-original.jpeg 
+[2019-07-29 01:48:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2738, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:47 : INFO] - 93 
+[2019-07-29 01:48:49 : INFO] - Re_Smush_It_Task - Attachment ID : 2738, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:49 : INFO] - 93 
+[2019-07-29 01:48:50 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/10-1536028644.jpeg.The file was compressed from 79.15 KB to 20.99 KB saving 73.48 percent using WP-Optimize 
+[2019-07-29 01:48:50 : INFO] - Completed processing task with ID : 169, and type 'smush' 
+[2019-07-29 01:48:50 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:48:50 
+[2019-07-29 01:48:50 : INFO] - Processing task with ID : 170, and type 'smush' 
+[2019-07-29 01:48:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2735, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:50 : INFO] - 93 
+[2019-07-29 01:48:52 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/7-1536028643-updraft-pre-smush-original.jpeg 
+[2019-07-29 01:48:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2735, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:52 : INFO] - 93 
+[2019-07-29 01:48:53 : INFO] - Re_Smush_It_Task - Attachment ID : 2735, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:53 : INFO] - 93 
+[2019-07-29 01:48:55 : INFO] - Re_Smush_It_Task - Attachment ID : 2735, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:55 : INFO] - 93 
+[2019-07-29 01:48:56 : INFO] - Re_Smush_It_Task - Attachment ID : 2735, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:56 : INFO] - 93 
+[2019-07-29 01:48:58 : INFO] - Re_Smush_It_Task - Attachment ID : 2735, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:48:58 : INFO] - 93 
+[2019-07-29 01:49:00 : INFO] - Re_Smush_It_Task - Attachment ID : 2735, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:49:00 : INFO] - 93 
+[2019-07-29 01:49:02 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/7-1536028643.jpeg.The file was compressed from 30.29 KB to 29.83 KB saving 1.52 percent using WP-Optimize 
+[2019-07-29 01:49:02 : INFO] - Completed processing task with ID : 170, and type 'smush' 
+[2019-07-29 01:49:02 : INFO] - Processing task with ID : 171, and type 'smush' 
+[2019-07-29 01:49:02 : INFO] - Re_Smush_It_Task - Attachment ID : 2736, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:49:02 : INFO] - 93 
+[2019-07-29 01:49:05 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/1-1536028643-updraft-pre-smush-original.gif 
+[2019-07-29 01:49:05 : INFO] - Re_Smush_It_Task - Attachment ID : 2736, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:49:05 : INFO] - 93 
+[2019-07-29 01:49:06 : INFO] - Re_Smush_It_Task - Attachment ID : 2736, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:49:06 : INFO] - 93 
+[2019-07-29 01:49:08 : INFO] - Re_Smush_It_Task - Attachment ID : 2736, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:49:08 : INFO] - 93 
+[2019-07-29 01:57:51 : INFO] - 
+ 
+[2019-07-29 01:57:51 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 01:57:51 +0000 on http://localhost 
+[2019-07-29 01:57:51 : INFO] - WP: 5.2.2 
+[2019-07-29 01:57:51 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 01:57:51 : INFO] - MySQL: 5.5.53 
+[2019-07-29 01:57:51 : INFO] - WPLANG: zh_CN 
+[2019-07-29 01:57:51 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 01:57:51 : INFO] - Outbound connections: N 
+[2019-07-29 01:57:51 : INFO] - safe_mode: 0 
+[2019-07-29 01:57:51 : INFO] - max_execution_time: 3000 
+[2019-07-29 01:57:51 : INFO] - memory_limit: 128M (used: 21.5M | 24M) 
+[2019-07-29 01:57:51 : INFO] - multisite: N 
+[2019-07-29 01:57:51 : INFO] - openssl: N 
+[2019-07-29 01:57:51 : INFO] - A total of 335 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 01:57:51 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 01:57:51 
+[2019-07-29 01:57:51 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 01:57:51 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:57:51 
+[2019-07-29 01:57:51 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 01:57:54 : INFO] - Task with ID 171 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 01:57:54 : INFO] - Processing task with ID : 172, and type 'smush' 
+[2019-07-29 01:57:54 : INFO] - Re_Smush_It_Task - Attachment ID : 2731, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:57:54 : INFO] - 93 
+[2019-07-29 01:57:56 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/2-1536028639-updraft-pre-smush-original.jpeg 
+[2019-07-29 01:57:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2731, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:57:57 : INFO] - 93 
+[2019-07-29 01:57:58 : INFO] - Re_Smush_It_Task - Attachment ID : 2731, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:57:58 : INFO] - 93 
+[2019-07-29 01:57:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2731, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:57:59 : INFO] - 93 
+[2019-07-29 01:58:02 : INFO] - Re_Smush_It_Task - Attachment ID : 2731, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:02 : INFO] - 93 
+[2019-07-29 01:58:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2731, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:04 : INFO] - 93 
+[2019-07-29 01:58:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2731, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:07 : INFO] - 93 
+[2019-07-29 01:58:09 : INFO] - Re_Smush_It_Task - Attachment ID : 2731, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:09 : INFO] - 93 
+[2019-07-29 01:58:12 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/2-1536028639.jpeg.The file was compressed from 63.20 KB to 62.87 KB saving 0.52 percent using WP-Optimize 
+[2019-07-29 01:58:12 : INFO] - Completed processing task with ID : 172, and type 'smush' 
+[2019-07-29 01:58:12 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:58:12 
+[2019-07-29 01:58:12 : INFO] - Processing task with ID : 173, and type 'smush' 
+[2019-07-29 01:58:12 : INFO] - Re_Smush_It_Task - Attachment ID : 2732, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:12 : INFO] - 93 
+[2019-07-29 01:58:14 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/10-1536028639-updraft-pre-smush-original.png 
+[2019-07-29 01:58:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2732, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:14 : INFO] - 93 
+[2019-07-29 01:58:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2732, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:16 : INFO] - 93 
+[2019-07-29 01:58:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2732, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:18 : INFO] - 93 
+[2019-07-29 01:58:20 : INFO] - Re_Smush_It_Task - Attachment ID : 2732, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:20 : INFO] - 93 
+[2019-07-29 01:58:22 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/10-1536028639.png.The file was compressed from 52.72 KB to 27.27 KB saving 48.28 percent using WP-Optimize 
+[2019-07-29 01:58:22 : INFO] - Completed processing task with ID : 173, and type 'smush' 
+[2019-07-29 01:58:22 : INFO] - Processing task with ID : 174, and type 'smush' 
+[2019-07-29 01:58:22 : INFO] - Re_Smush_It_Task - Attachment ID : 2729, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:22 : INFO] - 93 
+[2019-07-29 01:58:25 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/6-1536028638-updraft-pre-smush-original.jpeg 
+[2019-07-29 01:58:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2729, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:25 : INFO] - 93 
+[2019-07-29 01:58:26 : INFO] - Re_Smush_It_Task - Attachment ID : 2729, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:26 : INFO] - 93 
+[2019-07-29 01:58:28 : INFO] - Re_Smush_It_Task - Attachment ID : 2729, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:28 : INFO] - 93 
+[2019-07-29 01:58:30 : INFO] - Re_Smush_It_Task - Attachment ID : 2729, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:30 : INFO] - 93 
+[2019-07-29 01:58:31 : INFO] - Re_Smush_It_Task - Attachment ID : 2729, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:31 : INFO] - 93 
+[2019-07-29 01:58:33 : INFO] - Re_Smush_It_Task - Attachment ID : 2729, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:33 : INFO] - 93 
+[2019-07-29 01:58:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2729, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:35 : INFO] - 93 
+[2019-07-29 01:58:37 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/6-1536028638.jpeg.The file was compressed from 58.67 KB to 58.67 KB saving 0 percent using WP-Optimize 
+[2019-07-29 01:58:37 : INFO] - Completed processing task with ID : 174, and type 'smush' 
+[2019-07-29 01:58:37 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:58:37 
+[2019-07-29 01:58:37 : INFO] - Processing task with ID : 175, and type 'smush' 
+[2019-07-29 01:58:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2730, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:37 : INFO] - 93 
+[2019-07-29 01:58:41 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/5-1536028638-updraft-pre-smush-original.jpeg 
+[2019-07-29 01:58:41 : INFO] - Re_Smush_It_Task - Attachment ID : 2730, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:41 : INFO] - 93 
+[2019-07-29 01:58:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2730, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:42 : INFO] - 93 
+[2019-07-29 01:58:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2730, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:44 : INFO] - 93 
+[2019-07-29 01:58:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2730, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:47 : INFO] - 93 
+[2019-07-29 01:58:48 : INFO] - Re_Smush_It_Task - Attachment ID : 2730, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:48 : INFO] - 93 
+[2019-07-29 01:58:51 : INFO] - Re_Smush_It_Task - Attachment ID : 2730, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:51 : INFO] - 93 
+[2019-07-29 01:58:53 : INFO] - Re_Smush_It_Task - Attachment ID : 2730, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:53 : INFO] - 93 
+[2019-07-29 01:58:56 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/5-1536028638.jpeg.The file was compressed from 85.37 KB to 85.17 KB saving 0.24 percent using WP-Optimize 
+[2019-07-29 01:58:56 : INFO] - Completed processing task with ID : 175, and type 'smush' 
+[2019-07-29 01:58:56 : INFO] - Processing task with ID : 176, and type 'smush' 
+[2019-07-29 01:58:56 : INFO] - Re_Smush_It_Task - Attachment ID : 2728, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:58:56 : INFO] - 93 
+[2019-07-29 01:59:00 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/7-1536028637-updraft-pre-smush-original.jpeg 
+[2019-07-29 01:59:00 : INFO] - Re_Smush_It_Task - Attachment ID : 2728, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:59:00 : INFO] - 93 
+[2019-07-29 01:59:01 : INFO] - Re_Smush_It_Task - Attachment ID : 2728, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:59:01 : INFO] - 93 
+[2019-07-29 01:59:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2728, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:59:04 : INFO] - 93 
+[2019-07-29 01:59:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2728, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:59:07 : INFO] - 93 
+[2019-07-29 01:59:09 : INFO] - Re_Smush_It_Task - Attachment ID : 2728, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:59:09 : INFO] - 93 
+[2019-07-29 01:59:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2728, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:59:10 : INFO] - 93 
+[2019-07-29 01:59:13 : INFO] - Re_Smush_It_Task - Attachment ID : 2728, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:59:13 : INFO] - 93 
+[2019-07-29 01:59:16 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/7-1536028637.jpeg.The file was compressed from 91.00 KB to 90.42 KB saving 0.63 percent using WP-Optimize 
+[2019-07-29 01:59:16 : INFO] - Completed processing task with ID : 176, and type 'smush' 
+[2019-07-29 01:59:16 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 01:59:16 
+[2019-07-29 01:59:16 : INFO] - Processing task with ID : 177, and type 'smush' 
+[2019-07-29 01:59:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2726, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:59:16 : INFO] - 93 
+[2019-07-29 01:59:18 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/7-1536028636-updraft-pre-smush-original.jpeg 
+[2019-07-29 01:59:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2726, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:59:18 : INFO] - 93 
+[2019-07-29 01:59:20 : INFO] - Re_Smush_It_Task - Attachment ID : 2726, Started on : July 28, 2019 09:35:22 
+[2019-07-29 01:59:20 : INFO] - 93 
+[2019-07-29 02:08:50 : INFO] - 
+ 
+[2019-07-29 02:08:50 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 02:08:50 +0000 on http://localhost 
+[2019-07-29 02:08:50 : INFO] - WP: 5.2.2 
+[2019-07-29 02:08:50 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 02:08:50 : INFO] - MySQL: 5.5.53 
+[2019-07-29 02:08:50 : INFO] - WPLANG: zh_CN 
+[2019-07-29 02:08:50 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 02:08:50 : INFO] - Outbound connections: N 
+[2019-07-29 02:08:50 : INFO] - safe_mode: 0 
+[2019-07-29 02:08:50 : INFO] - max_execution_time: 3000 
+[2019-07-29 02:08:50 : INFO] - memory_limit: 128M (used: 21.5M | 24M) 
+[2019-07-29 02:08:50 : INFO] - multisite: N 
+[2019-07-29 02:08:50 : INFO] - openssl: N 
+[2019-07-29 02:08:50 : INFO] - A total of 329 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 02:08:50 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 02:08:50 
+[2019-07-29 02:08:50 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 02:08:50 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:08:50 
+[2019-07-29 02:08:50 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 02:08:53 : INFO] - Task with ID 177 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 02:08:53 : INFO] - Processing task with ID : 178, and type 'smush' 
+[2019-07-29 02:08:53 : INFO] - Re_Smush_It_Task - Attachment ID : 2727, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:08:53 : INFO] - 93 
+[2019-07-29 02:08:56 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/2-1536028636-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:08:56 : INFO] - Re_Smush_It_Task - Attachment ID : 2727, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:08:56 : INFO] - 93 
+[2019-07-29 02:08:58 : INFO] - Re_Smush_It_Task - Attachment ID : 2727, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:08:58 : INFO] - 93 
+[2019-07-29 02:08:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2727, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:08:59 : INFO] - 93 
+[2019-07-29 02:09:02 : INFO] - Re_Smush_It_Task - Attachment ID : 2727, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:02 : INFO] - 93 
+[2019-07-29 02:09:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2727, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:04 : INFO] - 93 
+[2019-07-29 02:09:06 : INFO] - Re_Smush_It_Task - Attachment ID : 2727, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:06 : INFO] - 93 
+[2019-07-29 02:09:08 : INFO] - Re_Smush_It_Task - Attachment ID : 2727, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:08 : INFO] - 93 
+[2019-07-29 02:09:10 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/2-1536028636.jpeg.The file was compressed from 40.65 KB to 40.65 KB saving 0 percent using WP-Optimize 
+[2019-07-29 02:09:10 : INFO] - Completed processing task with ID : 178, and type 'smush' 
+[2019-07-29 02:09:10 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:09:10 
+[2019-07-29 02:09:10 : INFO] - Processing task with ID : 179, and type 'smush' 
+[2019-07-29 02:09:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2723, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:10 : INFO] - 93 
+[2019-07-29 02:09:13 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/2-1536028635-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:09:13 : INFO] - Re_Smush_It_Task - Attachment ID : 2723, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:13 : INFO] - 93 
+[2019-07-29 02:09:15 : INFO] - Re_Smush_It_Task - Attachment ID : 2723, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:15 : INFO] - 93 
+[2019-07-29 02:09:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2723, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:16 : INFO] - 93 
+[2019-07-29 02:09:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2723, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:18 : INFO] - 93 
+[2019-07-29 02:09:19 : INFO] - Re_Smush_It_Task - Attachment ID : 2723, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:19 : INFO] - 93 
+[2019-07-29 02:09:21 : INFO] - Re_Smush_It_Task - Attachment ID : 2723, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:21 : INFO] - 93 
+[2019-07-29 02:09:23 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/2-1536028635.jpeg.The file was compressed from 56.42 KB to 54.33 KB saving 3.71 percent using WP-Optimize 
+[2019-07-29 02:09:23 : INFO] - Completed processing task with ID : 179, and type 'smush' 
+[2019-07-29 02:09:23 : INFO] - Processing task with ID : 180, and type 'smush' 
+[2019-07-29 02:09:23 : INFO] - Re_Smush_It_Task - Attachment ID : 2724, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:23 : INFO] - 93 
+[2019-07-29 02:09:25 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/9-1536028635-updraft-pre-smush-original.gif 
+[2019-07-29 02:09:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2724, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:25 : INFO] - 93 
+[2019-07-29 02:09:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2724, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:27 : INFO] - 93 
+[2019-07-29 02:09:29 : INFO] - Re_Smush_It_Task - Attachment ID : 2724, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:29 : INFO] - 93 
+[2019-07-29 02:09:30 : INFO] - Re_Smush_It_Task - Attachment ID : 2724, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:30 : INFO] - 93 
+[2019-07-29 02:09:32 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/9-1536028635.gif.The file was compressed from 43.36 KB to 43.36 KB saving 0 percent using WP-Optimize 
+[2019-07-29 02:09:32 : INFO] - Completed processing task with ID : 180, and type 'smush' 
+[2019-07-29 02:09:32 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:09:32 
+[2019-07-29 02:09:32 : INFO] - Processing task with ID : 181, and type 'smush' 
+[2019-07-29 02:09:32 : INFO] - Re_Smush_It_Task - Attachment ID : 2725, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:32 : INFO] - 93 
+[2019-07-29 02:09:34 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/0-1536028635-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:09:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2725, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:35 : INFO] - 93 
+[2019-07-29 02:09:36 : INFO] - Re_Smush_It_Task - Attachment ID : 2725, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:36 : INFO] - 93 
+[2019-07-29 02:09:38 : INFO] - Re_Smush_It_Task - Attachment ID : 2725, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:38 : INFO] - 93 
+[2019-07-29 02:09:40 : INFO] - Re_Smush_It_Task - Attachment ID : 2725, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:40 : INFO] - 93 
+[2019-07-29 02:09:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2725, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:42 : INFO] - 93 
+[2019-07-29 02:09:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2725, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:44 : INFO] - 93 
+[2019-07-29 02:09:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2725, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:46 : INFO] - 93 
+[2019-07-29 02:09:48 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/0-1536028635.jpeg.The file was compressed from 47.16 KB to 47.16 KB saving 0 percent using WP-Optimize 
+[2019-07-29 02:09:48 : INFO] - Completed processing task with ID : 181, and type 'smush' 
+[2019-07-29 02:09:48 : INFO] - Processing task with ID : 182, and type 'smush' 
+[2019-07-29 02:09:48 : INFO] - Re_Smush_It_Task - Attachment ID : 2720, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:48 : INFO] - 93 
+[2019-07-29 02:09:50 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/3-1536028632-updraft-pre-smush-original.png 
+[2019-07-29 02:09:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2720, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:50 : INFO] - 93 
+[2019-07-29 02:09:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2720, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:52 : INFO] - 93 
+[2019-07-29 02:09:55 : INFO] - Re_Smush_It_Task - Attachment ID : 2720, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:55 : INFO] - 93 
+[2019-07-29 02:09:56 : INFO] - Re_Smush_It_Task - Attachment ID : 2720, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:56 : INFO] - 93 
+[2019-07-29 02:09:59 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/3-1536028632.png.The file was compressed from 52.72 KB to 27.27 KB saving 48.28 percent using WP-Optimize 
+[2019-07-29 02:09:59 : INFO] - Completed processing task with ID : 182, and type 'smush' 
+[2019-07-29 02:09:59 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:09:59 
+[2019-07-29 02:09:59 : INFO] - Processing task with ID : 183, and type 'smush' 
+[2019-07-29 02:09:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2719, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:09:59 : INFO] - 93 
+[2019-07-29 02:10:02 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/1-1536028631-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:10:02 : INFO] - Re_Smush_It_Task - Attachment ID : 2719, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:10:02 : INFO] - 93 
+[2019-07-29 02:10:03 : INFO] - Re_Smush_It_Task - Attachment ID : 2719, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:10:03 : INFO] - 93 
+[2019-07-29 02:10:06 : INFO] - Re_Smush_It_Task - Attachment ID : 2719, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:10:06 : INFO] - 93 
+[2019-07-29 02:10:09 : INFO] - Re_Smush_It_Task - Attachment ID : 2719, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:10:09 : INFO] - 93 
+[2019-07-29 02:10:12 : INFO] - Re_Smush_It_Task - Attachment ID : 2719, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:10:12 : INFO] - 93 
+[2019-07-29 02:10:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2719, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:10:14 : INFO] - 93 
+[2019-07-29 02:10:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2719, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:10:16 : INFO] - 93 
+[2019-07-29 02:10:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2719, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:10:18 : INFO] - 93 
+[2019-07-29 02:10:20 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/1-1536028631.jpeg.The file was compressed from 43.53 KB to 43.53 KB saving 0 percent using WP-Optimize 
+[2019-07-29 02:10:20 : INFO] - Completed processing task with ID : 183, and type 'smush' 
+[2019-07-29 02:10:20 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:10:20 
+[2019-07-29 02:10:20 : INFO] - Processing task with ID : 184, and type 'smush' 
+[2019-07-29 02:10:20 : INFO] - Re_Smush_It_Task - Attachment ID : 2716, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:10:20 : INFO] - 93 
+[2019-07-29 02:18:53 : INFO] - 
+ 
+[2019-07-29 02:18:53 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 02:18:53 +0000 on http://localhost 
+[2019-07-29 02:18:53 : INFO] - WP: 5.2.2 
+[2019-07-29 02:18:53 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 02:18:53 : INFO] - MySQL: 5.5.53 
+[2019-07-29 02:18:53 : INFO] - WPLANG: zh_CN 
+[2019-07-29 02:18:53 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 02:18:53 : INFO] - Outbound connections: N 
+[2019-07-29 02:18:53 : INFO] - safe_mode: 0 
+[2019-07-29 02:18:53 : INFO] - max_execution_time: 3000 
+[2019-07-29 02:18:53 : INFO] - memory_limit: 128M (used: 21.5M | 24M) 
+[2019-07-29 02:18:53 : INFO] - multisite: N 
+[2019-07-29 02:18:53 : INFO] - openssl: N 
+[2019-07-29 02:18:54 : INFO] - A total of 322 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 02:18:54 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 02:18:54 
+[2019-07-29 02:18:54 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 02:18:54 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:18:54 
+[2019-07-29 02:18:54 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 02:18:57 : INFO] - Task with ID 184 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 02:18:57 : INFO] - Processing task with ID : 185, and type 'smush' 
+[2019-07-29 02:18:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2717, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:18:57 : INFO] - 93 
+[2019-07-29 02:18:59 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/6-1536028630-updraft-pre-smush-original.gif 
+[2019-07-29 02:18:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2717, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:18:59 : INFO] - 93 
+[2019-07-29 02:19:01 : INFO] - Re_Smush_It_Task - Attachment ID : 2717, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:01 : INFO] - 93 
+[2019-07-29 02:19:03 : INFO] - Re_Smush_It_Task - Attachment ID : 2717, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:03 : INFO] - 93 
+[2019-07-29 02:19:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2717, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:04 : INFO] - 93 
+[2019-07-29 02:19:06 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/6-1536028630.gif.The file was compressed from 43.36 KB to 43.36 KB saving 0 percent using WP-Optimize 
+[2019-07-29 02:19:06 : INFO] - Completed processing task with ID : 185, and type 'smush' 
+[2019-07-29 02:19:06 : INFO] - Processing task with ID : 186, and type 'smush' 
+[2019-07-29 02:19:06 : INFO] - Re_Smush_It_Task - Attachment ID : 2718, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:06 : INFO] - 93 
+[2019-07-29 02:19:08 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/3-1536028630-updraft-pre-smush-original.png 
+[2019-07-29 02:19:08 : INFO] - Re_Smush_It_Task - Attachment ID : 2718, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:08 : INFO] - 93 
+[2019-07-29 02:19:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2718, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:10 : INFO] - 93 
+[2019-07-29 02:19:12 : INFO] - Re_Smush_It_Task - Attachment ID : 2718, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:12 : INFO] - 93 
+[2019-07-29 02:19:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2718, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:14 : INFO] - 93 
+[2019-07-29 02:19:16 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/3-1536028630.png.The file was compressed from 41.87 KB to 21.75 KB saving 48.05 percent using WP-Optimize 
+[2019-07-29 02:19:16 : INFO] - Completed processing task with ID : 186, and type 'smush' 
+[2019-07-29 02:19:16 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:19:16 
+[2019-07-29 02:19:16 : INFO] - Processing task with ID : 187, and type 'smush' 
+[2019-07-29 02:19:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2713, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:16 : INFO] - 93 
+[2019-07-29 02:19:18 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/6-1536028627-updraft-pre-smush-original.png 
+[2019-07-29 02:19:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2713, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:18 : INFO] - 93 
+[2019-07-29 02:19:20 : INFO] - Re_Smush_It_Task - Attachment ID : 2713, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:20 : INFO] - 93 
+[2019-07-29 02:19:22 : INFO] - Re_Smush_It_Task - Attachment ID : 2713, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:22 : INFO] - 93 
+[2019-07-29 02:19:24 : INFO] - Re_Smush_It_Task - Attachment ID : 2713, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:24 : INFO] - 93 
+[2019-07-29 02:19:27 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/6-1536028627.png.The file was compressed from 52.72 KB to 27.27 KB saving 48.28 percent using WP-Optimize 
+[2019-07-29 02:19:27 : INFO] - Completed processing task with ID : 187, and type 'smush' 
+[2019-07-29 02:19:27 : INFO] - Processing task with ID : 188, and type 'smush' 
+[2019-07-29 02:19:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2710, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:27 : INFO] - 93 
+[2019-07-29 02:19:29 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/7-1536028626-updraft-pre-smush-original.gif 
+[2019-07-29 02:19:29 : INFO] - Re_Smush_It_Task - Attachment ID : 2710, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:29 : INFO] - 93 
+[2019-07-29 02:19:31 : INFO] - Re_Smush_It_Task - Attachment ID : 2710, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:31 : INFO] - 93 
+[2019-07-29 02:19:33 : INFO] - Re_Smush_It_Task - Attachment ID : 2710, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:33 : INFO] - 93 
+[2019-07-29 02:19:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2710, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:35 : INFO] - 93 
+[2019-07-29 02:19:37 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/7-1536028626.gif.The file was compressed from 43.36 KB to 43.36 KB saving 0 percent using WP-Optimize 
+[2019-07-29 02:19:37 : INFO] - Completed processing task with ID : 188, and type 'smush' 
+[2019-07-29 02:19:37 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:19:37 
+[2019-07-29 02:19:37 : INFO] - Processing task with ID : 189, and type 'smush' 
+[2019-07-29 02:19:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2711, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:37 : INFO] - 93 
+[2019-07-29 02:19:40 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/3-1536028626-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:19:40 : INFO] - Re_Smush_It_Task - Attachment ID : 2711, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:40 : INFO] - 93 
+[2019-07-29 02:19:41 : INFO] - Re_Smush_It_Task - Attachment ID : 2711, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:41 : INFO] - 93 
+[2019-07-29 02:19:43 : INFO] - Re_Smush_It_Task - Attachment ID : 2711, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:43 : INFO] - 93 
+[2019-07-29 02:19:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2711, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:46 : INFO] - 93 
+[2019-07-29 02:19:48 : INFO] - Re_Smush_It_Task - Attachment ID : 2711, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:48 : INFO] - 93 
+[2019-07-29 02:19:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2711, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:50 : INFO] - 93 
+[2019-07-29 02:19:52 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/3-1536028626.jpeg.The file was compressed from 17.11 KB to 16.61 KB saving 2.93 percent using WP-Optimize 
+[2019-07-29 02:19:52 : INFO] - Completed processing task with ID : 189, and type 'smush' 
+[2019-07-29 02:19:52 : INFO] - Processing task with ID : 190, and type 'smush' 
+[2019-07-29 02:19:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2712, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:52 : INFO] - 93 
+[2019-07-29 02:19:55 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/2-1536028626-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:19:55 : INFO] - Re_Smush_It_Task - Attachment ID : 2712, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:55 : INFO] - 93 
+[2019-07-29 02:19:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2712, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:57 : INFO] - 93 
+[2019-07-29 02:19:58 : INFO] - Re_Smush_It_Task - Attachment ID : 2712, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:19:58 : INFO] - 93 
+[2019-07-29 02:20:00 : INFO] - Re_Smush_It_Task - Attachment ID : 2712, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:20:00 : INFO] - 93 
+[2019-07-29 02:20:02 : INFO] - Re_Smush_It_Task - Attachment ID : 2712, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:20:02 : INFO] - 93 
+[2019-07-29 02:20:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2712, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:20:04 : INFO] - 93 
+[2019-07-29 02:20:06 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/2-1536028626.jpeg.The file was compressed from 118.42 KB to 113.69 KB saving 3.99 percent using WP-Optimize 
+[2019-07-29 02:20:06 : INFO] - Completed processing task with ID : 190, and type 'smush' 
+[2019-07-29 02:20:06 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:20:06 
+[2019-07-29 02:20:06 : INFO] - Processing task with ID : 191, and type 'smush' 
+[2019-07-29 02:20:06 : INFO] - Re_Smush_It_Task - Attachment ID : 2709, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:20:06 : INFO] - 93 
+[2019-07-29 02:20:09 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/3-1536028625-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:20:09 : INFO] - Re_Smush_It_Task - Attachment ID : 2709, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:20:09 : INFO] - 93 
+[2019-07-29 02:20:11 : INFO] - Re_Smush_It_Task - Attachment ID : 2709, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:20:11 : INFO] - 93 
+[2019-07-29 02:20:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2709, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:20:14 : INFO] - 93 
+[2019-07-29 02:20:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2709, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:20:16 : INFO] - 93 
+[2019-07-29 02:20:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2709, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:20:18 : INFO] - 93 
+[2019-07-29 02:20:20 : INFO] - Re_Smush_It_Task - Attachment ID : 2709, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:20:20 : INFO] - 93 
+[2019-07-29 02:20:22 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/3-1536028625.jpeg.The file was compressed from 51.94 KB to 48.47 KB saving 6.68 percent using WP-Optimize 
+[2019-07-29 02:20:22 : INFO] - Completed processing task with ID : 191, and type 'smush' 
+[2019-07-29 02:20:22 : INFO] - Processing task with ID : 192, and type 'smush' 
+[2019-07-29 02:20:22 : INFO] - Re_Smush_It_Task - Attachment ID : 2705, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:20:22 : INFO] - 93 
+[2019-07-29 02:28:57 : INFO] - 
+ 
+[2019-07-29 02:28:57 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 02:28:57 +0000 on http://localhost 
+[2019-07-29 02:28:57 : INFO] - WP: 5.2.2 
+[2019-07-29 02:28:57 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 02:28:57 : INFO] - MySQL: 5.5.53 
+[2019-07-29 02:28:57 : INFO] - WPLANG: zh_CN 
+[2019-07-29 02:28:57 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 02:28:57 : INFO] - Outbound connections: N 
+[2019-07-29 02:28:57 : INFO] - safe_mode: 0 
+[2019-07-29 02:28:57 : INFO] - max_execution_time: 3000 
+[2019-07-29 02:28:57 : INFO] - memory_limit: 128M (used: 21.5M | 24M) 
+[2019-07-29 02:28:57 : INFO] - multisite: N 
+[2019-07-29 02:28:57 : INFO] - openssl: N 
+[2019-07-29 02:28:58 : INFO] - A total of 314 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 02:28:58 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 02:28:58 
+[2019-07-29 02:28:58 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 02:28:58 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:28:58 
+[2019-07-29 02:28:58 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 02:29:01 : INFO] - Task with ID 192 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 02:29:01 : INFO] - Processing task with ID : 193, and type 'smush' 
+[2019-07-29 02:29:01 : INFO] - Re_Smush_It_Task - Attachment ID : 2706, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:01 : INFO] - 93 
+[2019-07-29 02:29:03 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/0-1536028622-updraft-pre-smush-original.png 
+[2019-07-29 02:29:03 : INFO] - Re_Smush_It_Task - Attachment ID : 2706, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:03 : INFO] - 93 
+[2019-07-29 02:29:05 : INFO] - Re_Smush_It_Task - Attachment ID : 2706, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:05 : INFO] - 93 
+[2019-07-29 02:29:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2706, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:07 : INFO] - 93 
+[2019-07-29 02:29:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2706, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:10 : INFO] - 93 
+[2019-07-29 02:29:13 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/0-1536028622.png.The file was compressed from 52.72 KB to 27.27 KB saving 48.28 percent using WP-Optimize 
+[2019-07-29 02:29:13 : INFO] - Completed processing task with ID : 193, and type 'smush' 
+[2019-07-29 02:29:13 : INFO] - Processing task with ID : 194, and type 'smush' 
+[2019-07-29 02:29:13 : INFO] - Re_Smush_It_Task - Attachment ID : 2704, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:13 : INFO] - 93 
+[2019-07-29 02:29:16 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/10-1536028621-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:29:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2704, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:16 : INFO] - 93 
+[2019-07-29 02:29:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2704, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:18 : INFO] - 93 
+[2019-07-29 02:29:20 : INFO] - Re_Smush_It_Task - Attachment ID : 2704, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:20 : INFO] - 93 
+[2019-07-29 02:29:22 : INFO] - Re_Smush_It_Task - Attachment ID : 2704, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:22 : INFO] - 93 
+[2019-07-29 02:29:24 : INFO] - Re_Smush_It_Task - Attachment ID : 2704, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:24 : INFO] - 93 
+[2019-07-29 02:29:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2704, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:27 : INFO] - 93 
+[2019-07-29 02:29:29 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/10-1536028621.jpeg.The file was compressed from 99.12 KB to 91.02 KB saving 8.17 percent using WP-Optimize 
+[2019-07-29 02:29:29 : INFO] - Completed processing task with ID : 194, and type 'smush' 
+[2019-07-29 02:29:29 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:29:29 
+[2019-07-29 02:29:29 : INFO] - Processing task with ID : 195, and type 'smush' 
+[2019-07-29 02:29:29 : INFO] - Re_Smush_It_Task - Attachment ID : 2702, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:29 : INFO] - 93 
+[2019-07-29 02:29:32 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/2-1536028620-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:29:32 : INFO] - Re_Smush_It_Task - Attachment ID : 2702, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:32 : INFO] - 93 
+[2019-07-29 02:29:34 : INFO] - Re_Smush_It_Task - Attachment ID : 2702, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:34 : INFO] - 93 
+[2019-07-29 02:29:36 : INFO] - Re_Smush_It_Task - Attachment ID : 2702, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:36 : INFO] - 93 
+[2019-07-29 02:29:38 : INFO] - Re_Smush_It_Task - Attachment ID : 2702, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:38 : INFO] - 93 
+[2019-07-29 02:29:40 : INFO] - Re_Smush_It_Task - Attachment ID : 2702, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:40 : INFO] - 93 
+[2019-07-29 02:29:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2702, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:42 : INFO] - 93 
+[2019-07-29 02:29:45 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/2-1536028620.jpeg.The file was compressed from 87.23 KB to 82.25 KB saving 5.71 percent using WP-Optimize 
+[2019-07-29 02:29:45 : INFO] - Completed processing task with ID : 195, and type 'smush' 
+[2019-07-29 02:29:45 : INFO] - Processing task with ID : 196, and type 'smush' 
+[2019-07-29 02:29:45 : INFO] - Re_Smush_It_Task - Attachment ID : 2703, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:45 : INFO] - 93 
+[2019-07-29 02:29:47 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/5-1536028620-updraft-pre-smush-original.gif 
+[2019-07-29 02:29:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2703, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:47 : INFO] - 93 
+[2019-07-29 02:29:49 : INFO] - Re_Smush_It_Task - Attachment ID : 2703, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:49 : INFO] - 93 
+[2019-07-29 02:29:51 : INFO] - Re_Smush_It_Task - Attachment ID : 2703, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:51 : INFO] - 93 
+[2019-07-29 02:29:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2703, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:52 : INFO] - 93 
+[2019-07-29 02:29:54 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/5-1536028620.gif.The file was compressed from 43.36 KB to 43.36 KB saving 0 percent using WP-Optimize 
+[2019-07-29 02:29:54 : INFO] - Completed processing task with ID : 196, and type 'smush' 
+[2019-07-29 02:29:54 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:29:54 
+[2019-07-29 02:29:54 : INFO] - Processing task with ID : 197, and type 'smush' 
+[2019-07-29 02:29:54 : INFO] - Re_Smush_It_Task - Attachment ID : 2699, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:54 : INFO] - 93 
+[2019-07-29 02:29:57 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/0-1536028617-updraft-pre-smush-original.png 
+[2019-07-29 02:29:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2699, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:57 : INFO] - 93 
+[2019-07-29 02:29:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2699, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:29:59 : INFO] - 93 
+[2019-07-29 02:30:01 : INFO] - Re_Smush_It_Task - Attachment ID : 2699, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:30:01 : INFO] - 93 
+[2019-07-29 02:30:03 : INFO] - Re_Smush_It_Task - Attachment ID : 2699, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:30:03 : INFO] - 93 
+[2019-07-29 02:30:07 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/0-1536028617.png.The file was compressed from 52.72 KB to 27.27 KB saving 48.28 percent using WP-Optimize 
+[2019-07-29 02:30:07 : INFO] - Completed processing task with ID : 197, and type 'smush' 
+[2019-07-29 02:30:07 : INFO] - Processing task with ID : 198, and type 'smush' 
+[2019-07-29 02:30:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2697, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:30:07 : INFO] - 93 
+[2019-07-29 02:30:10 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/9-1536028616-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:30:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2697, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:30:10 : INFO] - 93 
+[2019-07-29 02:30:12 : INFO] - Re_Smush_It_Task - Attachment ID : 2697, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:30:12 : INFO] - 93 
+[2019-07-29 02:30:15 : INFO] - Re_Smush_It_Task - Attachment ID : 2697, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:30:15 : INFO] - 93 
+[2019-07-29 02:30:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2697, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:30:16 : INFO] - 93 
+[2019-07-29 02:30:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2697, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:30:18 : INFO] - 93 
+[2019-07-29 02:30:21 : INFO] - Re_Smush_It_Task - Attachment ID : 2697, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:30:21 : INFO] - 93 
+[2019-07-29 02:30:23 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/9-1536028616.jpeg.The file was compressed from 130.27 KB to 81.36 KB saving 37.55 percent using WP-Optimize 
+[2019-07-29 02:30:23 : INFO] - Completed processing task with ID : 198, and type 'smush' 
+[2019-07-29 02:30:23 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:30:23 
+[2019-07-29 02:30:23 : INFO] - Processing task with ID : 199, and type 'smush' 
+[2019-07-29 02:30:23 : INFO] - Re_Smush_It_Task - Attachment ID : 2698, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:30:23 : INFO] - 93 
+[2019-07-29 02:30:25 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/9-1536028616-1-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:30:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2698, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:30:25 : INFO] - 93 
+[2019-07-29 02:30:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2698, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:30:27 : INFO] - 93 
+[2019-07-29 02:51:47 : INFO] - 
+ 
+[2019-07-29 02:51:47 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 02:51:47 +0000 on http://localhost 
+[2019-07-29 02:51:47 : INFO] - WP: 5.2.2 
+[2019-07-29 02:51:47 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 02:51:47 : INFO] - MySQL: 5.5.53 
+[2019-07-29 02:51:47 : INFO] - WPLANG: zh_CN 
+[2019-07-29 02:51:47 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 02:51:47 : INFO] - Outbound connections: N 
+[2019-07-29 02:51:47 : INFO] - safe_mode: 0 
+[2019-07-29 02:51:47 : INFO] - max_execution_time: 3000 
+[2019-07-29 02:51:47 : INFO] - memory_limit: 128M (used: 21.5M | 24M) 
+[2019-07-29 02:51:47 : INFO] - multisite: N 
+[2019-07-29 02:51:47 : INFO] - openssl: N 
+[2019-07-29 02:51:47 : INFO] - A total of 307 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 02:51:47 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 02:51:47 
+[2019-07-29 02:51:47 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 02:51:47 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:51:47 
+[2019-07-29 02:51:47 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 02:51:50 : INFO] - Task with ID 199 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 02:51:50 : INFO] - Processing task with ID : 200, and type 'smush' 
+[2019-07-29 02:51:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2695, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:51:50 : INFO] - 93 
+[2019-07-29 02:51:56 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/0-1536028615-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:51:56 : INFO] - Re_Smush_It_Task - Attachment ID : 2695, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:51:56 : INFO] - 93 
+[2019-07-29 02:51:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2695, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:51:57 : INFO] - 93 
+[2019-07-29 02:51:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2695, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:51:59 : INFO] - 93 
+[2019-07-29 02:52:00 : INFO] - Re_Smush_It_Task - Attachment ID : 2695, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:52:00 : INFO] - 93 
+[2019-07-29 02:52:02 : INFO] - Re_Smush_It_Task - Attachment ID : 2695, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:52:02 : INFO] - 93 
+[2019-07-29 02:52:05 : INFO] - Re_Smush_It_Task - Attachment ID : 2695, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:52:05 : INFO] - 93 
+[2019-07-29 02:52:07 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/0-1536028615.jpeg.The file was compressed from 107.43 KB to 100.55 KB saving 6.41 percent using WP-Optimize 
+[2019-07-29 02:52:07 : INFO] - Completed processing task with ID : 200, and type 'smush' 
+[2019-07-29 02:52:07 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:52:07 
+[2019-07-29 02:52:07 : INFO] - Processing task with ID : 201, and type 'smush' 
+[2019-07-29 02:52:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2696, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:52:07 : INFO] - 93 
+[2019-07-29 02:52:10 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/3-1536028615-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:52:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2696, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:52:10 : INFO] - 93 
+[2019-07-29 02:52:11 : INFO] - Re_Smush_It_Task - Attachment ID : 2696, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:52:11 : INFO] - 93 
+[2019-07-29 02:52:13 : INFO] - Re_Smush_It_Task - Attachment ID : 2696, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:52:13 : INFO] - 93 
+[2019-07-29 02:52:15 : INFO] - Re_Smush_It_Task - Attachment ID : 2696, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:52:15 : INFO] - 93 
+[2019-07-29 02:52:17 : INFO] - Re_Smush_It_Task - Attachment ID : 2696, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:52:17 : INFO] - 93 
+[2019-07-29 02:52:19 : INFO] - Re_Smush_It_Task - Attachment ID : 2696, Started on : July 28, 2019 09:35:22 
+[2019-07-29 02:52:19 : INFO] - 93 
+[2019-07-29 02:52:21 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/3-1536028615.jpeg.The file was compressed from 159.46 KB to 62.32 KB saving 60.92 percent using WP-Optimize 
+[2019-07-29 02:52:21 : INFO] - Completed processing task with ID : 201, and type 'smush' 
+[2019-07-29 02:52:21 : INFO] - Processing task with ID : 202, and type 'smush' 
+[2019-07-29 02:52:21 : INFO] - Re_Smush_It_Task - Attachment ID : 2692, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:21 : INFO] - 93 
+[2019-07-29 02:52:23 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/1-1536028614-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:52:23 : INFO] - Re_Smush_It_Task - Attachment ID : 2692, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:23 : INFO] - 93 
+[2019-07-29 02:52:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2692, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:25 : INFO] - 93 
+[2019-07-29 02:52:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2692, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:27 : INFO] - 93 
+[2019-07-29 02:52:28 : INFO] - Re_Smush_It_Task - Attachment ID : 2692, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:28 : INFO] - 93 
+[2019-07-29 02:52:30 : INFO] - Re_Smush_It_Task - Attachment ID : 2692, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:30 : INFO] - 93 
+[2019-07-29 02:52:32 : INFO] - Re_Smush_It_Task - Attachment ID : 2692, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:32 : INFO] - 93 
+[2019-07-29 02:52:35 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/1-1536028614.jpeg.The file was compressed from 29.20 KB to 29.20 KB saving 0 percent using WP-Optimize 
+[2019-07-29 02:52:35 : INFO] - Completed processing task with ID : 202, and type 'smush' 
+[2019-07-29 02:52:35 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:52:35 
+[2019-07-29 02:52:35 : INFO] - Processing task with ID : 203, and type 'smush' 
+[2019-07-29 02:52:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2693, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:35 : INFO] - 93 
+[2019-07-29 02:52:37 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/6-1536028614-updraft-pre-smush-original.gif 
+[2019-07-29 02:52:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2693, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:37 : INFO] - 93 
+[2019-07-29 02:52:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2693, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:39 : INFO] - 93 
+[2019-07-29 02:52:40 : INFO] - Re_Smush_It_Task - Attachment ID : 2693, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:40 : INFO] - 93 
+[2019-07-29 02:52:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2693, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:42 : INFO] - 93 
+[2019-07-29 02:52:44 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/6-1536028614.gif.The file was compressed from 43.36 KB to 43.36 KB saving 0 percent using WP-Optimize 
+[2019-07-29 02:52:44 : INFO] - Completed processing task with ID : 203, and type 'smush' 
+[2019-07-29 02:52:44 : INFO] - Processing task with ID : 204, and type 'smush' 
+[2019-07-29 02:52:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2694, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:44 : INFO] - 93 
+[2019-07-29 02:52:48 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/9-1536028614-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:52:48 : INFO] - Re_Smush_It_Task - Attachment ID : 2694, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:48 : INFO] - 93 
+[2019-07-29 02:52:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2694, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:50 : INFO] - 93 
+[2019-07-29 02:52:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2694, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:52 : INFO] - 93 
+[2019-07-29 02:52:54 : INFO] - Re_Smush_It_Task - Attachment ID : 2694, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:54 : INFO] - 93 
+[2019-07-29 02:52:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2694, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:52:57 : INFO] - 93 
+[2019-07-29 02:53:00 : INFO] - Re_Smush_It_Task - Attachment ID : 2694, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:53:00 : INFO] - 93 
+[2019-07-29 02:53:03 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/9-1536028614.jpeg.The file was compressed from 189.33 KB to 76.17 KB saving 59.77 percent using WP-Optimize 
+[2019-07-29 02:53:03 : INFO] - Completed processing task with ID : 204, and type 'smush' 
+[2019-07-29 02:53:03 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 02:53:03 
+[2019-07-29 02:53:03 : INFO] - Processing task with ID : 205, and type 'smush' 
+[2019-07-29 02:53:03 : INFO] - Re_Smush_It_Task - Attachment ID : 2687, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:53:03 : INFO] - 93 
+[2019-07-29 02:53:05 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/6-1536028610-updraft-pre-smush-original.gif 
+[2019-07-29 02:53:05 : INFO] - Re_Smush_It_Task - Attachment ID : 2687, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:53:05 : INFO] - 93 
+[2019-07-29 02:53:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2687, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:53:07 : INFO] - 93 
+[2019-07-29 02:53:08 : INFO] - Re_Smush_It_Task - Attachment ID : 2687, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:53:08 : INFO] - 93 
+[2019-07-29 02:53:09 : INFO] - Re_Smush_It_Task - Attachment ID : 2687, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:53:09 : INFO] - 93 
+[2019-07-29 02:53:11 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/6-1536028610.gif.The file was compressed from 43.36 KB to 43.36 KB saving 0 percent using WP-Optimize 
+[2019-07-29 02:53:11 : INFO] - Completed processing task with ID : 205, and type 'smush' 
+[2019-07-29 02:53:11 : INFO] - Processing task with ID : 206, and type 'smush' 
+[2019-07-29 02:53:11 : INFO] - Re_Smush_It_Task - Attachment ID : 2688, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:53:11 : INFO] - 93 
+[2019-07-29 02:53:13 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/3-1536028610-updraft-pre-smush-original.jpeg 
+[2019-07-29 02:53:13 : INFO] - Re_Smush_It_Task - Attachment ID : 2688, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:53:13 : INFO] - 93 
+[2019-07-29 02:53:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2688, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:53:14 : INFO] - 93 
+[2019-07-29 02:53:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2688, Started on : July 28, 2019 09:35:23 
+[2019-07-29 02:53:16 : INFO] - 93 
+[2019-07-29 03:02:15 : INFO] - 
+ 
+[2019-07-29 03:02:15 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 03:02:15 +0000 on http://localhost 
+[2019-07-29 03:02:15 : INFO] - WP: 5.2.2 
+[2019-07-29 03:02:15 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 03:02:15 : INFO] - MySQL: 5.5.53 
+[2019-07-29 03:02:15 : INFO] - WPLANG: zh_CN 
+[2019-07-29 03:02:15 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 03:02:15 : INFO] - Outbound connections: N 
+[2019-07-29 03:02:15 : INFO] - safe_mode: 0 
+[2019-07-29 03:02:15 : INFO] - max_execution_time: 3000 
+[2019-07-29 03:02:15 : INFO] - memory_limit: 128M (used: 21.5M | 24M) 
+[2019-07-29 03:02:15 : INFO] - multisite: N 
+[2019-07-29 03:02:15 : INFO] - openssl: N 
+[2019-07-29 03:02:15 : INFO] - A total of 300 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 03:02:15 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 03:02:15 
+[2019-07-29 03:02:15 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 03:02:15 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 03:02:15 
+[2019-07-29 03:02:15 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 03:02:19 : INFO] - Task with ID 206 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 03:02:19 : INFO] - Processing task with ID : 207, and type 'smush' 
+[2019-07-29 03:02:19 : INFO] - Re_Smush_It_Task - Attachment ID : 2689, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:19 : INFO] - 93 
+[2019-07-29 03:02:21 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/3-1536028610-updraft-pre-smush-original.png 
+[2019-07-29 03:02:21 : INFO] - Re_Smush_It_Task - Attachment ID : 2689, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:21 : INFO] - 93 
+[2019-07-29 03:02:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2689, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:25 : INFO] - 93 
+[2019-07-29 03:02:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2689, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:27 : INFO] - 93 
+[2019-07-29 03:02:29 : INFO] - Re_Smush_It_Task - Attachment ID : 2689, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:29 : INFO] - 93 
+[2019-07-29 03:02:32 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/3-1536028610.png.The file was compressed from 52.72 KB to 27.27 KB saving 48.28 percent using WP-Optimize 
+[2019-07-29 03:02:32 : INFO] - Completed processing task with ID : 207, and type 'smush' 
+[2019-07-29 03:02:32 : INFO] - Processing task with ID : 208, and type 'smush' 
+[2019-07-29 03:02:32 : INFO] - Re_Smush_It_Task - Attachment ID : 2686, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:32 : INFO] - 93 
+[2019-07-29 03:02:36 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/6-1536028609-updraft-pre-smush-original.jpeg 
+[2019-07-29 03:02:36 : INFO] - Re_Smush_It_Task - Attachment ID : 2686, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:36 : INFO] - 93 
+[2019-07-29 03:02:38 : INFO] - Re_Smush_It_Task - Attachment ID : 2686, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:38 : INFO] - 93 
+[2019-07-29 03:02:41 : INFO] - Re_Smush_It_Task - Attachment ID : 2686, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:41 : INFO] - 93 
+[2019-07-29 03:02:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2686, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:42 : INFO] - 93 
+[2019-07-29 03:02:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2686, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:44 : INFO] - 93 
+[2019-07-29 03:02:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2686, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:46 : INFO] - 93 
+[2019-07-29 03:02:48 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/6-1536028609.jpeg.The file was compressed from 29.58 KB to 29.58 KB saving 0 percent using WP-Optimize 
+[2019-07-29 03:02:48 : INFO] - Completed processing task with ID : 208, and type 'smush' 
+[2019-07-29 03:02:48 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 03:02:48 
+[2019-07-29 03:02:48 : INFO] - Processing task with ID : 209, and type 'smush' 
+[2019-07-29 03:02:48 : INFO] - Re_Smush_It_Task - Attachment ID : 2683, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:48 : INFO] - 93 
+[2019-07-29 03:02:51 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/8-1536028606-updraft-pre-smush-original.png 
+[2019-07-29 03:02:51 : INFO] - Re_Smush_It_Task - Attachment ID : 2683, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:51 : INFO] - 93 
+[2019-07-29 03:02:53 : INFO] - Re_Smush_It_Task - Attachment ID : 2683, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:53 : INFO] - 93 
+[2019-07-29 03:02:55 : INFO] - Re_Smush_It_Task - Attachment ID : 2683, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:55 : INFO] - 93 
+[2019-07-29 03:02:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2683, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:57 : INFO] - 93 
+[2019-07-29 03:02:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2683, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:02:59 : INFO] - 93 
+[2019-07-29 03:03:02 : INFO] - Re_Smush_It_Task - Attachment ID : 2683, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:02 : INFO] - 93 
+[2019-07-29 03:03:04 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/8-1536028606.png.The file was compressed from 141.11 KB to 64.38 KB saving 54.38 percent using WP-Optimize 
+[2019-07-29 03:03:04 : INFO] - Completed processing task with ID : 209, and type 'smush' 
+[2019-07-29 03:03:04 : INFO] - Processing task with ID : 210, and type 'smush' 
+[2019-07-29 03:03:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2680, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:04 : INFO] - 93 
+[2019-07-29 03:03:07 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/8-1536028605-updraft-pre-smush-original.jpeg 
+[2019-07-29 03:03:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2680, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:07 : INFO] - 93 
+[2019-07-29 03:03:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2680, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:10 : INFO] - 93 
+[2019-07-29 03:03:12 : INFO] - Re_Smush_It_Task - Attachment ID : 2680, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:12 : INFO] - 93 
+[2019-07-29 03:03:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2680, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:14 : INFO] - 93 
+[2019-07-29 03:03:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2680, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:16 : INFO] - 93 
+[2019-07-29 03:03:19 : INFO] - Re_Smush_It_Task - Attachment ID : 2680, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:19 : INFO] - 93 
+[2019-07-29 03:03:22 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/8-1536028605.jpeg.The file was compressed from 38.85 KB to 37.04 KB saving 4.64 percent using WP-Optimize 
+[2019-07-29 03:03:22 : INFO] - Completed processing task with ID : 210, and type 'smush' 
+[2019-07-29 03:03:22 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 03:03:22 
+[2019-07-29 03:03:22 : INFO] - Processing task with ID : 211, and type 'smush' 
+[2019-07-29 03:03:22 : INFO] - Re_Smush_It_Task - Attachment ID : 2681, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:22 : INFO] - 93 
+[2019-07-29 03:03:24 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/10-1536028605-updraft-pre-smush-original.gif 
+[2019-07-29 03:03:24 : INFO] - Re_Smush_It_Task - Attachment ID : 2681, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:24 : INFO] - 93 
+[2019-07-29 03:03:26 : INFO] - Re_Smush_It_Task - Attachment ID : 2681, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:26 : INFO] - 93 
+[2019-07-29 03:03:28 : INFO] - Re_Smush_It_Task - Attachment ID : 2681, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:28 : INFO] - 93 
+[2019-07-29 03:03:29 : INFO] - Re_Smush_It_Task - Attachment ID : 2681, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:29 : INFO] - 93 
+[2019-07-29 03:03:31 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/10-1536028605.gif.The file was compressed from 43.36 KB to 43.36 KB saving 0 percent using WP-Optimize 
+[2019-07-29 03:03:31 : INFO] - Completed processing task with ID : 211, and type 'smush' 
+[2019-07-29 03:03:31 : INFO] - Processing task with ID : 212, and type 'smush' 
+[2019-07-29 03:03:31 : INFO] - Re_Smush_It_Task - Attachment ID : 2682, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:31 : INFO] - 93 
+[2019-07-29 03:03:36 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/0-1536028605-updraft-pre-smush-original.jpeg 
+[2019-07-29 03:03:36 : INFO] - Re_Smush_It_Task - Attachment ID : 2682, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:36 : INFO] - 93 
+[2019-07-29 03:03:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2682, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:37 : INFO] - 93 
+[2019-07-29 03:03:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2682, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:39 : INFO] - 93 
+[2019-07-29 03:03:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2682, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:42 : INFO] - 93 
+[2019-07-29 03:03:45 : INFO] - Re_Smush_It_Task - Attachment ID : 2682, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:03:45 : INFO] - 93 
+[2019-07-29 03:13:31 : INFO] - 
+ 
+[2019-07-29 03:13:31 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 03:13:31 +0000 on http://localhost 
+[2019-07-29 03:13:31 : INFO] - WP: 5.2.2 
+[2019-07-29 03:13:31 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 03:13:31 : INFO] - MySQL: 5.5.53 
+[2019-07-29 03:13:31 : INFO] - WPLANG: zh_CN 
+[2019-07-29 03:13:31 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 03:13:31 : INFO] - Outbound connections: N 
+[2019-07-29 03:13:31 : INFO] - safe_mode: 0 
+[2019-07-29 03:13:31 : INFO] - max_execution_time: 3000 
+[2019-07-29 03:13:31 : INFO] - memory_limit: 128M (used: 21.5M | 24M) 
+[2019-07-29 03:13:31 : INFO] - multisite: N 
+[2019-07-29 03:13:31 : INFO] - openssl: N 
+[2019-07-29 03:13:32 : INFO] - A total of 294 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 03:13:32 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 03:13:32 
+[2019-07-29 03:13:32 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 03:13:32 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 03:13:32 
+[2019-07-29 03:13:32 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 03:13:35 : INFO] - Task with ID 212 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 03:13:35 : INFO] - Processing task with ID : 213, and type 'smush' 
+[2019-07-29 03:13:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2677, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:13:35 : INFO] - 93 
+[2019-07-29 03:13:39 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/5-1536028601-updraft-pre-smush-original.png 
+[2019-07-29 03:13:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2677, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:13:39 : INFO] - 93 
+[2019-07-29 03:13:41 : INFO] - Re_Smush_It_Task - Attachment ID : 2677, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:13:41 : INFO] - 93 
+[2019-07-29 03:13:43 : INFO] - Re_Smush_It_Task - Attachment ID : 2677, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:13:43 : INFO] - 93 
+[2019-07-29 03:13:45 : INFO] - Re_Smush_It_Task - Attachment ID : 2677, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:13:45 : INFO] - 93 
+[2019-07-29 03:13:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2677, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:13:47 : INFO] - 93 
+[2019-07-29 03:13:51 : INFO] - Re_Smush_It_Task - Attachment ID : 2677, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:13:51 : INFO] - 93 
+[2019-07-29 03:13:54 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/5-1536028601.png.The file was compressed from 141.11 KB to 64.38 KB saving 54.38 percent using WP-Optimize 
+[2019-07-29 03:13:54 : INFO] - Completed processing task with ID : 213, and type 'smush' 
+[2019-07-29 03:13:54 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 03:13:54 
+[2019-07-29 03:13:54 : INFO] - Processing task with ID : 214, and type 'smush' 
+[2019-07-29 03:13:54 : INFO] - Re_Smush_It_Task - Attachment ID : 2676, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:13:54 : INFO] - 93 
+[2019-07-29 03:14:25 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/6-1536028598-updraft-pre-smush-original.jpeg 
+[2019-07-29 03:14:25 : INFO] - Re_Smush_It_Task - Attachment ID : 2676, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:25 : INFO] - 93 
+[2019-07-29 03:14:26 : INFO] - Re_Smush_It_Task - Attachment ID : 2676, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:26 : INFO] - 93 
+[2019-07-29 03:14:28 : INFO] - Re_Smush_It_Task - Attachment ID : 2676, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:28 : INFO] - 93 
+[2019-07-29 03:14:32 : INFO] - Re_Smush_It_Task - Attachment ID : 2676, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:32 : INFO] - 93 
+[2019-07-29 03:14:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2676, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:37 : INFO] - 93 
+[2019-07-29 03:14:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2676, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:39 : INFO] - 93 
+[2019-07-29 03:14:41 : INFO] - Re_Smush_It_Task - Attachment ID : 2676, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:41 : INFO] - 93 
+[2019-07-29 03:14:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2676, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:44 : INFO] - 93 
+[2019-07-29 03:14:47 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/6-1536028598.jpeg.The file was compressed from 1.00 MB to 954.38 KB saving 7.16 percent using WP-Optimize 
+[2019-07-29 03:14:47 : INFO] - Completed processing task with ID : 214, and type 'smush' 
+[2019-07-29 03:14:47 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 03:14:47 
+[2019-07-29 03:14:47 : INFO] - Processing task with ID : 215, and type 'smush' 
+[2019-07-29 03:14:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2674, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:47 : INFO] - 93 
+[2019-07-29 03:14:50 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/10-1536028596-updraft-pre-smush-original.gif 
+[2019-07-29 03:14:50 : INFO] - Re_Smush_It_Task - Attachment ID : 2674, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:50 : INFO] - 93 
+[2019-07-29 03:14:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2674, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:52 : INFO] - 93 
+[2019-07-29 03:14:53 : INFO] - Re_Smush_It_Task - Attachment ID : 2674, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:53 : INFO] - 93 
+[2019-07-29 03:14:55 : INFO] - Re_Smush_It_Task - Attachment ID : 2674, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:55 : INFO] - 93 
+[2019-07-29 03:14:57 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/10-1536028596.gif.The file was compressed from 43.36 KB to 43.36 KB saving 0 percent using WP-Optimize 
+[2019-07-29 03:14:57 : INFO] - Completed processing task with ID : 215, and type 'smush' 
+[2019-07-29 03:14:57 : INFO] - Processing task with ID : 216, and type 'smush' 
+[2019-07-29 03:14:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2675, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:14:57 : INFO] - 93 
+[2019-07-29 03:23:46 : INFO] - 
+ 
+[2019-07-29 03:23:46 : INFO] - Header for logs at time:  Mon, 29 Jul 2019 03:23:46 +0000 on http://localhost 
+[2019-07-29 03:23:46 : INFO] - WP: 5.2.2 
+[2019-07-29 03:23:46 : INFO] - PHP: 7.0.12 (cgi-fcgi, Windows NT DESKTOP-V1LJ77S 10.0 build 18362 (Windows 10) i586) 
+[2019-07-29 03:23:46 : INFO] - MySQL: 5.5.53 
+[2019-07-29 03:23:46 : INFO] - WPLANG: zh_CN 
+[2019-07-29 03:23:46 : INFO] - Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 
+[2019-07-29 03:23:46 : INFO] - Outbound connections: N 
+[2019-07-29 03:23:46 : INFO] - safe_mode: 0 
+[2019-07-29 03:23:46 : INFO] - max_execution_time: 3000 
+[2019-07-29 03:23:46 : INFO] - memory_limit: 128M (used: 21.5M | 24M) 
+[2019-07-29 03:23:46 : INFO] - multisite: N 
+[2019-07-29 03:23:46 : INFO] - openssl: N 
+[2019-07-29 03:23:46 : INFO] - A total of 290 tasks of type smush found and will be processed in this iteration 
+[2019-07-29 03:23:46 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-07-29 03:23:46 
+[2019-07-29 03:23:46 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-07-29 03:23:46 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 03:23:46 
+[2019-07-29 03:23:46 : INFO] - Semaphore lock (smush) complete 
+[2019-07-29 03:23:49 : INFO] - Task with ID 216 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-07-29 03:23:49 : INFO] - Processing task with ID : 217, and type 'smush' 
+[2019-07-29 03:23:49 : INFO] - Re_Smush_It_Task - Attachment ID : 2673, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:23:49 : INFO] - 93 
+[2019-07-29 03:23:53 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/3-1536028595-updraft-pre-smush-original.jpeg 
+[2019-07-29 03:23:53 : INFO] - Re_Smush_It_Task - Attachment ID : 2673, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:23:53 : INFO] - 93 
+[2019-07-29 03:23:54 : INFO] - Re_Smush_It_Task - Attachment ID : 2673, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:23:54 : INFO] - 93 
+[2019-07-29 03:23:56 : INFO] - Re_Smush_It_Task - Attachment ID : 2673, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:23:56 : INFO] - 93 
+[2019-07-29 03:23:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2673, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:23:59 : INFO] - 93 
+[2019-07-29 03:24:02 : INFO] - Re_Smush_It_Task - Attachment ID : 2673, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:02 : INFO] - 93 
+[2019-07-29 03:24:03 : INFO] - Re_Smush_It_Task - Attachment ID : 2673, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:03 : INFO] - 93 
+[2019-07-29 03:24:05 : INFO] - Re_Smush_It_Task - Attachment ID : 2673, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:05 : INFO] - 93 
+[2019-07-29 03:24:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2673, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:07 : INFO] - 93 
+[2019-07-29 03:24:10 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/3-1536028595.jpeg.The file was compressed from 108.42 KB to 103.14 KB saving 4.87 percent using WP-Optimize 
+[2019-07-29 03:24:11 : INFO] - Completed processing task with ID : 217, and type 'smush' 
+[2019-07-29 03:24:11 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 03:24:11 
+[2019-07-29 03:24:11 : INFO] - Processing task with ID : 218, and type 'smush' 
+[2019-07-29 03:24:11 : INFO] - Re_Smush_It_Task - Attachment ID : 2670, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:11 : INFO] - 93 
+[2019-07-29 03:24:15 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/10-1536028591-updraft-pre-smush-original.png 
+[2019-07-29 03:24:15 : INFO] - Re_Smush_It_Task - Attachment ID : 2670, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:15 : INFO] - 93 
+[2019-07-29 03:24:17 : INFO] - Re_Smush_It_Task - Attachment ID : 2670, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:17 : INFO] - 93 
+[2019-07-29 03:24:20 : INFO] - Re_Smush_It_Task - Attachment ID : 2670, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:20 : INFO] - 93 
+[2019-07-29 03:24:22 : INFO] - Re_Smush_It_Task - Attachment ID : 2670, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:22 : INFO] - 93 
+[2019-07-29 03:24:24 : INFO] - Re_Smush_It_Task - Attachment ID : 2670, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:24 : INFO] - 93 
+[2019-07-29 03:24:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2670, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:27 : INFO] - 93 
+[2019-07-29 03:24:29 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/10-1536028591.png.The file was compressed from 141.11 KB to 64.38 KB saving 54.38 percent using WP-Optimize 
+[2019-07-29 03:24:29 : INFO] - Completed processing task with ID : 218, and type 'smush' 
+[2019-07-29 03:24:29 : INFO] - Processing task with ID : 219, and type 'smush' 
+[2019-07-29 03:24:29 : INFO] - Re_Smush_It_Task - Attachment ID : 2668, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:29 : INFO] - 93 
+[2019-07-29 03:24:32 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/3-1536028590-updraft-pre-smush-original.gif 
+[2019-07-29 03:24:32 : INFO] - Re_Smush_It_Task - Attachment ID : 2668, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:32 : INFO] - 93 
+[2019-07-29 03:24:33 : INFO] - Re_Smush_It_Task - Attachment ID : 2668, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:34 : INFO] - 93 
+[2019-07-29 03:24:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2668, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:35 : INFO] - 93 
+[2019-07-29 03:24:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2668, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:37 : INFO] - 93 
+[2019-07-29 03:24:39 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/3-1536028590.gif.The file was compressed from 43.36 KB to 43.36 KB saving 0 percent using WP-Optimize 
+[2019-07-29 03:24:39 : INFO] - Completed processing task with ID : 219, and type 'smush' 
+[2019-07-29 03:24:39 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 03:24:39 
+[2019-07-29 03:24:39 : INFO] - Processing task with ID : 220, and type 'smush' 
+[2019-07-29 03:24:39 : INFO] - Re_Smush_It_Task - Attachment ID : 2669, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:39 : INFO] - 93 
+[2019-07-29 03:24:42 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/10-1536028590-updraft-pre-smush-original.jpeg 
+[2019-07-29 03:24:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2669, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:42 : INFO] - 93 
+[2019-07-29 03:24:44 : INFO] - Re_Smush_It_Task - Attachment ID : 2669, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:44 : INFO] - 93 
+[2019-07-29 03:24:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2669, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:46 : INFO] - 93 
+[2019-07-29 03:24:48 : INFO] - Re_Smush_It_Task - Attachment ID : 2669, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:48 : INFO] - 93 
+[2019-07-29 03:24:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2669, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:52 : INFO] - 93 
+[2019-07-29 03:24:54 : INFO] - Re_Smush_It_Task - Attachment ID : 2669, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:54 : INFO] - 93 
+[2019-07-29 03:24:56 : INFO] - Re_Smush_It_Task - Attachment ID : 2669, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:56 : INFO] - 93 
+[2019-07-29 03:24:58 : INFO] - Re_Smush_It_Task - Attachment ID : 2669, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:24:58 : INFO] - 93 
+[2019-07-29 03:25:00 : INFO] - Successfully optimized the image - C:\Users\M\Documents\GitHub\MWP/wp-content/uploads/2018/09/10-1536028590.jpeg.The file was compressed from 116.59 KB to 112.75 KB saving 3.29 percent using WP-Optimize 
+[2019-07-29 03:25:00 : INFO] - Completed processing task with ID : 220, and type 'smush' 
+[2019-07-29 03:25:00 : INFO] - Set semaphore last lock (smush) time to 2019-07-29 03:25:00 
+[2019-07-29 03:25:00 : INFO] - Processing task with ID : 221, and type 'smush' 
+[2019-07-29 03:25:00 : INFO] - Re_Smush_It_Task - Attachment ID : 2667, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:25:00 : INFO] - 93 
+[2019-07-29 03:25:04 : INFO] - Backing up the original image - C:/Users/M/Documents/GitHub/MWP/wp-content/uploads/2018/09/10-1536028589-updraft-pre-smush-original.jpeg 
+[2019-07-29 03:25:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2667, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:25:04 : INFO] - 93 
+[2019-07-29 03:25:06 : INFO] - Re_Smush_It_Task - Attachment ID : 2667, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:25:06 : INFO] - 93 
+[2019-07-29 03:25:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2667, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:25:07 : INFO] - 93 
+[2019-07-29 03:25:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2667, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:25:10 : INFO] - 93 
+[2019-07-29 03:25:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2667, Started on : July 28, 2019 09:35:23 
+[2019-07-29 03:25:14 : INFO] - 93 

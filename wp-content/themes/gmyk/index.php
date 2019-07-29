@@ -4,10 +4,15 @@
 
 <div class="indexbanner">
  
-            <?php echo do_shortcode('[metaslider id="164"]'); ?>
- 
+<?php 
+echo do_shortcode('[smartslider3 slider=2]');
+?>
+
+<!-- 
     <a class="bannerleft" href="javascript:;">&nbsp;</a>
     <a class="bannerright" href="javascript:;">&nbsp;</a>
+-->
+	
 </div>
 
 <div class="indexpagescont web clearfix">
@@ -103,12 +108,12 @@
                                 
   								 
 								    <?php foreach ($posts as $post) : setup_postdata($post); ?>  
-							         <li>
-                                    <div class="imgDiv" href="<?php the_permalink()?>" width="312" height="220" ><a href="<?php the_permalink()?>"><?php the_post_thumbnail(); ?></a> 
 									
-							 
-									 </div>
+							        <li>
+                                    <div class="imgDiv" href="<?php the_permalink()?>" width="312" height="220" ><a href="<?php the_permalink()?>"><?php the_post_thumbnail(); ?></a> 
+									</div>
 								    </li>			
+									
                                     <?php endforeach; ?>  
                                  
 							 
@@ -116,10 +121,9 @@
 			             
 			
 			            </ul>
-			<!--
-                <a class="nsleft" href="javascript:;"></a>
-                <a class="nsright" href="javascript:;"></a>
-			-->	
+                <a class="nsleft" style="background: url(/wp-content/themes/gmyk/img/img137.png) no-repeat -10px -127px;position:absolute;height: 34px;width: 30px;top: 90px;" href="javascript:;"></a>
+                <a class="nsright" style="background: url(/wp-content/themes/gmyk/img/img137.png) no-repeat -103px -127px;position:absolute;height: 34px;width: 30px;top: 90px;" href="javascript:;"></a>
+	
             </div>
 			
         </div>
@@ -249,7 +253,7 @@
                                 
   								 
 								    <?php foreach ($posts as $post) : setup_postdata($post); ?>  
-                                    <dt style="height:33px;padding-left:20px;padding-top:4px;background:url(<?php echo get_theme_file_uri(''); ?>/img/sideNav.gif) no-repeat scroll 0px center;">【
+                                    <dt style="height:33px;line-height:26px;padding-left:20px;padding-top:4px;background:url(<?php echo get_theme_file_uri(''); ?>/img/sideNav.gif) no-repeat scroll 0px center;">【
 									<?php $category = get_the_category();
 									echo $category[0]->cat_name;?>】
 									<a href="<?php the_permalink()?>" style="font-size:16px;"> <?php customTitle(70); ?> </a> 
@@ -271,7 +275,7 @@
                                 
   								 
 								    <?php foreach ($posts as $post) : setup_postdata($post); ?>  
-                                    <dt style="height:33px;padding-left:20px;padding-top:4px;background:url(<?php echo get_theme_file_uri(''); ?>/img/sideNav.gif) no-repeat scroll 0px center;">【
+                                    <dt style="height:33px;line-height:26px;padding-left:20px;padding-top:4px;background:url(<?php echo get_theme_file_uri(''); ?>/img/sideNav.gif) no-repeat scroll 0px center;">【
 									<?php $category = get_the_category();
 									echo $category[0]->cat_name;?>】
 									<a href="<?php the_permalink()?>" style="font-size:16px;"> <?php customTitle(70); ?> </a> 
