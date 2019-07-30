@@ -21,11 +21,11 @@
 /** The name of the database for WordPress */
 define('DB_NAME', 'gmyk');
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'gmyk');
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'gmyk');
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '127.0.0.1');
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
 /** The Database Collate type. Don't change this if in doubt. */
@@ -70,7 +70,7 @@ $table_prefix  = 'wp_';
 define('WP_DEBUG', false);
 define('MULTISITE', false);
 define('SUBDOMAIN_INSTALL', false);
-define('DOMAIN_CURRENT_SITE', 'localhost');
+define('DOMAIN_CURRENT_SITE', '127.0.0.1');
 define('PATH_CURRENT_SITE', '/');
 define('SITE_ID_CURRENT_SITE', 1);
 define('BLOG_ID_CURRENT_SITE', 1);
