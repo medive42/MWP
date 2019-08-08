@@ -1,0 +1,84 @@
+﻿@charset "utf-8";
+/*医生介绍*/
+.zx_icon { background:#2488c3 ; border-radius: 4px; color: #fff!important; display: inline-block; font-size: 12px; height: 17px; line-height: 17px; text-align: center; padding:0 2px; font-weight: normal;margin-left:15px;}
+.zx_icon:hover{ opacity:0.7;}
+.content_top_ul { margin-top:10px;float:left;zoom:1;}
+.content_top_ul li { width:475px;height:160px;overflow: hidden;float:left; background:#f5f5f5; padding:10px;margin-right:15px;-webkit-transition: all ease .3s; transition: all ease .3s;}
+.content_top_ul li:hover{ cursor:pointer; background:#e4e4e4;}
+.content_top_ul li a img{height:155px;width:120px;float:left;padding:2px;border:1px solid #ccdee6;margin-right:18px;}
+.content_top_ul li h2 { font-size:16px;line-height: 32px;}
+.content_top_ul li h2 a { color:#000000;}
+.content_top_ul li p{color: #000000;font-size: 14px;line-height: 27px;}
+.content_top_ul li p span{color:#333;}
+.zj {overflow:hidden;}
+.zj p span.cz{margin-left:-6px;}
+.DoctorXX p span.cz{margin-left:-6px;}
+.scr_cont { width:110000px; height: 190px;overflow: hidden;}
+.doctor_ltd_inside { overflow:hidden;position:relative;zoom:1;width:1160px;}
+.menuCount h3 {height:45px;background:url(../../common/images/ysjj_tit.jpg) no-repeat left top;font:bold 14px/45px "宋体";color:#FFF;padding-left:20px;margin-top:15px;}
+.ChuZhen{ color:#2488c3 !important;}
+
+
+/*医生介绍列表*/
+.menuB .menuCount{border-bottom:1px dashed #DFDFDF;margin:20px 0px;_height:30px;}
+.DepName {background:#2488c3;color:#FFFFFF;float:left;font-size:19px;font-weight:100;height:30px;line-height:30px;text-align:center;width:180px}
+.DepName a{color:#FFFFFF; display:block;}
+.DepName a:hover{ text-decoration:none; background:#2488c3;_color:#fff;}
+.menuCount ul {float:right;width:940px}
+.menuCount ul li {float:left;font-size:15px;height:30px;line-height:30px;padding-left:20px;width:85px;position:relative}
+.menuCount ul li a{display: block}
+.DoctorXX {background:#f5f5f5;border:1px solid #DDDDDD;padding:15px;position:absolute;width:348px;z-index:100;left:0px;top: 38px;height:155px;/* overflow:hidden; */}
+.DoctorXX img {float:left;height:155px;margin-right:10px;/* width:120px */}
+.DoctorXX p{ color:#2488c3 ;font-size: 14px;line-height: 28px;}
+.DoctorXX p span{color: #333}
+.DoctorXX span.sj{width:17px;height:9px;display:block;position: absolute;top: 0px;z-index: 11111111111111;margin-top: -9px;}
+.DoctorXX span.sj img{width: 17px !important;height:9px;float: none;margin-right: 0px;vertical-align: top;}
+/*未开启医生站点*/
+.doc_jj_con{padding-top:25px;}
+.doc_jj_con p{font-size: 14px;line-height: 28px;}
+.zj_img{float: left;text-align: center;border:1px solid #eee;padding:5px;margin-right:15px;position: relative;}
+.doc_dh{position:absolute;width:35px;height:35px;left:0;right:0;background:url(/Content/Areas/Common/images/department/icon_4.gif) no-repeat ;top:0px}
+p.pic-info{font-size: 14px;line-height: 28px;}
+p.pic-info a{cursor: pointer;}
+p.docimg img{width:120px;height:155px;}
+.zj_cont p strong{color:#2488c3}
+.zj_cont p span a{color:#222;font-weight:100}
+.zj_cont p span a:hover{color:#2488c3;}
+.zj_cont p{line-height: 28px;}
+.zj_cont p .xiangTzx,.zj_cont dl dt .xiangTzx{ background: #d44137 ; border-radius: 4px; color: #fff; display: inline-block; font-size: 12px; height: 17px;line-height: 17px; margin-left: 10px; text-align: center; width: 58px;}
+.zj_cont p .xiangX { background: #fc9e18;border-radius: 4px; color: #fff; display: inline-block; font-size: 12px; height: 17px; line-height: 17px; margin-left: 10px; text-align: center; width: 33px;}
+.zj_cont dl dt .yuey{ background: #399859;border-radius: 4px; color: #fff; display: inline-block; font-size: 12px; height: 17px; line-height: 17px; margin-left: 10px; text-align: center; width: 33px;}
+.zj_cont p .xiangTzx:hover,.zj_cont p .xiangX:hover,.zj_cont dl dt .xiangTzx:hover,.zj_cont p .yuey:hover,.zj_cont dl dt .yuey:hover {opacity:0.7;filter:alpha(opacity=70)}
+.doc_name_list{border-top:1px dotted #c0c0c0;padding:4px 0;margin:20px 0 0 0}
+.doc_name_list a{line-height:30px;padding:0 10px 0 20px;background:url(/Content/Areas/Common/images/Article/icon_2.png) no-repeat scroll 9px 10px;font-size:14px;}
+
+.title_header{padding:0 20px;}
+
+
+ @media only screen and (max-width:768px)
+ {
+ .main_con{width:100%;float: none;}
+ .DoctorCount{ width:95%;margin:0 auto;padding:0;box-sizing:border-box;-moz-box-sizing:border-box; /* Firefox */-webkit-box-sizing:border-box; /* Safari */} 
+ .doctor_ltd_inside{width:100%;}
+ .DoctorXX{ display:none!important}
+ .menuCount ul{ width:98%}
+ .DepName{ width:100%}
+ .content_top h3, .Title1{ border:none}
+ .content_bot .menuB{ padding:10px;border:none}
+ .content_bot .menuB .menuCount{ margin:10px 0px;}
+ .pd20,.title_header{ padding: 0;}
+}
+
+@media only screen and (max-width:640px)
+{ 
+ .menuCount ul{ width:100%;box-sizing:border-box;-moz-box-sizing:border-box; /* Firefox */-webkit-box-sizing:border-box; /* Safari */}
+ .menuCount ul li{ width:25%;box-sizing:border-box;-moz-box-sizing:border-box; /* Firefox */-webkit-box-sizing:border-box; /* Safari */}
+ .content_top_ul li{width:300px;}
+ .DoctorCount{width:90%;}
+}
+@media only screen and (max-width:360px)
+{
+ .DoctorCount{width:86%;}
+}
+ 
+  
