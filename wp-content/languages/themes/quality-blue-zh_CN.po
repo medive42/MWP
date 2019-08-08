@@ -1,0 +1,48 @@
+# Translation of Themes - Quality blue in Chinese (China)
+# This file is distributed under the same license as the Themes - Quality blue package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-26 14:48:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Quality blue\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme which is ideal for creating a corporate or business website. Quality Blue is a colored-variation child theme of Quality. Quality Blue comes with various locales."
+msgstr "一个商业主题，它是创建企业或商业站点的理想选择。Quality Blue是色彩变化的子主题。Quality Blue可用于在不同的语言环境上。"
+
+#. Theme Name of the plugin/theme
+msgid "Quality blue"
+msgstr "Quality blue"
+
+#. Template Name of the plugin/theme
+msgid "Blog-Left Sidebar"
+msgstr "博格-左边栏"
+
+#: template-blog-left-sidebar.php:64
+msgid "Next"
+msgstr "下一个"
+
+#: template-blog-left-sidebar.php:63
+msgid "Previous"
+msgstr "上一"
+
+#: template-blog-left-sidebar.php:56
+msgid "Read More"
+msgstr "阅读更多"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/quality-blue-child-version-details-page/"
+msgstr "https://webriti.com/quality-blue-child-version-details-page/"
