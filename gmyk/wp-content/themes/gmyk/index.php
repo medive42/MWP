@@ -153,7 +153,7 @@ echo do_shortcode('[smartslider3 slider=2]');
 
         </div>
     <div class="fr indexPart3" style="width:380px;height:280px;padding-top:0;display:block;">
-        <div class="moduletitle clearfix" style="line-height:16px;display:block;">
+        <div class="moduletitle clearfix" style="line-height:17px;display:block;">
                 <h4>专家风采 <span>medical service</span><a class="inmore" href="/?cat=37" >更多 +</a></h4>
         </div>
        
