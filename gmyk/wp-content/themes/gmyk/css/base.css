@@ -1,0 +1,120 @@
+﻿img { border:0;}
+
+/*f_开头为float漂浮,l:左 r:右*/
+.f_l, #slide{ float:left;}
+.f_r, .date { float:right;}
+
+
+/*图片内容页*/
+#ArtFrom{margin-bottom:0;border-bottom:0}
+#ArticleCnt{margin-top:10px; width:100%; text-align:center;}
+#lantern { width:800px; margin:0px auto; background:#f4f4f4;overflow:hidden;}
+#tool { background:url(/images/common/pic_tool.gif) repeat-x;height:33px; border-bottom:#FFF solid 1px }
+#tool .f_l{ margin:6px 0 0 12px;font-size:12px}
+#tool .f_r{ margin:6px 9px 0 0 }
+#pagejump{ margin-left:5px}
+#bimg {margin:7px 0px; text-align:center; width:800px; overflow:hidden;overflow:hidden;}
+#bpic {width:800px;}
+#simg {height:75px;padding-top:8px;background:url(/images/common/tool_img.gif) repeat-x #E9E9E9}
+#simg .p{ float:left;width:22px;text-align:right;text-indent:0; cursor:pointer;}
+#simg .n{ float:right;width:22px;text-align:left;text-indent:0;cursor:pointer;}
+#simg img.s{ filter:alpha(opacity=100);-moz-opacity:1;opacity:1;}
+#simg img{text-indent:0}
+#sImage{float:left;width:94%;height:68px;overflow:scroll;overflow-y:hidden;overflow-x:hidden}
+#sImage div{ width:70px;  height:60px; line-height:60px; background:#ececec; display:block; text-align:center; vertical-align:middle; float:left; display:inline; overflow:hidden; border:#C7C7C7 solid 1px; margin:0 0 8px 8px;}
+#sImage img{ filter:alpha(opacity=60);-moz-opacity:0.6;opacity:0.6; text-indent:0; vertical-align:middle;}
+#Explain { padding:5px 15px 0 15px;margin:0 auto; line-height:18px; font-size:12px}
+#Explain p{margin:0;padding:0;font-size:12px;}
+.ss{filter:alpha(opacity=30);-moz-opacity:0.3;opacity:0.3;}
+#butStop,#ArtPLinkTop,#ArtPLink,#cntLeft #Article #atPage{display:block;}
+#hdcnt p{text-indent:2em}
+#hdcnt{margin-bottom:40px}
+#ArticleCnt,#ArtCnt{text-indent:0}
+
+/*综合*/
+div,form,img,ul,ol,li,dl,dt,dd {margin: 0; padding: 0; border: 0;}
+
+
+/*翻页*/
+.page{padding-left:10px; margin:0 auto; margin-top:10px;  }
+.page ul{ list-style:none; }
+.page li{ float:left; margin-left:5px; background:url() !important;  }
+
+
+.pagelist{width:95%;text-align:center !important;}
+
+
+/*相关搜索*/
+.xg {
+	BORDER-RIGHT: #eeeeee 1px solid; BORDER-TOP: #eeeeee 1px solid; FLOAT: right; PADDING-BOTTOM: 10px; margin-top:5px;BORDER-LEFT: #eeeeee 1px solid; WIDTH: 99%; BORDER-BOTTOM: #eeeeee 1px solid; TEXT-ALIGN: left
+}
+.xg_mian{ width:630px; margin:auto; text-align:left; padding-top:10px; }
+.xg_title{  font-weight:bold; color:#505050; padding-top:8px; padding-bottom:9px;}
+.xg_title img{ padding-left:6px; padding-right:6px;} 
+.xg_lb{ padding-left:24px;}
+.xg_lb ul{ width:620px; margin:0px; padding:0px;}
+.xg_lb ul li{line-height: 24px;color: #898989; width:620px;text-decoration: none;text-align:left;}
+.xg_lb ul li a{color:#454545}
+
+/*相关图片*/
+.xgimg {
+	BORDER-RIGHT: #eeeeee 1px solid; BORDER-TOP: #eeeeee 1px solid; FLOAT: right; PADDING-BOTTOM: 10px; margin-top:5px;BORDER-LEFT: #eeeeee 1px solid; WIDTH: 98%; BORDER-BOTTOM: #eeeeee 1px solid; TEXT-ALIGN: left
+}
+.xgimg_mian{ margin:auto; text-align:left; padding-top:10px; }
+.xgimg_title{ font-size:14px; font-weight:bold; color:#505050; padding-top:8px; padding-bottom:9px;}
+.xgimg_title img{ padding-left:6px; padding-right:6px;} 
+.xgimg_lb{ padding-left:24px;}
+.xgimg_lb ul{  margin:0px; padding:0px;text-align:center;list-style:none;margin:0px;}
+.xgimg_lb ul li{font-family: "宋体";font-size: 12px;line-height: 24px;color: #898989; width:120px;list-style-type:none; float:left;}
+
+.xgimg_lb ul li img{border:solid 1px #ccc; padding:2px;}
+.xgimg_lb ul li p{margin:0; padding:0; width:96px; height:25px; line-height:35px; text-align:center; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+
+
+/*相关下载*/
+rjxzlb{ width:621px;  margin:auto; padding-top:4px; padding-bottom:10px;}
+.rjxzlb ul{ margin:0px; padding:0px; list-style:none;}
+.rjxzlb ul li{ width:100%; margin-bottom:15px;clear:both;}
+.rjxzlb ul li h3{ width:100%; background-color:#efefef; height:30PX; display:block; }
+.rjxzlb ul li h3 a.rja_1{ font-size:14px; font-weight:bold; color:#1c395e; margin-left:8px; line-height:30px;}
+.rjxzlb ul li h3 a:hover.rja_1{ color:#CC0000; }
+.rjxzlb ul li h3 a.rja_2{
+	font-size:12px;
+	color:#666666;
+	line-height:30px;
+	margin-left:8px;
+	font-weight: normal;
+}
+.rjxzlb ul li h3 a:hover.rja_2{ color:#CC0000; }
+.rjxzlb ul li span{ color:#65758a; line-height:28px; font-size:12px; margin-left:8px; margin-top:4px; display:block;}
+.rjxzlb ul li p{ color:#999; line-height:20px; font-size:12px; margin-left:8px;}
+
+
+
+.areview{width:95%; margin:0 auto;border:1px solid #dedede;height:auto!important;  height:150px;  min-height:150px;}
+.areview ul{ margin:0 auto; padding-top:10px}
+.areview ul  li{ font-size:12px; line-height:24px; float:left; }
+.areview ul .ls_1{ font-size:14px; font-weight:bold}
+.areview ul .ls_2{color:#0f6b99; font-size:12px}
+
+.ls_2span1{color:#666666; float:right; font-size:12px}
+.ls_2span2{color:#666666; font-size:12px;display:inline-block}
+.areview ul .ls_5{color:#666666; font-size:12px; text-align:right;width:100%}
+.areview ul .ls_5 a{color:#0f6b99}
+.areview ul .ls_5 a:hover{color:#900; }
+.areview ul .ls_3{width:100%;float:left; display:inline;border-bottom:1px solid #dedede; line-height:1px}
+.areview ul .ls_4{}
+.areview ul{width:95%;float:left; display:inline; line-height:1px; margin-left:23px}
+.areview .areviewc{width:95%; margin-left:23px; float:left; display:inline; margin-top:10px}
+.areview .areviewc .ls_6{width:40px; float:left;font-size:12px; line-height:25px;color:#454545}
+.areview .areviewc .ls_7{ float:left}
+.inputarevtitle{border:1px solid #a6c1d7; width:150px; height:22px;line-height:22px;}
+.inputarevcontent{border:1px solid #a6c1d7; width:95%; height:100px;line-height:22px; padding-left:8px; padding-right:5px;}
+.areview .areviewc .butclass{float:right; cursor:pointer}
+.reply{margin:0 auto;border:1px solid #dedede;overflow:hidden; line-height:25px; padding-top:5px; padding-bottom:5px; clear:both}
+.ls_8{ font-size:12px; float:left;padding-left:5px; padding-right:5px;color:#333333;}
+.ls_8 span{float:right; margin-right:8px; }
+.ls_8 a{color:#0f6b99}
+.rgo{background-image:url("/images/common/areviewbut.png"); width:90px; height:28px; line-height:28px; padding-left:10px; font-weight:bold; color:#0f6b99; cursor:pointer;}
+
+

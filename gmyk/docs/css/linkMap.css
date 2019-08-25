@@ -1,0 +1,12 @@
+﻿/*linkmap*/
+.linkmap{ margin:10px auto; width:1180px;padding-left:20px;line-height:30px;background:url(/Content/Areas/Common/images/home.png) no-repeat 0 8px;font-family: "宋体";}
+.linkmap span{font-size:17px;}
+.linkmap a,.linkmap small,.linkmap{ color:#000000;}
+
+.link_list li{ width:308px; float:left; margin:15px 15px 0 15px;}
+.link_list li img{ width:300px; border:1px solid #ccc; padding:1px;}
+.link_list li p{ width:300px; text-align:center; line-height:30px; font-size:14px;}
+
+@media only screen and (max-width: 768px) {
+ .linkmap{width:90%;box-sizing:border-box;}
+}  
